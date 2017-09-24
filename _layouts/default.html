@@ -1,0 +1,114 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	
+	<head>
+		<title>CFLib.org &ndash; {{ page.title }}</title>
+		<meta name="description" content="CFLib is a open source collection of user defined functions written in ColdFusion." />
+		<meta name="keywords" content="coldfusion,udf,user defined function,raymond camden,cold fusion" />
+		<link rel="stylesheet" href="/css/reset.css" type="text/css" media="all" charset="utf-8">
+		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="all" charset="utf-8">
+		<!--[if IE 6]><link rel="stylesheet" href="/css/ie6.css" type="text/css" /><![endif]-->
+		<link rel="stylesheet" href="/css/prism.css" type="text/css" media="all">
+		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script type="text/javascript" src="/js/application.js"></script>
+		<script type="text/javascript" src="/js/prism.js"></script>
+		<script type="text/javascript" src="/js/sifr.js"></script>
+		<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss" />
+		<link rel="shortcut icon" href="/images/favicon_cflib.ico">
+	</head>
+
+	<body>
+
+			<div id="hd">
+				<h1 id="logo" class="bgreplace"><a href="/">CFLib.org &ndash; Common Function Library Project</a></h1>
+			</div>
+		
+		<div id="contentWrapper">	
+			<div id="content" class="clear">
+				<div class="submitAndRss">
+					<ul>
+						<li id="tsubmitudf"><a href="/submit">Submit UDF</a></li>
+						<li id="trss"><a href="/rss">RSS</a></li>
+					</ul>
+				</div>
+				<div class="leftColumn">
+
+                    {{ content }}
+
+				</div>
+				
+				<div class="rightColumn">
+					<div class="searchForm">
+						<h3><span>Search CFLib.org</span></h3>
+
+						<form method="get" action="/search">
+							<input type="text" name="search" id="search" size="15" maxlength="255"/> <input type="submit" value="Search" onclick="return ($('#search').val() != '')"> <br/>
+						</form>
+					</div>
+					<div class="latestAdditions">
+                        <h3><span>Latest Additions</span></h3>
+                        <!--
+						<%
+							var latest = public.udfs.getLatest();
+							for(var i=0;i<latest.length;i++) {
+						%>
+							<div class="person clear">
+								<p>
+									<img src="<%= public.udfs.gravatar(latest[i].authorEmail) %>" title="<%- latest[i].author %>" class="img-left gravatar" />
+									<span class="name"><%- latest[i].author %> added</span> <br/>
+									<a href="/udf/<%= latest[i].name %>"><%= public.udfs.truncate(latest[i].name) %></a> <br/>
+									<span class="time"><%= public.udfs.dateFormat(new Date(latest[i].lastUpdated)) %></span>
+								
+								</p>
+							</div>
+						<%
+							}
+						%>
+                         -->
+					</div>
+<!--
+<div style="margin: 5px;padding-top:5px;padding-bottom:5px;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-1736437642005360"
+     data-ad-slot="1783277090"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+-->
+					
+				</div>
+			</div>	
+		</div>
+		
+		
+		<div id="ft">
+			<div class="ft_content clear">
+			<p class="created">Created by <a href="http://www.raymondcamden.com">Raymond Camden</a> / Design by <a href="mailto:justinjohnson@system7designs.com">Justin Johnson</a></p>
+			<p class="copyright">
+				Copyright {{ 'now' | date: "%Y" }}, All Rights Reserved <br/>
+				<a href="/submit">Submit A UDF</a> | <a href="/rss">RSS</a>
+			</p>
+			</div>
+		</div>
+		<script type="text/javascript">
+		if(typeof sIFR == "function"){
+		    sIFR.replaceElement(".leftColumn h2", named({sFlashSrc: "/swfs/futura.swf", sColor: "#4e9ad0"}));
+		 	sIFR.replaceElement(".submissionAndUpdates h4", named({sFlashSrc: "/swfs/futura.swf", sColor: "#4e9ad0"}));
+		};
+		</script>		
+	<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-70863-4");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script></body>
+
+</html>		
+	

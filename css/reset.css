@@ -1,0 +1,134 @@
+/*
+*
+*	Global Styles Rules
+*	JJohnson 
+*
+*/
+
+.clear 			{ clear:both; }
+
+.float-left 	{ float:left; }
+.float-right 	{ float:right; }
+
+.text-left 		{ text-align:left; }
+.text-right 	{ text-align:right; }
+.text-center 	{ text-align:center; }
+.text-justify 	{ text-align:justify; }
+
+.bold 			{ font-weight:bold; }
+.italic 		{ font-style:italic; }
+.underline 		{ border-bottom:1px solid; }
+.highlight 		{ background:#ffc; }
+
+
+.img-left 		{ float:left;margin:4px 10px 4px 0; }
+.img-right 		{ float:right;margin:4px 0 4px 10px; }
+
+.nopadding 		{ padding:0; }
+.noindent 		{ margin-left:0;padding-left:0; }
+.nobullet 		{ list-style:none;list-style-image:none; }
+.noborder		{border: none;}
+.nobackground	{background:none;}
+
+.printhide		{display:none;}
+
+.bgreplace		{text-indent: -9999em; position: relative;}
+.bgreplace a	{position: absolute; display:block; top: 0; left: 0;}
+
+
+.clearafter:after, .clear:after {
+    content: "."; 
+    display: block; 
+    height: 0; 
+    clear: both; 
+    visibility: hidden;
+}
+
+ .clearafter, .clear {display:inline-block;}
+  /* Hide from IE Mac \*/
+ .clearafter, .clear {display:block;}
+ /* End hide from IE Mac */
+
+ * html .clearafter, * html .clear{height: 1px;}
+
+html, body {
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+a{text-decoration: none; outline:none;}
+a:hover{text-decoration: underline;}
+a img{border: none;}
+h1, h2, h3, h4, h5, h6 {
+margin:0;
+padding:0;
+}
+
+h1 {
+letter-spacing:-1px;
+font-size:2em;
+}
+
+h2 {
+letter-spacing:-1px;
+font-size:1.5em;
+}
+
+h3,h4,h5,h6 {
+font-size:1em;
+}
+
+p, ul, ol {
+margin:0;
+padding:0 0 18px 0;
+}
+
+blockquote {
+margin:22px 40px;
+padding:0;
+}
+
+ul, ol {
+list-style:none;
+padding:0 0 18px 40px;
+}
+
+small {
+font-size:0.85em;
+}
+
+
+#msg{
+		width: 95%;
+		font-family: Verdana, sans-serif;
+		margin: 10px auto;
+ 		padding: 5px 5px 5px 10px;
+		line-height: 20px;
+	}
+
+	.notice{
+	    background: #ffc;
+	    color: #31363e; 
+		border: 1px solid #ffdc50;
+		}
+
+	.success{
+	    background: #E2F9E3;
+	    color: #060; 
+		border: 1px solid #9c9;
+		}
+		
+	.error{
+		background: #FFE3E0;
+	    color: #E31B0C; 
+		border: 1px solid #DC6E66;
+		}
+	#msg.error{padding: 0 0 5px 0;}
+	.error h5{color: #fff; background: #E31B0C; padding: 3px;}
+	
+	.error .errorlist{font-size: 90%; margin-bottom: 0; padding-bottom: 0;}
+	.error .errorlist li{list-style:disc;}
+
+
+.input { border: 1px solid #c3c3c3; border-top-color: #7c7c7c; border-bottom-color: #ddd; border-left-color: #c3c3c3; padding: 3px; background: #fff url(/images/input_bg.gif) repeat-x left top; font-family: Verdana, Arial, sans-serif;}

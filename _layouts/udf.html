@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}({{ page.argString }}) </h2>
+<h5 class="lastUpdated">Last updated {{ page.date | date: "%B %d, %Y" }}</h5>
+
+<div class="author">
+	<h3><span>author</span></h3>
+	<p>
+	<img src="{{ page.authorEmail | to_gravatar }}?s=43" title="{{ page.author }}" class="img-left gravatar" />
+	<span class="name">{{ page.author }}</span> <br/>
+	</p>	
+</div>
+<p class="description">
+	<strong>Version:</strong> {{ page.version }} |  
+	<strong>Requires:</strong> {{ page.cfVersion }} | 
+	<strong>Library:</strong> <a href="/library/{{ page.library }}">{{ page.library}}</a>
+</p>
+
+<div class="udfDetails">	
+<p>
+	<strong>Description:</strong> <br/>
+	{{ udf.description }}
+</p>
+<p>
+	<strong>Return Values:</strong> <br/>
+	{{ udf.returnValue }}
+</p>
+
+<a name="examples"></a><p><strong>Example:</strong></p>
+
+<pre><code class="language-markup">{{ page.example | xml_escape }}</code></pre>
+
+<p><strong>Parameters:</strong></p>
+
+{% if page.args %}
+
+<table id="paramsTable" cellpadding="0" cellspacing="0">
+		<tr>
+			<th>Name</th>
+			<th>Description</th>
+			<th>Required</th>
+        </tr>
+        {% for arg in page.args %}
+			<tr>
+				<td>{{ arg.name }}</td>
+				<td>{{ arg.desc }}</td>
+				<td>
+                    {% if arg.req %}
+                    Yes
+                    {% else %}
+                    No
+                    {% endif %}
+                </td>
+			</tr>
+		{% endfor %}
+	</table>
+{% else %}
+    <p>No arguments.</p>
+{% endif %}
+
+
+<p><strong>Full UDF Source: </strong></p>
+<pre><code class="language-{% if page.tagBased %}markup{% else %}javascript{% endif %}">{{ page.javaDoc | xml_escape }}{{ page.code | xml_escape }}</code></pre>
+
+<!--
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'cflib';
+    var disqus_identifier = '<%- udf.oldId %>';
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+-->
+
+</div>
