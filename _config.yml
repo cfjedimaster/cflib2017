@@ -37,6 +37,9 @@ collections:
   udfs:
     permalink: /udf/:name
     output: true
+  libraries:
+    permalink: /library/:name
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

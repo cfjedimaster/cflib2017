@@ -10,7 +10,7 @@ version: 2
 cfVersion: CF6
 shortDescription: I make Bananas
 description: |
- This returns the first blah of the blah that akes a blah to do blah.
+ This returns a banana
 
 returnValue: Returns a string.
 
@@ -24,9 +24,6 @@ args:
  - name: foo
    desc: fooball
    req: true
- - name: goo
-   desc: Goo
-   req: false
 
 javaDoc: |
  /*
@@ -52,3 +49,4 @@ code: |
  };
 
 ---
+
