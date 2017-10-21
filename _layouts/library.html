@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% assign udfs = site.udfs | where:"library",page.title %}
+{% assign latest = udfs | last %}
+
+<h2>{{ page.title }}</h2>
+<h5 class="lastUpdated">Last updated {{ latest.date | date:"%B %d, %Y"}} / {{ udfs.size }} Released UDF(s)</h5>
+
+
+{% for udf in udfs %}
+	
+<div class="function">
+	<a href="/udf/{{ udf.title }}" class="funcName">{{ udf.title }}</a> <br/>
+	<p>
+	{{ udf.shortDescription }} | <strong>Requires:</strong> {{ udf.cfVersion }}
+	</p> 
+</div>
+
+{% endfor %}

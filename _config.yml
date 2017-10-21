@@ -35,10 +35,10 @@ plugins:
   
 collections:
   udfs:
-    permalink: /udf/:name
+    permalink: /udf/:title
     output: true
   libraries:
-    permalink: /library/:name
+    permalink: /library/:title
     output: true
 
 # Exclude from processing.
@@ -52,3 +52,7 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+exclude:
+  - start.sh
+  - generate.js
