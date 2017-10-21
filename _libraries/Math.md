@@ -2,7 +2,7 @@
 layout: library
 title: MathLib
 description: |
- StrLib is a ColdFusion UDF does random math shit.
- 
+ A set of mathematical functions. This includes geometry, trig, statistical, and general math functions. These functions typically perform calculations.
+
 ---
 

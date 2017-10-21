@@ -54,7 +54,7 @@
 								<p>
 									<img src="{{ udf.authorEmail | to_gravatar }}?s=43" title="{{ udf.author }}" class="img-left gravatar" />
 									<span class="name">{{ udf.author }} added</span> <br/>
-									<a href="/udf/{{ udf.title }}">{{ udf.title }}</a> <br/>
+									<a href="/udf/{{ udf.title }}">{{ udf.title | truncate:20 }}</a> <br/>
 									<span class="time">{{ udf.date | date:"%B %d, %Y"}}</span>
 								
 								</p>
