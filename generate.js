@@ -20,6 +20,13 @@ function fixForYaml(str) {
 	return str;
 }
 
+//unlike the above, this is just escaping stuff for values
+function formatForYaml(str) {
+	str = str.replace(/:/g, "&#58;");
+	str = str.replace(/\n/g, " ");
+	return str;
+}
+
 data.udfs.forEach((udf,idx) => {
 	if(idx % 100 === 0) process.stdout.write('#');
 
@@ -41,7 +48,7 @@ data.udfs.forEach((udf,idx) => {
 		}
 
 		args += ` - name: ${arg.NAME}\n`;
-		args += `   desc: ${arg.DESC}\n`;
+		args += `   desc: ${formatForYaml(arg.DESC)}\n`;
 		args += `   req: ${arg.REQ?true:false}\n`;
 	});
 
@@ -51,16 +58,16 @@ layout: udf
 title:  ${udf.name}
 date:   ${udf.lastUpdated}
 library: ${udf.library}
-argString: ${argString}
+argString: "${argString}"
 author: ${udf.author}
 authorEmail: ${udf.authorEmail}
 version: ${udf.version}
 cfVersion: ${udf.cfVersion}
-shortDescription: ${udf.shortDescription}
+shortDescription: ${formatForYaml(udf.shortDescription)}
 description: |
- ${udf.description}
+${fixForYaml(udf.description)}
 
-returnValue: ${udf.returnValue}
+returnValue: ${formatForYaml(udf.returnValue)}
 
 example: |
 ${fixForYaml(udf.example)}
@@ -82,6 +89,6 @@ ${fixForYaml(udf.code)}
 	let filename = './_udfs/'+udf.name+'.md';
 	fs.writeFileSync(filename, template, 'UTF-8');
 	//console.log(filename);
-	if(idx == 0) process.exit(1);
+	if(idx === 500) process.exit(1);
 });
 process.stdout.write('\n');
