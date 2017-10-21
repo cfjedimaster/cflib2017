@@ -1,7 +1,7 @@
 ---
 layout: udf
 title:  Cherry
-date:   2017-09-19 16:26:53 -0500
+date:   2017-09-21 16:26:53 -0500
 library: MathLib
 argString: x,y
 author: Raymond Camden

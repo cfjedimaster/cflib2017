@@ -47,25 +47,19 @@
 						</form>
 					</div>
 					<div class="latestAdditions">
-                        <h3><span>Latest Additions</span></h3>
-                        <!--
-						<%
-							var latest = public.udfs.getLatest();
-							for(var i=0;i<latest.length;i++) {
-						%>
+						<h3><span>Latest Additions</span></h3>
+						{% assign sorted = site.udfs | sort: 'date' | reverse %}
+						{% for udf in sorted limit:5 %}
 							<div class="person clear">
 								<p>
-									<img src="<%= public.udfs.gravatar(latest[i].authorEmail) %>" title="<%- latest[i].author %>" class="img-left gravatar" />
-									<span class="name"><%- latest[i].author %> added</span> <br/>
-									<a href="/udf/<%= latest[i].name %>"><%= public.udfs.truncate(latest[i].name) %></a> <br/>
-									<span class="time"><%= public.udfs.dateFormat(new Date(latest[i].lastUpdated)) %></span>
+									<img src="{{ udf.authorEmail | to_gravatar }}?s=43" title="{{ udf.author }}" class="img-left gravatar" />
+									<span class="name">{{ udf.author }} added</span> <br/>
+									<a href="/udf/{{ udf.title }}">{{ udf.title }}</a> <br/>
+									<span class="time">{{ udf.date | date:"%B %d, %Y"}}</span>
 								
 								</p>
 							</div>
-						<%
-							}
-						%>
-                         -->
+						{% endfor %}
 					</div>
 <!--
 <div style="margin: 5px;padding-top:5px;padding-bottom:5px;">
