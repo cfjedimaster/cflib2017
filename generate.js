@@ -29,7 +29,10 @@ function formatForYaml(str) {
 
 data.udfs.forEach((udf,idx) => {
 	if(idx % 100 === 0) process.stdout.write('#');
-
+	//fix for nullPad
+	if(!udf.shortDescription) udf.shortDescription = 'Needs short description.';
+	if(!udf.javaDoc) udf.javaDoc = '';
+	
 	// create argument stuff
 	let argString = '';
 	let args = '';
@@ -89,6 +92,6 @@ ${fixForYaml(udf.code)}
 	let filename = './_udfs/'+udf.name+'.md';
 	fs.writeFileSync(filename, template, 'UTF-8');
 	//console.log(filename);
-	if(idx === 500) process.exit(1);
+	//if(idx === 500) process.exit(1);
 });
 process.stdout.write('\n');
