@@ -1,6 +1,6 @@
 ---
 layout: udf
-title:  Apple
+title:  apple
 date:   2017-09-19 16:26:53 -0500
 library: StrLib
 argString: x,[y]
