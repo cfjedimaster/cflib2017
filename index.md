@@ -53,7 +53,7 @@ Thanks to <a href="http://adamcameroncoldfusion.blogspot.co.uk/">Adam Cameron</a
 	<div class="recentUpdates">
 		<h4>News</h4>
 		<p>
-		Welcome to CFLib 2017. CFLib is still static!
+		Welcome to CFLib 2017. CFLib is still static! Thanks to <a href="https://www.netlify.com/">Netlify</a> for awesome hosting!
 		</p>
 	</div>						
 </div>
