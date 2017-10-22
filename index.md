@@ -29,12 +29,11 @@ These UDFs can greatly speed up development time as well as add new and powerful
 
 <p>
 Anyone can add their code to the project by simply using our <a href="/submit">submission form</a>. You must be running ColdFusion 5.0 (or higher) to run these libraries. For more information 
-about ColdFusion, please visit <a href="http://www.adobe.com/go/coldfusion">Adobe's ColdFusion</a> product page. If you have any suggestions or comments, 
-please <a href="/contact">contact</a> me.
+about ColdFusion, please visit <a href="http://www.adobe.com/go/coldfusion">Adobe's ColdFusion</a> product page.
 </p>	
 
 <p>
-CFLib.org was created by <a href="http://www.raymondcamden.com">Raymond Camden</a>. 
+CFLib.org was created by <a href="https://www.raymondcamden.com">Raymond Camden</a>. 
 Thanks to <a href="http://adamcameroncoldfusion.blogspot.co.uk/">Adam Cameron</a> for quite a bit of help as well.
 </p>
 </div>
