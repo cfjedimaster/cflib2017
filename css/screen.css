@@ -109,48 +109,6 @@ p{line-height: 19px;}
 		.ft_content p{line-height: 15px;}
 		
 		
-.sIFR-flash {
-	visibility: visible !important;
-	margin: 0;
-}
-
-.sIFR-replaced {
-	visibility: visible !important;
-}
-
-span.sIFR-alternate {
-	position: absolute;
-	left: 0;
-	top: 0;
-	width: 0;
-	height: 0;
-	display: block;
-	overflow: hidden;
-}
-
-.sIFR-flash + div[adblocktab=true] {
-	  display: none !important;
-}
-
-
-.sIFR-hasFlash .leftColumn h2 {
-	visibility: hidden;
-	font-size: 24px;
-	margin-bottom: 15px;
-	border-bottom: 1px solid #dee0e3;
-	color: #4e9ad0;
-    font-weight: normal;
-}	
-
-.sIFR-hasFlash .submissionAndUpdates h4 {
-	visibility: hidden;
-	font-size: 20px;
-	margin-bottom: 5px;
-	padding-bottom: 3px;
-	border-bottom: 1px solid #dee0e3;	
-	color: #4e9ad0; 
-    font-weight: normal;
-}	
 
 .form label{font-weight: bold;}
      .field{line-height: 1.6em; width: 200px; margin-right: 25px; margin-bottom: 15px; float: left;}
@@ -171,4 +129,9 @@ span.sIFR-alternate {
 	
 .advSearch {background: #ecf2f5; padding: 6px;}
 .viewAdvSearch{background: url(../images/view_plus.gif) no-repeat left center; color: #4a7693; padding-left: 15px; font-weight: bold;}
-.advSearchOptions {margin: 10px; color: #222; display: none;}   		
+.advSearchOptions {margin: 10px; color: #222; display: none;}
+
+h2 {
+	margin-bottom: 10px;
+	color: #4a7693;
+}

@@ -67,6 +67,7 @@ authorEmail: ${udf.authorEmail}
 version: ${udf.version}
 cfVersion: ${udf.cfVersion}
 shortDescription: ${formatForYaml(udf.shortDescription)}
+tagBased: ${udf.tagBased}
 description: |
 ${fixForYaml(udf.description)}
 

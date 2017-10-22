@@ -57,5 +57,3 @@ Thanks to <a href="http://adamcameroncoldfusion.blogspot.co.uk/">Adam Cameron</a
 		</p>
 	</div>						
 </div>
-
-
