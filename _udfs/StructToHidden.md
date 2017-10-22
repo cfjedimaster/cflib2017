@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure to hidden form fields.
+tagBased: false
 description: |
  A quick way to turn a simple structure into hidden form fields.
 

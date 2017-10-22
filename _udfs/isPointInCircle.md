@@ -9,6 +9,7 @@ authorEmail: kaw4@york.ac.uk
 version: 1
 cfVersion: CF5
 shortDescription: Determines if a point lies within a circle.
+tagBased: false
 description: |
  Calculates whether the point pointX,pointY lies in or on the circumfrence of the circle at centre circleX,circleY of radius circleRadius.
 

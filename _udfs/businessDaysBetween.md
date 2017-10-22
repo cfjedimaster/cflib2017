@@ -9,6 +9,7 @@ authorEmail: harry@icn.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the number of business days between 2 dates.
+tagBased: false
 description: |
  Calculates the number of business days between 2 dates.  Holidays are not excluded. This count does not include the first day. So if you compare today (and today is Monday) to tomorrow, then your result is the difference (1).
 

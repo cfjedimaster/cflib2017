@@ -9,6 +9,7 @@ authorEmail: todd@cfsilence.com
 version: 1
 cfVersion: CF5
 shortDescription: Quick and easy way to get a tinyurl.
+tagBased: true
 description: |
  Pass a URL and the UDF will return a tinyurl (http://tinyurl.com).
 

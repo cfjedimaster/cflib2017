@@ -9,6 +9,7 @@ authorEmail: scott@boyzoid.com
 version: 0
 cfVersion: CF9
 shortDescription: Creates a data structure that can be easily used by jqGrid.
+tagBased: false
 description: |
  This function works similarly to the native function queryConvertForGrid(). It is used to format query data in a format that is easily used by jqGrid. In order for jqGrid to be able to read/use the data structure, you must specify the following in your jqGrid configuration:
  

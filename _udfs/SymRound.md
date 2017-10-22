@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Symmetrically rounds any number to a specific decimal point, preventing a common &quot;rounding bias&quot; from skewing results.
+tagBased: false
 description: |
  Despite what is conventionally taught, a &quot;5&quot; after the digit to be rounded should not always be rounded up. Five is the exact middle of the digits that are rounded (the digit &quot;0&quot; is not rounded, but just truncated), and thus should only be rounded up half of the time. Non-zero digits after the five mean that it is no longer in the exact middle, so most fives do correctly round up. However, a five which is at the end of the number or which is followed by only zeros should round to the closest *even* number (and thus rounded down half of the time).
 

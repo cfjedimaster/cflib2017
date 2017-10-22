@@ -9,6 +9,7 @@ authorEmail: vksrinu@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: This will generate the specified number of unique random numbers.
+tagBased: false
 description: |
  This will generate the specified number of unique random numbers.
 

@@ -9,6 +9,7 @@ authorEmail: brinaldi@criticaldigital.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns an array of dates with the week ending date of each week in the month.
+tagBased: false
 description: |
  Returns an array of dates with the week ending date of each week in the month. The code defaults to friday as the week ending as this would typically be useful when creating some sort of business report.
 

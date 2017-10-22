@@ -9,6 +9,7 @@ authorEmail: everett.al@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Same as built-in RJUSTIFY, but allows optional parameter character to pad with.
+tagBased: false
 description: |
  This function mimics the rJustify function, but offers an optional third parameter to define the character to use for padding (if padding is necessary).
 

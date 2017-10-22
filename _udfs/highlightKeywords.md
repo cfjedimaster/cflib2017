@@ -9,6 +9,7 @@ authorEmail: me@simonbingham.me.uk
 version: 1
 cfVersion: CF9
 shortDescription: Highlights words in a string that are found in a keyword list.
+tagBased: false
 description: |
  Highlights words in a string that are found in a keyword list. Useful for search result pages.
 

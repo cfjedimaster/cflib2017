@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Mimics the cfdirectory, action=&quot;list&quot; command.
+tagBased: true
 description: |
  Mimics the cfdirectory, action=&quot;list&quot; command. Also adds recursive list.
 

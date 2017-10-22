@@ -9,6 +9,7 @@ authorEmail: zac@bayleaf.com
 version: 1
 cfVersion: CF5
 shortDescription: An alternative way to retreive data from a URL.
+tagBased: false
 description: |
  The purpose of the parseURLData UDF is to give web developers an alternate way of encoding and retrieving data from URLs. Typically parameters data is sent via a URL using name/value pairs prefaced with a questions mark and separated by ampersands. 
  

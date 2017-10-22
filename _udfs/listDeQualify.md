@@ -9,6 +9,7 @@ authorEmail: mike@striking.com
 version: 1
 cfVersion: CF5
 shortDescription: Used to remove qualifieers from a delimited list.
+tagBased: false
 description: |
  Pass in a list and an optional delimiter and this UDF will strip the qualifiers.  The qualifier list contains single and double quotes in plain, MS and Unicode Flavors.  Also trims the list elements.
 

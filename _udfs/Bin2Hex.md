@@ -9,6 +9,7 @@ authorEmail: axel@misterbuzz.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts binary data to hexadecimal format.
+tagBased: false
 description: |
  Converts binary data (eg. obtained from cffile action=readbinary) to hexadecimal format (base16).
 

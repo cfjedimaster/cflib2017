@@ -9,6 +9,7 @@ authorEmail: deanna.schneider@ces.uwex.edu
 version: 2
 cfVersion: CF5
 shortDescription: Returns a list as an &quot;English language&quot; list.
+tagBased: false
 description: |
  Accepts lists with any delimiter, and returns a list with elements separated by a comma-space. Inserts an &quot;and&quot; before the last list element.
 

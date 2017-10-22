@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date for Election Day in a given year
+tagBased: false
 description: |
  Returns a date for US Presidential Election Day in a given year.  Returns -1 for odd numbered years.  If no year is specified, defaults to the current year.
 

@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Replaces all unnecessary characters from a section of CSS code.
+tagBased: false
 description: |
  This function is useful to reduce download time on large CSS style sheets, all unnecessary spaces are removed, pages will load faster. And your lovely CSS wont be ripped off as easily.
 

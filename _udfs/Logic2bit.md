@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 1
 cfVersion: CF5
 shortDescription: Converts logic bit constants (TRUE, &quot;Yes&quot;, 1,FALSE,&quot;No&quot;,0) or logical expressions to bit values (1,0).  A non-boolean value returns a -1 value.
+tagBased: false
 description: |
  Use this function where logic constants like TRUE and FALSE cannot be used. A non-bit value -1 is used when valid expression is not a logic value.
 

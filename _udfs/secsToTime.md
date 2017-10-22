@@ -9,6 +9,7 @@ authorEmail: kmiller@websolete.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes number of seconds as input and returns a formatted string representation of that duration (weeks/days/hours/mins/secs).
+tagBased: false
 description: |
  Pass in a number of seconds as input and return a more 'formal', formatted string representation of that duration (weeks/days/hours/mins/secs).
 

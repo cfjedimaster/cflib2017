@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if all positions in an array are defined.
+tagBased: false
 description: |
  Returns true if all positions in an array are defined.
 

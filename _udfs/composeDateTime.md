@@ -9,6 +9,7 @@ authorEmail: adamcameroncoldfusion@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Creates a date time from optional date parts
+tagBased: false
 description: |
  Similar to createDateTime(), except all arguments are optional so one can be selective in which parts to specify for the result. Any unspecified arguments default to the current datetime's relevant component.
  

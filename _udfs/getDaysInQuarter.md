@@ -9,6 +9,7 @@ authorEmail: sebastiaan@onlinebase.nl
 version: 1
 cfVersion: CF5
 shortDescription: Returns the number of days in the current quarter.
+tagBased: false
 description: |
  Returns the number of days in the current quarter.
 

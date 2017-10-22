@@ -9,6 +9,7 @@ authorEmail: marcos.placona@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Excludes string items from an array.
+tagBased: true
 description: |
  This UDF is to be used when you need to remove all the string values from your array. It removes them and return a clean array with just numbers.
 

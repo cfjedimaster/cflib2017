@@ -9,6 +9,7 @@ authorEmail: adamhowitt@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates a comma separated list of hex colors forming a gradient between the start color and the end color over a specified number of steps.
+tagBased: false
 description: |
  Creates a comma separated list of hex colors forming a gradient between the start color and the end color over a specified number of steps.
 

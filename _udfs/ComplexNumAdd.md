@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Adds two complex numbers.
+tagBased: false
 description: |
  Add two complex numbers that have been stored as a structure using the ComplexNum() UDF. You can also use this function to add a complex and a real number, or even two real numbers. The result is stored in a structure.
 

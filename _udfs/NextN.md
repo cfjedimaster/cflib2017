@@ -9,6 +9,7 @@ authorEmail: joel@brainstormin.net
 version: 2
 cfVersion: CF5
 shortDescription: Enables next 'n' browsing of a record set.
+tagBased: false
 description: |
  Displays a list of pages with links to records within.
 

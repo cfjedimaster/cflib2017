@@ -9,6 +9,7 @@ authorEmail: sporter@rit.net
 version: 2
 cfVersion: CF5
 shortDescription: Fixes text using Microsoft Latin-1 &quot;Extentions&quot;, namely ASCII characters 128-160.
+tagBased: false
 description: |
  Fixes text using Microsoft Latin-1 &quot;Extentions&quot;, namely ASCII characters 128-160.  Supplies semicolons where missing in HTML numeric and common non-numeric entities.
  

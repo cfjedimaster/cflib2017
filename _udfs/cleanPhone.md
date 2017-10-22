@@ -9,6 +9,7 @@ authorEmail: jeff.horne@trizetto.com
 version: 0
 cfVersion: CF5
 shortDescription: Strips unnecessary characters from phone numbers and returns a consistent looking phone number and extension, if necessary.
+tagBased: false
 description: |
  Cleans up phone numbers that include leading 1s, text before and extension number or other characters.  Returns in (###) ###-#### x### format.  Uses PhoneFormat originally submitted by Derrick Rapley.
 

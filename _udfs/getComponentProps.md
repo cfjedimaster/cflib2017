@@ -9,6 +9,7 @@ authorEmail: robby@ohsogooey.com
 version: 3
 cfVersion: CF6
 shortDescription: Returns an array of all properties in cfc's metadata, inherited or not.
+tagBased: false
 description: |
  Pass in the result from getMetaData() and returns all properties within the cfc and those it extends. It is recursive. (I didn't find any true time difference and this seemed cleaner). This does not include the base 'component' tag in it's search. I couldn't see anyone putting properties there anyways. A special value will be added to each propery, foundIn, that represents which CFC a property was found in. This is useful in case both a child and parent CFC share the same property.
 

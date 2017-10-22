@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a string corresponding to the type of file specified. (Windows only)
+tagBased: false
 description: |
  Returns a string corresponding to the type of file specified.  Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

@@ -9,6 +9,7 @@ authorEmail: kkz@foureyes.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the CFHTMLHEAD tag.
+tagBased: true
 description: |
  Mimics the CFHTMLHEAD tag, which writes text into the  HEAD portion of the page.
 

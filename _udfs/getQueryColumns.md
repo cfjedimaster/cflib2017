@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns list of query columns in order as defined by SQL query.
+tagBased: false
 description: |
  Retrieve a list of column names in the order as defined by SQL for use with CFSpreadsheet (generating a header row) and other loop functions.
 

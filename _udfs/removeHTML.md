@@ -9,6 +9,7 @@ authorEmail: scott@coldfusionguy.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes All HTML from a string removing tags, script blocks, style blocks, and replacing special character code.
+tagBased: false
 description: |
  Removes All HTML from a string, Removing tags, script blocks, style blocks, Head blocks, and replaces common special character code with text equivalents.
 

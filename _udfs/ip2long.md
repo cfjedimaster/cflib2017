@@ -9,6 +9,7 @@ authorEmail: tpullis@yahoo.com
 version: 0
 cfVersion: CF5
 shortDescription: Converts a string containing an (IPv4) Internet Protocol dotted address (aaa.bbb.ccc.ddd) into a proper address representation.
+tagBased: false
 description: |
  Converts a string containing an (IPv4) Internet Protocol dotted address (aaa.bbb.ccc.ddd) into a proper address representation. Returns 0 if error occurs.
 

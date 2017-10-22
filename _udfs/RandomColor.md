@@ -9,6 +9,7 @@ authorEmail: nathans@dnsfirm.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a completely random color. Beautiful, isn't it?
+tagBased: false
 description: |
  Simply place RandomColor() anywhere you want a truly random HTML color. Fun for the whole family!
 

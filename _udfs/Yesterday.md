@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing yesterday.
+tagBased: false
 description: |
  Returns a date object representing yesterday.
 

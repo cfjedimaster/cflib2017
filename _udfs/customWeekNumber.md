@@ -9,6 +9,7 @@ authorEmail: azadi.saryev@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns week number based on [optional] custom start of week day
+tagBased: false
 description: |
  Returns week number of given date based on optional start-of-week day (numeric; in the range of 1 [Sunday] to 7 [Saturday]; defaults to 1).
  Returns either week number or, if optional third argument was passed (boolean; defaults to false), as week number and year as WW.YYYY

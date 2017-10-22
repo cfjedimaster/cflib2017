@@ -9,6 +9,7 @@ authorEmail: oleitch@locustcreek.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts the characters in a string to encoded special characters.
+tagBased: false
 description: |
  This function is intended to obfuscate strings on a page.  It converts characters to their ASCII decimal equivalent, and outputs the concatenated result in place of the original.  This is particularly useful for protecting email addresses from harvesters (or at least until they figure it out).  Best of all, you can still use href=&quot;mailto:#HTMLTrans(example)#&quot;.
 

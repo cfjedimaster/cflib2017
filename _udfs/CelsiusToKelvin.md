@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts degrees Celsius to degrees Kelvin.
+tagBased: false
 description: |
  Converts degrees Celsius to degrees Kelvin.  Note that the Kelvin temperature scale has an absolute zero (negative Kelvin temperatures do not exist).  If a temperature below -273.15 Celcius (absolute 0) is passed, the funciton returns -1.
 

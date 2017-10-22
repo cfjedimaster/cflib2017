@@ -9,6 +9,7 @@ authorEmail: shlomy@bluebrick.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a visual representation of stylesheet elements.
+tagBased: false
 description: |
  This function returns each stylesheet element (class,id...) name displayed using the same element's style.
 

@@ -9,6 +9,7 @@ authorEmail: svg2@placs.net
 version: 3
 cfVersion: CF5
 shortDescription: Fixes a list by replacing null entries.
+tagBased: false
 description: |
  By default, ColdFusion will ignore empty elements in a list. This can be a problem if you want to treat empty elements as null entries. For example, the list &quot;Goo,Foo,,Moo&quot; is considered a 3 item list, since the &quot;,,&quot; entry is ignored. ListFix will take these entries and replace them with a null character of your choosing.
  

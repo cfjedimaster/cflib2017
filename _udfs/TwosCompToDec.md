@@ -9,6 +9,7 @@ authorEmail: scrittler@etechsolutions.com
 version: 1
 cfVersion: CF5
 shortDescription: Decodes a 2's complement base 10 (decimal) value into an unencoded base 10 value.
+tagBased: false
 description: |
  This function will convert any 2's complement encoded base 10 value into an unencoded base 10 value, provided you specify the value and the number of bits the decimal value originally represented.
 

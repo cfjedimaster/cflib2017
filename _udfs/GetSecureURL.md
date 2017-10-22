@@ -9,6 +9,7 @@ authorEmail: jon.hartmann@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Creates an HTTPS URL for the current page, or for given page information.
+tagBased: true
 description: |
  This function takes cgi information and creates a URL for an https to the current page. Each section can be overridden to allow it to create URLS for other locations.
 

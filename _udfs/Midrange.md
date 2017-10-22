@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the midrange value for a set of numbers.
+tagBased: false
 description: |
  Returns the midrange value for a set of numbers. The midrange value is found by adding the min value in a set to the max value, then dividing by 2.
 

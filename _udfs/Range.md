@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the range for a set of numbers.
+tagBased: false
 description: |
  Returns the range for a set of numbers. The range is calculated by subtracting the smallest number in a set from the largest.
 

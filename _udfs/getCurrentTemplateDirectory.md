@@ -9,6 +9,7 @@ authorEmail: timothyfarrar@sosensible.com
 version: 1
 cfVersion: CF5
 shortDescription: This function returns the current directory of your current coldfusion template.
+tagBased: false
 description: |
  This function returns the directory of the currently executing coldfusion page.
 

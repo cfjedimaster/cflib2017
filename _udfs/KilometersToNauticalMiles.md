@@ -9,6 +9,7 @@ authorEmail: tom@toshop.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert kilometers to nautical miles.
+tagBased: false
 description: |
  Converts kilometers to nautical miles.
 

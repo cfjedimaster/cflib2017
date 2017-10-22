@@ -9,6 +9,7 @@ authorEmail: sadgnot@ogilvy.net
 version: 1
 cfVersion: CF5
 shortDescription: Transform a query result into a csv formatted variable.
+tagBased: false
 description: |
  Transform a query result into a csv formatted variable.
 

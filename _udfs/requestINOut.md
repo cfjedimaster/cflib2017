@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 2
 cfVersion: CF5
 shortDescription: Normalize input structures (URL, FORM, FLASH) to a single Request.IN structure for ubiquitous name space programming.
+tagBased: false
 description: |
  Normalize input structures (URL, FORM, FLASH) to a single Request.IN structure for ubiquitous name space programming.  The function prevents name space conflicts with input variable names by defining a normalization rank priority list.  The default priority list rank (URL,FORM,FLASH)  for name space assignment, can be re-prioritized  by changing the parameter list order. Also, a struct called request.out is created.
 

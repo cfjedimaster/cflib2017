@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF6
 shortDescription: Rounds a number to a specific number of decimal places by using Java's math library.
+tagBased: false
 description: |
  Rounds a number to a specific number of decimal places by using Java's math library.  This UDF provides &quot;finer grain&quot; rounding functionality that CF does not provide with it's built-in functions.  Thanks to Christian Cantrell's blog for this one.
  

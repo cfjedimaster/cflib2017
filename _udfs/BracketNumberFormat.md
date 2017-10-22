@@ -9,6 +9,7 @@ authorEmail: webmaster@mail.ioc.state.il.us
 version: 1
 cfVersion: CF5
 shortDescription: Returns a negative number in brackets.
+tagBased: false
 description: |
  When using NumberFormat (under CF5) function, you have to supply place settings (a &quot;9&quot; or a &quot;_&quot;) if you want to use brackets to display a negative number instead of a &quot;-&quot; (minus) sign. BracketNumberFormat uses NumberFormat in conjunction with a bit more code to provide a negative number with brackets surrounding it.
  

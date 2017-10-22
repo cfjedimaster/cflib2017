@@ -9,6 +9,7 @@ authorEmail: matt@digitalhappy.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns a random last name.
+tagBased: true
 description: |
  Returns a random last name from an internal list. Stupidly simple but handly non the less. List was taken from England/Wales top 100 at http://www.taliesin-arlein.net
 

@@ -9,6 +9,7 @@ authorEmail: atrivedi@ekomcorp.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts Barcode to valid ISBN number (without &quot;-&quot;).
+tagBased: false
 description: |
  UDF is useful when user needs to take scanned barcode as input and convert it to ISBN for book catalog purposes.
 

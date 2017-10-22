@@ -9,6 +9,7 @@ authorEmail: email@marcogwilliams.com
 version: 1
 cfVersion: CF5
 shortDescription: Parse out the first set of numbers in a string.
+tagBased: false
 description: |
  This UDF will only grab the first Numbers in a string.  If you have a string &quot; mozilla/ 4.0 (winNT; IE5.0)&quot; It will return 4.0 and ignore all the rest of your string.
 

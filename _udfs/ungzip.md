@@ -9,6 +9,7 @@ authorEmail: oleitch@locustcreek.com
 version: 1
 cfVersion: CF7
 shortDescription: Decompresses a binary or (base64|hex|uu) encoded string using the gzip algorithm; returns a string.
+tagBased: true
 description: |
  This function accepts a binary or string encoded as (base64, hex, or uuencode), decompresses it with gzip, and returns a string.
 

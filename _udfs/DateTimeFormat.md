@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Calls both DateFormat and TimeFormat on a data object.
+tagBased: false
 description: |
  This function serves as a simple shorthand for calling both DateFormat and TimeFormat on one data object.
 

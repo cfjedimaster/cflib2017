@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Gets all initialization file entries.
+tagBased: false
 description: |
  Returns a struct of structs. Each initialization file section name is the key of the first struct. Each entry is a name-value pair struct in its own section.
 

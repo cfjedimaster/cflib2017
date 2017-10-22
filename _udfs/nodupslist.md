@@ -9,6 +9,7 @@ authorEmail: tony@tonybentley.com
 version: 1
 cfVersion: CF6
 shortDescription: Remove duplicate values from a list.
+tagBased: false
 description: |
  Removes all duplicate values from a list. The function is case sensitive so A,a,a will return A,a.
 

@@ -9,6 +9,7 @@ authorEmail: rjeffords@me.com
 version: 1
 cfVersion: CF6
 shortDescription: Formats a number of minutes into into a nicely formatted string.
+tagBased: true
 description: |
  This simple UDF will accept a number of minutes and return a string containing the format: &quot;N hours N mins&quot;.  This format can be slightly more optimal then just displaying &quot;140 mins&quot;.
 

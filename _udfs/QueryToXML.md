@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF6
 shortDescription: Generates an XMLDoc object from a basic CF Query.
+tagBased: false
 description: |
  Sure, WDDX is great, but sometimes you want &quot;real&quot; XML for your query.  This function will create an XMLDoc object where the elements match the names of your columns.  You can choose the name of the root node (by default it's &quot;query&quot;) and each row (by default it's &quot;row&quot;)
 

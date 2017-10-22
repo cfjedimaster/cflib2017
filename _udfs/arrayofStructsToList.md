@@ -9,6 +9,7 @@ authorEmail: jbriccetti@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Parses an array of consistent structs to return one key.
+tagBased: true
 description: |
  Parses an array of consistent structs to return one key.
 

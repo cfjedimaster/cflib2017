@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Escapes all regular expression &quot;special characters&quot; in a string with &quot;\&quot;.
+tagBased: false
 description: |
  Escapes all regular expression &quot;special characters&quot; in a string with &quot;\&quot;. Useful for dynamic uses of REFind and REReplace.
 

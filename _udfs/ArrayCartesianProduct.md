@@ -9,6 +9,7 @@ authorEmail: azadi.saryev@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Returns a cartesian product (a join) of arbitrary number of arrays.
+tagBased: false
 description: |
  The output is an array of arrays of unique combinations of one item from each array, in the order the arrays were passed in.
 

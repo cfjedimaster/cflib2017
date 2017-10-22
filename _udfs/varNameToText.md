@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts a camel-case or underscored var name to plain text.
+tagBased: true
 description: |
  Converts a camel-case or underscored var name to plain text.
 

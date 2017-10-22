@@ -9,6 +9,7 @@ authorEmail: ryan@thompson-jewell.com
 version: 3
 cfVersion: CF5
 shortDescription: A split function for lists, splitting the original list into lists of n array elements.
+tagBased: true
 description: |
  A split function for lists, splitting the original list into lists of n array elements. Returns an array of the list segments.
 

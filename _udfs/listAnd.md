@@ -9,6 +9,7 @@ authorEmail: giriraj.govil@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Returns a list of all elements that are both in list LST1 and in list LST2
+tagBased: false
 description: |
  Returns a list of all elements that are both in list LST1 and in list LST2
 

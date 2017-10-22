@@ -9,6 +9,7 @@ authorEmail: ian@defusionx.om
 version: 1
 cfVersion: CF5
 shortDescription: Add's the st,nd,rd,th after a day of the month.
+tagBased: false
 description: |
  This will return a given date in a long formated string including the optional letters ie 1st,2nd,3rd,4th etc.
 

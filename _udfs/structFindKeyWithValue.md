@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Combines structFindKey() and structFindValue()
+tagBased: false
 description: |
  Often I need to find keys with specific values from with a given structure, so this combines both structFindKey() and structFindValue()
 

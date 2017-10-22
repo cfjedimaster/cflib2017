@@ -9,6 +9,7 @@ authorEmail: raymond@terraincognita.com
 version: 1
 cfVersion: CF5
 shortDescription: Reverses the order of elements in a one-dimensional array.
+tagBased: false
 description: |
  Reverses the order of elements in a one-dimensional array.  This function takes a one-dimensional array and returns a new one with the values from the first in reverse order.
 

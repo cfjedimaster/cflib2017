@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts from decimal(base10) to hexadecimal (base16).
+tagBased: false
 description: |
  Converts from decimal (base10) to hexadecimal (base16).  Provides a wrapper around the BIF FormatBaseN.  Converts both positive and negative numbers.
 

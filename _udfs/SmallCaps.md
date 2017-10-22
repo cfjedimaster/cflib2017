@@ -9,6 +9,7 @@ authorEmail: Joshua.Siok@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Formats a string to simulate the small-caps style without using the css font-variant attribute.
+tagBased: true
 description: |
  This UDF takes the first character of each word and wraps it in a class name so you can easily simulate the &quot;font-variant:small-caps&quot; functionality.  I found this necessary to get this type of styling inside the CFDOCUMENT tag which does not support font-variant.  Some simple CSS is needed with this as well.
 

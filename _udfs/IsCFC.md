@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns a boolean for whether a CF variable is a CFC instance.
+tagBased: false
 description: |
  Pass it any CF variable, it returns a boolean value to tell you if it is a CFC instance.
 

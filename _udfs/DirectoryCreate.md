@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the cfdirectory, action=&quot;create&quot; command.
+tagBased: true
 description: |
  Mimics the cfdirectory, action=&quot;create&quot; command.
 

@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 2
 cfVersion: CF5
 shortDescription: Returns a relative path from the current template to an absolute file path.
+tagBased: false
 description: |
  Use getRelative() is the inverse of the ColdFusion native ExpandPath() function -- it takes an absolute file path and returns a relative path to the given file from the current template. As opposed to expandpath(), getRelative() creates a path relative to the current template, not the base template.
 

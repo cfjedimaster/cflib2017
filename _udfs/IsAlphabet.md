@@ -9,6 +9,7 @@ authorEmail: saito@softai.co.jp
 version: 1
 cfVersion: CF5
 shortDescription: This UDF confirms whether a string contains only letters.
+tagBased: false
 description: |
  This UDF confirms that a string only contains letters, spaces, and periods.
 

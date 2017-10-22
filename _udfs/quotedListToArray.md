@@ -9,6 +9,7 @@ authorEmail: ant@outsrc.co.uk
 version: 1
 cfVersion: CF7
 shortDescription: Converts elements in a quoted list to an array.
+tagBased: false
 description: |
  Like the ListToArray function but accepts quoted lists. Useful when reading from Quoted CSVs and the like.
 

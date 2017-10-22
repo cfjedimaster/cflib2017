@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the amount of space (in bytes) of all files and subfolders contained in the specified folder. (Windows only)
+tagBased: false
 description: |
  Returns the amount of space (in bytes) of all files and subfolders contained in the specified folder. Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

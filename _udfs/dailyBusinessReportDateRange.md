@@ -9,6 +9,7 @@ authorEmail: drgoel@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a time range for a particular date from midnight to 11&#58;59&#58;59 the same day except for Monday.
+tagBased: false
 description: |
  Returns a time range for a particular date from midnight to 11:59:59 the same day. If it is a Monday, the start date range begins from Saturday 12:00 AM till end of day Monday. This is helpful for reports run on business days. Usually a process runs 7 days a week early in the morning but a report is run manually only from Monday to Friday. So every day of the week except for Monday gets data for that day. On Monday, current days data as well as weekend's data are lumped together.
 

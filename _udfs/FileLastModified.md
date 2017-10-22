@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF6
 shortDescription: Returns the date the file was last modified.
+tagBased: false
 description: |
  Returns the date the file was last modified. The date is adjusted according to timezone. It returns a valid coldfusion date object. It uses the standard Java File object, which makes it very fast under Coldfusion MX
 

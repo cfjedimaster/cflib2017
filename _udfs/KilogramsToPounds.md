@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Kilograms to pounds conversion.
+tagBased: false
 description: |
  Kilograms to pounds conversion.
 

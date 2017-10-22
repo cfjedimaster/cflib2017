@@ -9,6 +9,7 @@ authorEmail: jallen@figleaf.com
 version: 1
 cfVersion: CF6
 shortDescription: I check if a point is inside of a polygon.
+tagBased: true
 description: |
  I check if the passed in pointX and pointY are inside of a the passed in polygon coordinates.
 

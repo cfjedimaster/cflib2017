@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Applys padding to each element in a list.
+tagBased: false
 description: |
  Applys padding to each element in a list.  Padding is applied to each element so that all elements have the same length.  If an element in the list has a greater length than that specified in the strLen parameter, no padding is applied to the element.
 

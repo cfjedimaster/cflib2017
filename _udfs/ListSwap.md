@@ -9,6 +9,7 @@ authorEmail: rob@microjuris.com
 version: 1
 cfVersion: CF5
 shortDescription: Swaps two elements in a list.
+tagBased: false
 description: |
  ListSwap(list, A, B) will swap the list element at position A and the list element at position B and return a new list with the swapped elements. If either position is not a valid element in the string, the original list is returned. The fourth (optional) argument to the UDF is the delimiter definition for the list (default is &quot;,&quot;).
 

@@ -9,6 +9,7 @@ authorEmail: merkel_@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert a text with many lines into a html list.
+tagBased: false
 description: |
  Take a text and use the carriage return as a delimiter list to generate an html list (&lt;ul&gt;). Each line become an element of the list (&lt;li&gt;).
 

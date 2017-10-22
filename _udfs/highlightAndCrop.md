@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Crops a string and highlights keywords.
+tagBased: true
 description: |
  This UDF will search a string for keywords and return them highlighted. It also crops the string &quot;around&quot; the matched term. Useful on search results pages. This UDF requires ColdFusion 9 only because of the use of var after the beginning of the UDF. It could easily be modified to work in CFMX.
 

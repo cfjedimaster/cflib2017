@@ -9,6 +9,7 @@ authorEmail: jason@iworks.com
 version: 1
 cfVersion: CF6
 shortDescription: Remove elements from one array which exist in another array.
+tagBased: false
 description: |
  Remove elements from one array which exist in another array. Uses Java's array.removeAll(str)
 

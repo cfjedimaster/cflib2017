@@ -9,6 +9,7 @@ authorEmail: skorpiun@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Function to duplicate the cfparam for scoped variables.
+tagBased: false
 description: |
  This is similar to CFParam UDF, but uses structKeyExists() instead of isDefined() for slightly better performance and more easily debugged code.
 

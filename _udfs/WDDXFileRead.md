@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF6
 shortDescription: Reads a file containing WDDX and returns the CF variable.
+tagBased: true
 description: |
  Ever get annoyed at the couple of lines you are always writing to store and retrieve WDDX in flat files?  Then this is the UDF for you.  Also see it's sister UDF WDDXFileWrite()
 

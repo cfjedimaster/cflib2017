@@ -9,6 +9,7 @@ authorEmail: brian@kallion.net
 version: 1
 cfVersion: CF5
 shortDescription: Converts a number to Roman numerals.
+tagBased: false
 description: |
  The RomanFormat function takes a single argument of a positive integer (decimals are truncated, negative numbers will return an empty string, and un-convertable strings will create an error) and returns a string containing the Roman numeral equivalent of the supplied argument.
 

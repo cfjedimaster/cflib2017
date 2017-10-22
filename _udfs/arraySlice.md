@@ -9,6 +9,7 @@ authorEmail: drmaples@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Slices an array.
+tagBased: false
 description: |
  Returns a slice of an array.
 

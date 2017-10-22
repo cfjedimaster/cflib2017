@@ -9,6 +9,7 @@ authorEmail: sam@blinex.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates a URI from an absolute path.
+tagBased: false
 description: |
  Accepts an aboluste path as input and returns a full URI as output.  For example, &quot;C:\Temp\Test.xml&quot; returns &quot;file:///C:/Temp/Test.xml&quot;.
 

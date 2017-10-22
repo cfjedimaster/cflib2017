@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the population variance for a set of numeric values.
+tagBased: false
 description: |
  Returns the population variance for a set of numeric values.  Variance is a measure of how spread out a distribution of data is.  This method is used when you have all the values for an entire population.
 

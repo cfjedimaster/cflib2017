@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts HttpTimeString into a timestamp string.
+tagBased: false
 description: |
  Takes an HttpTimeString ("Thu, 25 Oct 2001 20:17:00 GMT") and converts it to a timestamp
  ({ts '2001-10-25 20:17:00'}).

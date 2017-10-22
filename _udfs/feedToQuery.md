@@ -9,6 +9,7 @@ authorEmail: joe@seemecreate.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts an RSS 0.9+, ATOM or RDF feed into a query.
+tagBased: true
 description: |
  Converts an RSS 0.9+, ATOM or RDF feed into a query.
 

@@ -9,6 +9,7 @@ authorEmail: dcarabetta@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a list of distinct values from a passed-in list.
+tagBased: false
 description: |
  This UDF takes a list that may have duplicate values in it and returns only the distinct values, either using the default comma delimiter or a delimiter of the user's choice that is passed in.
 

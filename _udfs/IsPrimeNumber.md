@@ -9,6 +9,7 @@ authorEmail: klenzade@i-55.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the specified number is a prime number.
+tagBased: false
 description: |
  Returns True if the specified number is a prime number.  A prime number is a positive integer that has two postive integer factors (the number is evenly divisible by 1 and itself).  Note that 1 is not a prime number.
 

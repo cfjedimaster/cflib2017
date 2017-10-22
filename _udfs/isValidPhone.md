@@ -9,6 +9,7 @@ authorEmail: agenty@houston.rr.com
 version: 3
 cfVersion: CF5
 shortDescription: Simple Validation for Phone Number syntax.
+tagBased: false
 description: |
  Simple Validation for Phone Number syntax.
 

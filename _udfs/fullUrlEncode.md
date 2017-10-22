@@ -9,6 +9,7 @@ authorEmail: umbrae@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Give the fully escaped URL encoding of a string.
+tagBased: false
 description: |
  This function gives the fully escaped URL encoding of a string.
 

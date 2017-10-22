@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Obtains current time data from NIST Internet Time Service servers.
+tagBased: true
 description: |
  Obtains current time data from NIST Internet Time Service servers.
 

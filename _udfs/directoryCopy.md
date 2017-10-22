@@ -9,6 +9,7 @@ authorEmail: joe.rinehart@gmail.com
 version: 3
 cfVersion: CF6
 shortDescription: Copies a directory.
+tagBased: true
 description: |
  Deep copies a directory, copying all children.
  

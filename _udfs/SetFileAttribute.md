@@ -9,6 +9,7 @@ authorEmail: nate@nateweiss.com
 version: 1
 cfVersion: CF5
 shortDescription: Function to set or clear a Windows file attribute (ReadOnly, Hidden, etc) for the specified file.
+tagBased: false
 description: |
  Function to set or clear a Windows file attribute (ReadOnly, Hidden, etc) for the specified file.  This is essentially just a wrapper around the Scripting.FileSystemObject's File.Attribute property.  It will work only on Windows systems.
 

@@ -9,6 +9,7 @@ authorEmail: wbelden@dwo.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing the first day of the previous month.
+tagBased: false
 description: |
  Returns a date object representing the first day of the previous month. Optional parameters allows you to provide the date you want to calculate the prior month from.
 

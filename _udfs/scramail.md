@@ -9,6 +9,7 @@ authorEmail: d.nando@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Scramail takes a string as an argument and changes the characters in the email to their ascii equivelents to hide the email address from spam bots.
+tagBased: false
 description: |
  Scramail takes a string as an argument, finds any emails within the string, changes the characters in the email to their ascii equivelents, and then returns the transformed string. The purpose is to hide any email addresses in a block of text from spam bots. Scramail is a synthesis of Raymond Camden's getEmails and Seth Duffey's EmailAntiSpam UDFs.
 

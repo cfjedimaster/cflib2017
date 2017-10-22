@@ -9,6 +9,7 @@ authorEmail: tariq@dopejam.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts Active Directory 100-Nanosecond time stamps.
+tagBased: false
 description: |
  Time in Active Directory is stored in a 64 bit integer that keeps track of the number of 100-Nanosecond intervals which have passed since January 1, 1601 (not to be confused with EPOCH). The 64 bit value uses 2 32bit parts to store the time.
  

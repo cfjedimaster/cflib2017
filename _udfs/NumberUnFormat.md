@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes all non-essential formatting from a number.
+tagBased: false
 description: |
  Removes all non-essential formatting from a number. If no number exists then returns the raw string, or (if specified) the optional default value. Similar to Mark Andrachek's GetNumbers, but preserves minus signs and always keeps the decimal places, and provides exceptions for entirely non-numeric strings. (Note: numbers in scientific notation will not work with this function.)
 

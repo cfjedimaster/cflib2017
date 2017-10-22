@@ -9,6 +9,7 @@ authorEmail: smaglio@graddiv.ucsb.edu
 version: 1
 cfVersion: CF6
 shortDescription: returns the name of the cfapplication.
+tagBased: false
 description: |
  Returns the value of the name attribute. This attribute is set within the cfapplication tag. Usually this application name can be garnered from the application structure (application.applicationname). However, sometimes this value is missing (usually due to a structClear( application ) call).
 

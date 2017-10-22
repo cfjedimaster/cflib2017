@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates a date range array.
+tagBased: false
 description: |
  Creates a date range array. The range starts with one date and goes N days into the future.
 

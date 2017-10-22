@@ -9,6 +9,7 @@ authorEmail: mcorbridge@macromedia.com
 version: 2
 cfVersion: CF5
 shortDescription: Calculates the molecular weight (amu) of input string.
+tagBased: false
 description: |
  By entering a valid IUPAC string representing a molecule, the corresponding molecular weight will be calculated. Currently the following elements are parsed: C,O,N,H,K,Na,Ca and Gd - but it is very simple to extend the list.
 

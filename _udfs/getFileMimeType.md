@@ -9,6 +9,7 @@ authorEmail: ben@c4.net
 version: 1
 cfVersion: CF6
 shortDescription: Returns the mime type of the specified file.
+tagBased: true
 description: |
  Utilizes the getMimeType() method of the ServletContext object to determine the mime type of the specified file. Returns an empty string if the mime type of the file is unknown. The function takes one argument, the physical file path of the file.
 

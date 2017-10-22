@@ -9,6 +9,7 @@ authorEmail: david@insite.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns amount signed and dollar formatted.
+tagBased: false
 description: |
  This UDF accept one number: amount, and returns the amount dollar formatted with a plus or minus sign instead of the regular parenthesis that dollarFormat() returns with negative numbers.
 

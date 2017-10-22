@@ -9,6 +9,7 @@ authorEmail: pruckelshaus@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Strips doublequotes from the beginning and end of a string.
+tagBased: false
 description: |
  Strips doublequotes from the beginning and end of a string.  Useful for cleaning up CSV data that uses quoted columns.
 

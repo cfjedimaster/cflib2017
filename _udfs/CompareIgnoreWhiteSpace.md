@@ -9,6 +9,7 @@ authorEmail: mark.g.smith@baesystems.com
 version: 1
 cfVersion: CF5
 shortDescription: Performs a comparison of two strings ignoring any whitespace characters.
+tagBased: false
 description: |
  Performs a comparison of two strings ignoring any whitespace characters including form feeds, line feeds, carriage returns, tabs, vertical tabs, and spaces.  Comparison is case sensitive unless a third argument of &quot;false&quot; is passed in.
 

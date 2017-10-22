@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of a rectangle.
+tagBased: false
 description: |
  Calculates the area of a rectangle based on the length of one side and the width of an adjacent side.
 

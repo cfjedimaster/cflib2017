@@ -9,6 +9,7 @@ authorEmail: acdhirr@trilobiet.nl
 version: 1
 cfVersion: CF5
 shortDescription: Divide a string in parts of equal size with separators in between/
+tagBased: false
 description: |
  Divide a string in parts of equal size separated by a character sequence of choice. 
  

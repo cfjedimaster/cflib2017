@@ -9,6 +9,7 @@ authorEmail: michael.krock@avv.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a hex value to a string.
+tagBased: false
 description: |
  Converts a hex value to a string.
 

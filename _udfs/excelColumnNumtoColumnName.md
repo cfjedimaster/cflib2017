@@ -9,6 +9,7 @@ authorEmail: adam@fusiongrokker.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a numeric column position to its Excel Column Name
+tagBased: false
 description: |
  Converts a numeric column position (i.e. 127) to its Excel Column Name (DW). Assumes column numbers are 1-based (1=A,2=B,...)
 

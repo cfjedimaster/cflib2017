@@ -9,6 +9,7 @@ authorEmail: ant@bluevan.co.uk
 version: 2
 cfVersion: CF5
 shortDescription: Remove extra characters from a form post added by Mac IE.
+tagBased: false
 description: |
  Removes extra characters (CR,LF) that are added to form variables when a method=&quot;post&quot; is submitted from Internet Explorer on a Mac.  This function operates on all variables in the Form scope structure. Thanks to Joshua Miller for his suggestions.
 

@@ -9,6 +9,7 @@ authorEmail: cflib@chandler.it
 version: 1
 cfVersion: CF5
 shortDescription: Formats a string to become a valid UK postcode
+tagBased: false
 description: |
  Formats a string to become a valid UK postcode
 

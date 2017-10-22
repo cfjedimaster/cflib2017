@@ -9,6 +9,7 @@ authorEmail: jeff@farcryfly.com
 version: 2
 cfVersion: CF5
 shortDescription: Function to translate Macromedia's XML Resource Feed into ColdFusion variables.
+tagBased: false
 description: |
  This Page contains a function to take Macromedia's XML Resource feed and put it into ColdFusion variables.
  

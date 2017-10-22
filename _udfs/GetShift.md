@@ -9,6 +9,7 @@ authorEmail: rob@robrusher.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the work shift for a sequence based work schedule.
+tagBased: false
 description: |
  Returns the work shift for a sequence based work schedule. Mostly used by public organizations such as fire and police depts.
 

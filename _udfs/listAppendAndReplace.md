@@ -9,6 +9,7 @@ authorEmail: kit.brandner@serebra.com
 version: 1
 cfVersion: CF5
 shortDescription: Appends one list to another, with a maximum list length specified, and replaces any overlapping values.
+tagBased: false
 description: |
  Appends one list to another, with a maximum list length specified, and replaces any overlapping values.
 

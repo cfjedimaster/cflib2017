@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: Generates an 8-character random password free of annoying similar-looking characters such as 1 or l.
+tagBased: false
 description: |
  Generates a random 8-character password 
  that is free of annoying easily confused characters such as 1 or l, O or 0.  This is done by taking a UUID, combining parts of it into two-byte chunks, and treating the two-byte chunk as a hexadecimal number. This number is then converted into base-10 and converted into a chr().

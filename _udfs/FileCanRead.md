@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF6
 shortDescription: Checks if a file can be read.
+tagBased: false
 description: |
  Checks if a file can be read. It uses the standard Java File object, which makes it very fast under Coldfusion MX
 

@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if the function is a BIF (built in function) or UDF (user defined function).
+tagBased: false
 description: |
  This UDF checks to see if a particular string is a BIF (built in function) or UDF (user defined function).
 

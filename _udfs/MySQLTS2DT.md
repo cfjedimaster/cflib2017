@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a MySQL timestamp to a CF DateTime object.
+tagBased: false
 description: |
  Converts the passed MySQL timestamp to a ColdFusion DateTime object.
 

@@ -9,6 +9,7 @@ authorEmail: steve@bryantwebconsulting.com
 version: 1
 cfVersion: CF6
 shortDescription: Get an array of the attributes used in the given custom tag file.
+tagBased: true
 description: |
  Pass in the full path of a custom tag to get an array of the attributes in the file.
 

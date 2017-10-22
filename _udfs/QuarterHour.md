@@ -9,6 +9,7 @@ authorEmail: dave@babbitt.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns a string with a mixed fraction of quarters.
+tagBased: false
 description: |
  Given the number of minutes to be converted,it returns a string with a mixed fraction of fourths of an hour.
 

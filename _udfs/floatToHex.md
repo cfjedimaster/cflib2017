@@ -9,6 +9,7 @@ authorEmail: cfsearching@yahoo.com
 version: 0
 cfVersion: CF6
 shortDescription: Converts a java float to a 32-bit hexadecimal representation
+tagBased: true
 description: |
  Converts a java float to a 32-bit hexadecimal representation (IEEE 754 floating-point number)
 

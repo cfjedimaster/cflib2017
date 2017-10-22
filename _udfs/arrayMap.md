@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: arrayMap() for CF9/10
+tagBased: false
 description: |
  ArrayMap is introduced in CF11 but it is quite easy to make it available for CF10.
 

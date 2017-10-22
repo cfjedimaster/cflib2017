@@ -9,6 +9,7 @@ authorEmail: tyler.bowler@rivhs.com
 version: 1
 cfVersion: CF6
 shortDescription: Simulates a paused state within an executed Coldfusion script.
+tagBased: false
 description: |
  As a more dependable means of holding coldfusion execution for a set period of time I created the pause function.  I could not depend on using GetTickCount due to the inability to specify how long to wait. Using this code will allow you to simulate a pause/wait state within any coldfusion script.  Make sure the Timeout Requests setting is not enabled or your numbers of seconds are less than the specified timeout value, or the request will timeout. Great for batch processing.
 

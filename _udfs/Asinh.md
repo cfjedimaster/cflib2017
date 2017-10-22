@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the inverse hyberbolic sine of a value.
+tagBased: false
 description: |
  Returns the inverse hyberbolic sine of a value.  All angles are expressed in radians.
 

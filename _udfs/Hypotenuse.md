@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the hypotenuse of a right triangle by Pythagorean theorem, given the lengths of the other two sides.
+tagBased: false
 description: |
  Returns the hypotenuse of a right triangle by Pythagorean theorem, given the lengths of the other two sides.
 

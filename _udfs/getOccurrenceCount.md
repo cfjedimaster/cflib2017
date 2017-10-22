@@ -9,6 +9,7 @@ authorEmail: cridgway@dcccd.edu
 version: 1
 cfVersion: CF5
 shortDescription: Count the occureneces of a value or list of values in a given string.
+tagBased: false
 description: |
  Count the occurences of a value or list of values in a string.  Pass the string (lists will be treated as strings) to parse and anything from a single character to a list of various items to count and the count or list of counts will be returned.  Spaces in the item or list of items are not stripped.
 

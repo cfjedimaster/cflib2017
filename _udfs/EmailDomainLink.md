@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Formats an e-mail address so that its domain is a link to its web site.
+tagBased: false
 description: |
  Formats specified e-mail address so that its domain is a link to its www.domain.com web site. Helpful when analyzing where your subscribers come from.
 

@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 2
 cfVersion: CF5
 shortDescription: This UDF returns a random number of a length passed in by the user.
+tagBased: false
 description: |
  This UDF returns a string representation of a random number containing length digits. The function uses a combination of a UUID and the current date/time to periodically seed the ColdFusion random number generator.
 

@@ -9,6 +9,7 @@ authorEmail: mtangorre@cfcoder.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks that a value is equal to 1 or 0.
+tagBased: false
 description: |
  isBit checks to see if a value is 1 or 0. This comes in handy when checking radio button values where you have two radio buttons with bit values. While this does not save a lot of typing, it does help, especially when your form has an abundance of radio buttons, etc.
 

@@ -9,6 +9,7 @@ authorEmail: me@hofo.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert cardinal number strings to ordinal number strings.
+tagBased: false
 description: |
  Takes a cardinal number string and converts it to an ordinal number string. This is particularly useful when combined with the NumberAsString UDF.
 

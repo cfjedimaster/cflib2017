@@ -9,6 +9,7 @@ authorEmail: shaun.ambrose@arcorsys.com
 version: 1
 cfVersion: CF5
 shortDescription: Deletes the n leftmost elements from the specified list.
+tagBased: false
 description: |
  Deletes the n leftmost elements from the specified list. Accepts an optional delimiter. Note that if the number of elements to delete is greater than the number of elements in the list, the UDF returns an empty string.
 

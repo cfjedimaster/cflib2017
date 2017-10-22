@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Climbs up a given UNC Path a specified number of levels.
+tagBased: false
 description: |
  The UpDirLevel UDF climbs up a UNC Path a specified number of levels. I've found this useful when creating site management tools in one directory that affect files in another directory. You could return the ROOT of a path or use it to move to the directoy immediately above the current location.
 

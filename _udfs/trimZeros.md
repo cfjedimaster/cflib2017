@@ -9,6 +9,7 @@ authorEmail: amccollough@anthc.org
 version: 1
 cfVersion: CF5
 shortDescription: I trim leading and trailing zeros off of a decimal number.
+tagBased: false
 description: |
  I take a number, and if it equals zero, I return zero. Otherwise, I return the number, stripped of leading and trailing zeros. 
  

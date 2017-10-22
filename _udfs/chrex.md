@@ -9,6 +9,7 @@ authorEmail: okugawa@mail.com
 version: 1
 cfVersion: CF6
 shortDescription: Charset attribute enabled extended chr function.
+tagBased: true
 description: |
  Charset attribute enabled extended chr function.
 

@@ -9,6 +9,7 @@ authorEmail: todd@cfsilence.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a duration of time to seconds.
+tagBased: true
 description: |
  This will take a duration of time and return the total number of seconds.  For example, 4 minutes and 27 seconds would return 267.
 

@@ -9,6 +9,7 @@ authorEmail: craig@altainetractive.com
 version: 1
 cfVersion: CF5
 shortDescription: Concatenates two arrays.
+tagBased: false
 description: |
  Take two arguments, Array1 and Array2. Concatenates Array2 to the end of Array1.
 

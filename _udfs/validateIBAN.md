@@ -9,6 +9,7 @@ authorEmail: h.vanempel@s-hertogenbosch.nl
 version: 1
 cfVersion: CF10
 shortDescription: Validates an IBAN number.
+tagBased: true
 description: |
  Validates an IBAN number.
 

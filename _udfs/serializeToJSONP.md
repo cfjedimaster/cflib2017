@@ -9,6 +9,7 @@ authorEmail: sgood@lanctr.com
 version: 0
 cfVersion: CF8
 shortDescription: Serializes data to JSONP format for cross domain JSON requests.
+tagBased: true
 description: |
  This method takes two arguments, the data to be serialized and the callback in which to wrap the data. It then serializes the data and wraps it with the callback in JSONP format. This allows javascript to make cross domain requests.  I will extend my facade CFCs from a base CFC that contains this method so I can call it internally.
 

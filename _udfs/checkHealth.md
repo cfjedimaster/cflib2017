@@ -9,6 +9,7 @@ authorEmail: siegfried.heckl@siemens.com
 version: 1
 cfVersion: CF9
 shortDescription: Serve system checks for nagios or other monitoring solutions.
+tagBased: true
 description: |
  Provides a check of system health for memory usage, queued requests or average requesttime and returns status for Nagios.
  0 = ok, 1 = warning, 2 = critical, 3 = unknown/unreachable.

@@ -9,6 +9,7 @@ authorEmail: pauL@ongevraagdadvies.nl
 version: 1
 cfVersion: CF9
 shortDescription: Checks if a string is an ODBC formatted date, time, or timestamp
+tagBased: true
 description: |
  The function checks if a string is an ODBC formatted date, time, or timestamp; returns a boolean.
  Checks for validity of the time and date, between the year 1000 and 3999.

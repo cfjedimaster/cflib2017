@@ -9,6 +9,7 @@ authorEmail: rick@webworksllc.com
 version: 1
 cfVersion: CF6
 shortDescription: Recursively delete a directory.
+tagBased: true
 description: |
  This UDF allows you to delete a directory and all of it's contents. Note - in CFMX7, this UDF is not necessary.
 

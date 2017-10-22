@@ -9,6 +9,7 @@ authorEmail: sam@blinex.com
 version: 1
 cfVersion: CF6
 shortDescription: Accepts a numeric GUID stored in a Byte Array and converts it to a string in the normal convention.
+tagBased: false
 description: |
  Useful when returning GUIDs (16-byte globally unique identifier, aka Replication ID's) from a database in CFMX. CF5 returned the GUIDs as a string when retrieved from a database and as such could easily be copied into SQL for another database call.  However, CFMX returns byte arrays and they need to be converted before they can be inserted into SQL.
 

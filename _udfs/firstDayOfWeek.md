@@ -9,6 +9,7 @@ authorEmail: pruckelshaus@yahoo.com
 version: 2
 cfVersion: CF9
 shortDescription: Analogous to firstDayOfMonth() function.
+tagBased: false
 description: |
  Returns the date for the first day of the week for a passed in date object.  Assumes Sunday as the first day of the week.
 

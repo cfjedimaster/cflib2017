@@ -9,6 +9,7 @@ authorEmail: bobr@autobytel.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the number of files in a directory. (Windows only)
+tagBased: false
 description: |
  This function accepts a directory path as it's only argument, and requires the Windows Scripting Runtime host to work.
 

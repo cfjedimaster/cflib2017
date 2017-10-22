@@ -9,6 +9,7 @@ authorEmail: todd@cfsilence.com
 version: 1
 cfVersion: CF5
 shortDescription: Extracts the host name from a URL.
+tagBased: true
 description: |
  Uses Java to extract the host name from a URL.  Different from getHostFromURL (http://www.cflib.org/udf.cfm?id=494) since this UDF uses Java to extract the host name and getHostFromURL uses regex.
 

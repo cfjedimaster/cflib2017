@@ -9,6 +9,7 @@ authorEmail: randy@cfconcepts.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns last day of the week, assumes Saturday is the last day.
+tagBased: false
 description: |
  This function will return the next Saturday after the date you pass in.
 

@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: CssPtScale increases the point size of text by one point for browsers other than Microsoft Internet Explorer.
+tagBased: false
 description: |
  CssPtScale increases the point size of text by one point for browsers other than Microsoft Internet Explorer. Other browsers seem to render points at a smaller scale than IE, so to keep consistancy when using points, use this function to auto-size your text accordingly.
 

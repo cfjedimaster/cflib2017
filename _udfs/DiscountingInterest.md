@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Calculate the actual value of an amount by discounting the interest over n years.
+tagBased: false
 description: |
  Calculate the actual value of an amount by discounting the interest over n years.
 

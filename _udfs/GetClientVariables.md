@@ -9,6 +9,7 @@ authorEmail: rsegal@figleaf.com
 version: 1
 cfVersion: CF5
 shortDescription: Function returns a structure of client variable.
+tagBased: false
 description: |
  A structure with the client variable names as keys and the key values equal to the client variable values is returned when the function is called.
 

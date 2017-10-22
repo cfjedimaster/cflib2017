@@ -9,6 +9,7 @@ authorEmail: jlicht5@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts kilometers to miles.
+tagBased: false
 description: |
  Converts kilometers to miles.
 

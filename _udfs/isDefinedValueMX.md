@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 1
 cfVersion: CF6
 shortDescription: Checks that a variable exists and has value. CFMX version.
+tagBased: false
 description: |
  Use like isDefined for variables plus confirm the variable has an assigned value. For a named variable,  if it is defined and has value returns 1,  if it is not defined returns 0; if it is defined and has empty value returns 0.  Optionally, allows specifying a check value to test the named variable for a specific value. This extends the function by, if it is defined and has this value, then return 1. A checked value must be a simple value or an empty string.
  isDefinedValueMX improves on the isDefinedValue CF5 version and built-in isDefined by returning a 0 on error conditions. 

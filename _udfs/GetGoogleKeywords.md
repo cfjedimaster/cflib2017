@@ -9,6 +9,7 @@ authorEmail: matt@fus.net
 version: 1
 cfVersion: CF5
 shortDescription: Pass it a http_referer value and this fuction will parse out the keywords used to find it if referred from Google.
+tagBased: false
 description: |
  This function will accept a http_referer and check to see if referer is from google.com. If so, it will return the keywords used for the search. If not, this function will return an empty string.
 

@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF9
 shortDescription: Updates the dateLastModified file attribute.
+tagBased: false
 description: |
  Updates the dateLastModified file attribute.
 

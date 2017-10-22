@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 0
 cfVersion: CF6
 shortDescription: normalizes a file path to remove invalid slashes and extra dots.
+tagBased: false
 description: |
  Turns c:\path\/to//dir/../other into c:\path\to\other - file or directory must already exist.
 

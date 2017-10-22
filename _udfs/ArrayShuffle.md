@@ -9,6 +9,7 @@ authorEmail: ivan@cfchat.net
 version: 1
 cfVersion: CF5
 shortDescription: Shuffles the values in a one-dimensional array.
+tagBased: false
 description: |
  Shuffles the values in a one-dimensional array.  This functions takes a one-dimensional array and returns a new one with the values from the first randomly shuffled.
 

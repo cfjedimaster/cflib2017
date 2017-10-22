@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 1
 cfVersion: CF5
 shortDescription: Function that determines if a given date range contains a leap year.
+tagBased: false
 description: |
  Function that determines if a given date range contains a leap year.  Returns true if it contains a leap year, false if not.
 

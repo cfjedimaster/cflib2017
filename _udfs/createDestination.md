@@ -9,6 +9,7 @@ authorEmail: marko.simic@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Creates BlazeDS destination at runtime
+tagBased: false
 description: |
  In case you want to physically  separate communication between certain groups of users, best way to do that is to create new destination and to direct messages on it. One way to do that is to define destination in messaging-config.xml or dynamically at runtime using this function. 
  It takes 2 arguments: 

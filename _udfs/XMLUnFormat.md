@@ -9,6 +9,7 @@ authorEmail: kkz@foureyes.com
 version: 1
 cfVersion: CF5
 shortDescription: UN-escapes the five forbidden characters in XML data.
+tagBased: false
 description: |
  This is a simple UDF which does the exact opposite of CFMX's XmlFormat() function.  Specifically, it replaces the following five characters in XML-escaped data with their normal equivalents:
  &gt; with &gt;

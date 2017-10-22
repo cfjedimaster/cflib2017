@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the 2 character english text ordinal for numbers.
+tagBased: false
 description: |
  Takes a number as an argument, and returns the 2 letter english text ordinal appropriate for the number. For example, the number 1 would return &quot;st&quot; for 1st, and so on.
 

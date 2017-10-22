@@ -9,6 +9,7 @@ authorEmail: jared@web-relevant.com
 version: 1
 cfVersion: CF6
 shortDescription: Strips all table and table content tags and extra whitespace from a string.
+tagBased: true
 description: |
  Handy for scraping screens. This will strip all table, tr, td, and th tags from a string. It also removes leading whitespace and extra newline characters to eliminate code formatting.
 

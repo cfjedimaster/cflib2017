@@ -9,6 +9,7 @@ authorEmail: chris@chrisschofield.com
 version: 0
 cfVersion: CF5
 shortDescription: Converts a unit of memory to another unit of memory.
+tagBased: true
 description: |
  Convert any number between the following units of memory: bit, byte, kilobit, kilobyte, megabit, megabyte, gigabit, gigabyte, terabit, terabyte, petabit, petabyte, exabit, exabyte, zettabit, zettabyte, yottabit, and yottabyte. Can also specify number format to return.
 

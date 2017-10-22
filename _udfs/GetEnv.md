@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns environment information. (Windows only!)
+tagBased: true
 description: |
  Returns environment information. (Windows only!)
 

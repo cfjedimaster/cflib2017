@@ -9,6 +9,7 @@ authorEmail: praveen@smeng.com
 version: 2
 cfVersion: CF6
 shortDescription: Trim traling zeros from a numeric field.
+tagBased: true
 description: |
  Trim traling zeros from a numeric field.
 

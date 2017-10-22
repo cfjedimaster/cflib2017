@@ -9,6 +9,7 @@ authorEmail: wertle@wertle.com
 version: 1
 cfVersion: CF5
 shortDescription: Gets the current graduation year/end of school year.
+tagBased: true
 description: |
  Returns the current graduation year/end of school year (returns -1 on an error).  Useful for determining which school year we are currently in as opposed to which fiscal year.  Uses the now(), Month(), and Year() functions.
 

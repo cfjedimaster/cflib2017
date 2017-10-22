@@ -9,6 +9,7 @@ authorEmail: the.one.true.dave.anderson@gmail.com
 version: 0
 cfVersion: CF9
 shortDescription: Converts ini file(s) to a struct.
+tagBased: false
 description: |
  This differs from another UDF on this site in two ways:
  1) will parse multiple .ini files

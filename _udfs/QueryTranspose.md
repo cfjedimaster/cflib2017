@@ -9,6 +9,7 @@ authorEmail: glenn.buteau@rogers.com
 version: 1
 cfVersion: CF6
 shortDescription: Transpose a query.
+tagBased: true
 description: |
  Transpose a 2D query, turning rows into columns and columns into rows. Original column headers can be turned on or off.
 

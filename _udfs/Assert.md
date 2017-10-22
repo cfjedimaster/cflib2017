@@ -9,6 +9,7 @@ authorEmail: dchalk99@hotmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Complex variable checking with a single function call.
+tagBased: false
 description: |
  This function when passed an assertion rule string will validate assertions given, which enables the user to parse multiple variables against multiple rule sets.
 

@@ -9,6 +9,7 @@ authorEmail: sduffey@ci.davis.ca.us
 version: 2
 cfVersion: CF5
 shortDescription: Calculates time from seconds after midnight.
+tagBased: false
 description: |
  Calculates time from seconds after midnight.  The date part of a time variable is set to December 30, 1899
 

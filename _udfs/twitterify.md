@@ -9,6 +9,7 @@ authorEmail: johnnykrisma@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts hashtags, mentions, and embedded URLs to clickable links.
+tagBased: false
 description: |
  when you retrieve a tweet from the Twitter API, the text doesn't have links to mentions(@), hashtags(#), or URLs. This function uses regular expressions to parse the tweet and link to all three types of references.
 

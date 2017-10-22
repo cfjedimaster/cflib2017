@@ -9,6 +9,7 @@ authorEmail: steve@stevegood.org
 version: 1
 cfVersion: CF8
 shortDescription: Duplicates small to medium MySQL databases.
+tagBased: true
 description: |
  This function will duplicate any small to medium sized MySQL databases on the same DB server. I strongly discourage using this on large DBs! You can dupe schema only or schema + data.
 

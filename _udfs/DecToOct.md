@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts from decimal (base10) to octal (base8).
+tagBased: false
 description: |
  Converts from decimal (base10) to octal (base8).  Provides a wrapper around the BIF FormatBaseN.  Converts both positive and negative numbers.
 

@@ -9,6 +9,7 @@ authorEmail: ryan@stillnet.org
 version: 1
 cfVersion: CF7
 shortDescription: Function to easily create query objects with data types.
+tagBased: false
 description: |
  Creating large queries with queryNew() and specifying data types can be frustrating.  The long comma separated lists of fields and datatypes can be hard to correlate.  This function makes it easier to create queries with datatypes specified.
 

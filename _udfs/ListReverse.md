@@ -9,6 +9,7 @@ authorEmail: spike@spike.org.uk
 version: 2
 cfVersion: CF5
 shortDescription: Reverses a list.
+tagBased: false
 description: |
  Reverses a list.
 

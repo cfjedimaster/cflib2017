@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 0
 cfVersion: CF6
 shortDescription: Provides the CF8 ReMatchNoCase functionality in MX6/MX7
+tagBased: false
 description: |
  Provides the ReMatchNoCase function for MX6 and MX7.  Not for use on MX8 (built in function).
 

@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the factorial (n!) for a given positive integer.
+tagBased: false
 description: |
  Returns the factorial (n!) for a given positive integer.
 

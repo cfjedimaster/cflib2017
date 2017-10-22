@@ -9,6 +9,7 @@ authorEmail: doug@cubicleman.com
 version: 1
 cfVersion: CF5
 shortDescription: returns a list of tags for a module in CVS based on passed in rlog results.
+tagBased: false
 description: |
  CVS has no easy way to return a list of tags for a module.  The common method is to parse the results of rlog to obtain this list.  Use cfexecute, or some other method, to execute cvs rlog -h -l &lt;filelist&gt;.  Pass the results to getTagListFromRLOG() to get a list of tags on the file list.  See getAllFilesInModule() for help in building this file list.
 

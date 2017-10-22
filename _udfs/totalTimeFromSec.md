@@ -9,6 +9,7 @@ authorEmail: hamlet@igetspanish.com
 version: 0
 cfVersion: CF5
 shortDescription: Get total time from seconds in hh&#58;mm&#58;ss format
+tagBased: false
 description: |
  Similar to getTimeFromSeconds, except it's not restricted to 24 hours or less. Function can be used to calculate total duration of time and format it to display as hh:mm:ss
 

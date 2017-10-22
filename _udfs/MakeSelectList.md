@@ -9,6 +9,7 @@ authorEmail: sduffey@ci.davis.ca.us
 version: 2
 cfVersion: CF5
 shortDescription: Creates a Select form item populated with given string items.
+tagBased: false
 description: |
  Creates a Select form item populated with given string items.
 

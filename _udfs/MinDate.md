@@ -9,6 +9,7 @@ authorEmail: psalm_119_@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns smaller of 2 dates.
+tagBased: false
 description: |
  Returns smaller of 2 dates.
 

@@ -9,6 +9,7 @@ authorEmail: fluid@sc.rr.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts degrees Kelvin to degrees Rankine.
+tagBased: false
 description: |
  Converts degrees Kelvin to degrees Rankine.Note that both the Kelvin and Rankine temperature scales have an absolute zero (negative Kelvin and Rankine temperatures do not exist).  If a temperature below 0 Kelvin (absolute 0) is passed, the funciton will return an invalid result.
 

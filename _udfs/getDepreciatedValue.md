@@ -9,6 +9,7 @@ authorEmail: sneakyllama@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: This function outputs the current value of an item based on straight line depreciation.
+tagBased: true
 description: |
  This function outputs the current value of an item based on straight line depreciation.
 

@@ -9,6 +9,7 @@ authorEmail: todd@cfsilence.com
 version: 1
 cfVersion: CF5
 shortDescription: Extract all occurrences of a given tag pair from a string.
+tagBased: false
 description: |
  Based on getTagContent, this UDF will extract all occurrences of a given tag pair from a string (getTagContent only returns a single occurrence of the tag) and return the individual occurrences as elements in an array.  If the tag is not found the UDF will return an empty array.
 

@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the specified folder is the root folder. (Windows only)
+tagBased: false
 description: |
  Returns True if the specified folder is the root folder.  Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

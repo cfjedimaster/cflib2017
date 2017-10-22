@@ -9,6 +9,7 @@ authorEmail: nick@devoil.com
 version: 4
 cfVersion: CF5
 shortDescription: Returns TRUE if the string is a valid credit card number.
+tagBased: false
 description: |
  Returns TRUE if the given credit card number is well-formed
  according to the industry-standard Luhn algorithm, and (optionally) conforms with basic

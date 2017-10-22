@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: A Mid() function for lists.  Returns n elements starting at the specified start position.
+tagBased: false
 description: |
  A Mid() function for lists.  Returns n elements starting at the specified start position.  Accepts an optional delimiter.  Note that if the number of elements to return is greater than the number of elements in the list, the UDF simply returns all elements.
 

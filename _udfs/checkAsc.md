@@ -9,6 +9,7 @@ authorEmail: tjarko@ditadres.com
 version: 1
 cfVersion: CF5
 shortDescription: Only allow ASCII text string.
+tagBased: false
 description: |
  Only allow the ASCII text characters (33 to 126) for a certain string, you can also give a list of character numbers for the characters you also want to deny in the string.
 

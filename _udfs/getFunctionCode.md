@@ -9,6 +9,7 @@ authorEmail: paul_kenney_77@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: This will return the CFML code for a given user-defined function.
+tagBased: true
 description: |
  This function returns a string that contains the CFML implementation code for a specified user-defined function.  This will find functions in both cfscript and cffunction tags.  If the function cannot be found or it's template is encrypted, then this will return an empty string.
 

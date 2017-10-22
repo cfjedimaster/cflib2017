@@ -9,6 +9,7 @@ authorEmail: scott@jibben.com
 version: 1
 cfVersion: CF5
 shortDescription: This UDF will find the first variable scope that exists for a variable in the list of variable scopes and return its value.
+tagBased: false
 description: |
  This UDF can be used to get a value from a form, url, or other scope variable depending on its existence.  It can also be useful to force a scope precedence that is different from the ColdFusion default.  The optional 3rd parameter allows you to define the default return value if is desired.
 

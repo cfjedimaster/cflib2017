@@ -9,6 +9,7 @@ authorEmail: no.junk@cutterscrossing.com
 version: 1
 cfVersion: CF5
 shortDescription: Lower Case Structure Keys
+tagBased: false
 description: |
  This method will take a structure and lower case all the keys, including those of inner structures. Handy when creating objects for JSON serialization.
 

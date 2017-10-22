@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the coordinates of the midpoint between two points on a line.
+tagBased: false
 description: |
  Returns the coordinates of the midpoint between two points on a line on the Cartesian coordinate system.
 

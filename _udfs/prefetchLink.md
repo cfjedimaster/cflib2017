@@ -9,6 +9,7 @@ authorEmail: wsgrah@wm.edu
 version: 1
 cfVersion: CF5
 shortDescription: Creates the prefetch directive for Mozilla/Firefox browsers.
+tagBased: false
 description: |
  Creates the prefetch directive for Mozilla/Firefox to load pages into the browser cache while the browser is idle.
 

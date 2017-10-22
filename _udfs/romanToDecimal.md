@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts Roman numerals to decimal.
+tagBased: false
 description: |
  Converts Roman numerals to decimal. Assumes a valid ROman numeral.
 

@@ -9,6 +9,7 @@ authorEmail: ant@bluevan.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Like structInsert() but does not throw an error if the key exists and you choose not to overwrite.
+tagBased: false
 description: |
  A replacement for structInsert() function. Works around the structInsert() feature of thowing an error if you are writing to a struct, the key exists, and you don't want to overwrite.
 

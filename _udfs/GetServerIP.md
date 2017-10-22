@@ -9,6 +9,7 @@ authorEmail: reverland@reactivevision.com
 version: 1
 cfVersion: CF5
 shortDescription: Gets the ip address of the server.
+tagBased: false
 description: |
  This tag is able to get the ip address of your server. This can be used for servers that are in a cluster and you need to know the ipaddress of the computer throwing an error. This will only work for one ip of a machine.
 

@@ -9,6 +9,7 @@ authorEmail: matt@fus.net
 version: 1
 cfVersion: CF5
 shortDescription: Removes duplicate rows from a query based on a key column.
+tagBased: false
 description: |
  This function will find rows with duplicate entries in a given column. Useful for filtering Verity results containing database primary keys in CUSTOM1 or CUSTOM2 fields and anywhere else where duplicate database rows might be present.
 

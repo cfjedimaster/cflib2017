@@ -9,6 +9,7 @@ authorEmail: paul_kenney_77@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: Introspect Java object's fields, methods, and all inheritance info.
+tagBased: true
 description: |
  This returns a data structure that contains all the fields and methods for a given Java object and all of the classes from which it inherits.  It is similar in nature to the CFMX function getMetadata().  It is very useful for inspecting objects for which you haven't any documented API... like all of CFMX!
 

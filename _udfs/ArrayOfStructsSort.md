@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Sorts an array of structures based on a key in the structures.
+tagBased: false
 description: |
  This function takes an array of structures and the name of a key in the structures and returns a new array of structures sorted by the key.
 

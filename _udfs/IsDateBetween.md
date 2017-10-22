@@ -9,6 +9,7 @@ authorEmail: bking@hostworks.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the date provided in the first argument lies between the two dates in the second and third arguments.
+tagBased: false
 description: |
  Returns True if the date provided in the first argument lies between the two dates in the second and third arguments.
 

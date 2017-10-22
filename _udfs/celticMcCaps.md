@@ -9,6 +9,7 @@ authorEmail: kyle@themacs.info
 version: 2
 cfVersion: CF5
 shortDescription: Proper capitalization for us Mc's and Mac's!
+tagBased: false
 description: |
  You can use this function whenever you output an undetermined list of last names in order to be sure that the McNamaras and the MacGreggors names are output correctly.
 

@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns different colors if the number passed to it is even or odd.
+tagBased: false
 description: |
  This function takes 3 arguments, num,EvenColor, and OddColor.  num is the number you want to return the color for, EvenColor is the color returned if num is even, OddColor is the color returned if num is odd. This can be used to easily alternate table row or even cell colors.
 

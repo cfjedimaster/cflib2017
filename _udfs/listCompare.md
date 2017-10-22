@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 2
 cfVersion: CF6
 shortDescription: Compares one list against another to find the elements in the first list that don't exist in the second list.
+tagBased: true
 description: |
  Compares one list against another to find the elements in the first list that don't exist in the second list.  Performs the same funciton as the custom tag of the same name.
 

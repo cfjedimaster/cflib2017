@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates time from minutes after midnight.
+tagBased: false
 description: |
  Calculates time from minutes after midnight.  The date part of a time variable is set to December 30, 1899.
 

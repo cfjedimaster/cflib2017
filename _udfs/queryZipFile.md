@@ -9,6 +9,7 @@ authorEmail: dswitzer@pengoworks.com
 version: 1
 cfVersion: CF6
 shortDescription: Reads a zip file and converts the entries into a query object (including optional binary data.)
+tagBased: false
 description: |
  Reads a zip file and converts the entries into a query object (including optional binary data).
 

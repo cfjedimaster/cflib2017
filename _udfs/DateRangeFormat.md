@@ -9,6 +9,7 @@ authorEmail: bbuchs@mac.com
 version: 1
 cfVersion: CF6
 shortDescription: Format a range of dates (&quot;August 3 - 11, 2003&quot;).
+tagBased: false
 description: |
  DateRangeFormat() accepts three arguments: a start date, an end date, and the format mask to be used. Returns a string with redundant date formatting removed (&quot;August 3 - 11, 2003&quot;, &quot;December 23 - August 11, 2003&quot;).
 

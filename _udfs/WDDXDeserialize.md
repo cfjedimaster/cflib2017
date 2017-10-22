@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Allows for deserialization of WDDX data.
+tagBased: true
 description: |
  Allows for deserialization of WDDX data.
 

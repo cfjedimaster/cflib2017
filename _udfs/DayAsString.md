@@ -9,6 +9,7 @@ authorEmail: ljuncker@aljcompserv.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a string for a day value.
+tagBased: false
 description: |
  Returns a string representation of the numeric day value passed into it.
 

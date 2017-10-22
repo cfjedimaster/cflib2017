@@ -9,6 +9,7 @@ authorEmail: ericc@nc.rr.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts an RGB color value into a hexadecimal color value.
+tagBased: false
 description: |
  Converts an RGB color value into a hexadecimal color value.
 

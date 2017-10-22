@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Deletes an elements list from an array.
+tagBased: false
 description: |
  Deletes elements from an array passing the list of positions.
  Similar to ArrayDeleteAt but the position value could be a list of positions.

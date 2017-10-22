@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 1
 cfVersion: CF5
 shortDescription: A javascript alternative to the cflocation tag.
+tagBased: false
 description: |
  This udf takes a url and an optional frame argument and returns a small javascript which replaces the browser's current location in the browser's history stack with the url provided. This can be used after a cfflush tag and to the user is identical to the cflocation tag, preserving the browser's back button and works for both Netscape Navigator and MS Internet Explorer 3.0 and later.
 

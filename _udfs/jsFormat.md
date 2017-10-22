@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 1
 cfVersion: CF5
 shortDescription: Fixes an oversight in the jsstringformat() function
+tagBased: false
 description: |
  Extends the jsstringformat function and allows the string &quot;&lt;/script&gt;&quot; to be embedded in a javascript literal string, preventing &quot;unterminated string constant&quot; errors in your javascript.
 

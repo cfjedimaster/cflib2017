@@ -9,6 +9,7 @@ authorEmail: michael@mullertech.com
 version: 1
 cfVersion: CF5
 shortDescription: creates a webmaster@... address out of any URL.
+tagBased: false
 description: |
  This UDF takes a URL string input and creates a webmaster@ e-mail address. String can contain leading http:// or not, ie; webmaster_email(&quot;http://www.yoursite.com/somefolder/somepage.cfm?something=something&quot;) would produce &quot;webmaster@yoursite.com&quot;
  

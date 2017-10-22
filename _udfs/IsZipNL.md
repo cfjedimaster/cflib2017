@@ -9,6 +9,7 @@ authorEmail: MVerhoeven@Rhinofly.nl
 version: 2
 cfVersion: CF5
 shortDescription: Tests passed value to see if it is a properly formatted Dutch zip code.
+tagBased: false
 description: |
  Tests passed value to see if it is a properly formatted Dutch zip code. Does not check actual validity/existence of zip code!
 

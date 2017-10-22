@@ -9,6 +9,7 @@ authorEmail: lnorris@tiffinweb.com
 version: 0
 cfVersion: CF5
 shortDescription: Checks if a list consists of date values only.
+tagBased: false
 description: |
  Checks if a list consists of valid date values only.  Useful if processing a CSV file and a column requires all fields to be dates.  Based on isNumbericList().
 

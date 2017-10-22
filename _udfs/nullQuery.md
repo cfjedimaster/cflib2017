@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF5
 shortDescription: Initialize an empty query with default values.
+tagBased: false
 description: |
  If a query result set contains no rows but your code requires it, this function will initialize it with pre-defined values.
  

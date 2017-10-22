@@ -9,6 +9,7 @@ authorEmail: willy.mx@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Checks to see if a CF FTP connection is still connected.
+tagBased: true
 description: |
  Checks to see if a CF FTP connection is still connected.
 

@@ -9,6 +9,7 @@ authorEmail: charlie@griefer.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks the strength of a user supplied password.
+tagBased: false
 description: |
  Returns a structure that holds data used to check the strength of a user supplied password.  keys include:
  

@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Create a complex number as a structure.
+tagBased: false
 description: |
  This function simply builds a structure representing a complex number. This is a useful format to enable working with complex numbers.
 

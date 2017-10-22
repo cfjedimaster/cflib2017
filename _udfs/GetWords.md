@@ -9,6 +9,7 @@ authorEmail: david@insite.net
 version: 2
 cfVersion: CF5
 shortDescription: Shortens a string without cutting words in half.
+tagBased: false
 description: |
  Supply a string and number of words to return, this returns that number of words with an ellipsis at the end.  If the number of words argument is greater than the actual number of words, the original string will be returned without the ellipsis.
 

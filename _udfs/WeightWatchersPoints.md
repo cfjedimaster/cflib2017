@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns Weight Watchers Winning Points from calories, fat, and dietary fiber.
+tagBased: false
 description: |
  Function takes calories, fat grams, and grams of dierary fiber and returns the number of Weight Watchers Winning Points.
 

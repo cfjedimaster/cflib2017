@@ -9,6 +9,7 @@ authorEmail: bengarrett@civbox.org
 version: 1
 cfVersion: CF6
 shortDescription: Compares a date/time string and validates it against the RFC 3339 - Date and Time on the Internet&#58; Timestamps protocol.
+tagBased: false
 description: |
  Compares a date/time string and validates it against the RFC 3339 - Date and Time on the Internet: Timestamps protocol. Its use is a requirement for all date/time values contained within Atom 1 feeds which is supported by CF8's CFFEED tag.
 

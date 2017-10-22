@@ -9,6 +9,7 @@ authorEmail: ngiovanni@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: strips all graph characters (spaces, tabs, line breaks) off the end of a string.
+tagBased: false
 description: |
  strips all graph characters (spaces, tabs, line breaks) off the end of a string.
 

@@ -9,6 +9,7 @@ authorEmail: cflib@vox.phydiux.com
 version: 3
 cfVersion: CF5
 shortDescription: Checks to see whether a string passed to it passes the Luhn algorithm (also known as the Mod10 algorithm)
+tagBased: false
 description: |
  Checks a string against the Luhn Algorithm. Also known as the mod10 algorithm. this function can be used to check the validity of credit card numbers, Canadian social insurance numbers, and any other number as well.
 

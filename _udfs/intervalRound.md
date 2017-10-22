@@ -9,6 +9,7 @@ authorEmail: rob@robrusher.com
 version: 1
 cfVersion: CF5
 shortDescription: Rounds any real number to a user specified interval.
+tagBased: false
 description: |
  As an alternative to traditional rounding, this UDF allows you to set the round interval for a number. So with an interval set to 25, the number would round to 0, 25, 50,...
 

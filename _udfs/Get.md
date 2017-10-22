@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF6
 shortDescription: Examine the contents of a BINARY file.
+tagBased: false
 description: |
  This UDF will return the ASCII value of a specified character in a BINARY file.
  

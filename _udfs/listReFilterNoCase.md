@@ -9,6 +9,7 @@ authorEmail: jamiejaxon@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Filters a target list, given a list of regex filters.
+tagBased: false
 description: |
  Filters a target list, given a list of regex filters. Mode may be either inclusive (default) or exclusive.
 

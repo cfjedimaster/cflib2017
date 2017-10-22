@@ -9,6 +9,7 @@ authorEmail: sam@blinex.com
 version: 1
 cfVersion: CF6
 shortDescription: Validates an XML file against an XML Schema (XSD).
+tagBased: true
 description: |
  This UDF accepts a single XML file any one or more XSD files and validates the XML against the specified XSD(s).  Supports no-namespace validation and namespace-aware validation.  Returns true/false if valid and optionally a structure with the detailed error message if the XML file doesn't validate properly.
  

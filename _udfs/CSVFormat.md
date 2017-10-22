@@ -9,6 +9,7 @@ authorEmail: cflib@jeffhowden.com
 version: 2
 cfVersion: CF5
 shortDescription: CSVFormat accepts the name of an existing query and converts it to csv format.
+tagBased: false
 description: |
  CSVFormat accepts the name of an existing query and converts it to CSV format, using the column names as headers.  It can wrap each column value with an optional qualifier. Very handy for use inside a cffile tag to create Excel files from queries.
 

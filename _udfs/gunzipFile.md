@@ -9,6 +9,7 @@ authorEmail: vallan@abnamromorgans.com.au
 version: 1
 cfVersion: CF6
 shortDescription: Unzip a gzipped (.gz) file.
+tagBased: false
 description: |
  This function takes one or two parameters (the FULL absolute path to the file to be unzipped) and optionally a directory to unzip the contained file to.  Note that this does not extract files in a tar.gz file (it only removes the gzip compression).  It assumes that both the source file and option destination exist and are valid.
 

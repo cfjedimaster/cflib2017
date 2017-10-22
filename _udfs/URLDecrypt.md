@@ -9,6 +9,7 @@ authorEmail: theald@schoollink.net
 version: 3
 cfVersion: CF5
 shortDescription: Add security by encrypting and decrypting URL variables. See URLEncrypt.
+tagBased: false
 description: |
  This is actually two functions.  The first urlEncrypt(&quot;name=value&amp;name=value&amp;name=value&quot;,key) you use when you would have a link or an action that you would be setting url variables in.  The second urlDecrypt(key) you use on whatever page you are calling, or using as the form action page.
 

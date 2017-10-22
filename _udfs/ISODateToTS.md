@@ -9,6 +9,7 @@ authorEmail: jamesedmunds@jamesedmunds.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts text string of ISO Date to datetime object; useful for parsing RSS and RDF.
+tagBased: false
 description: |
  Takes a text string of an ISO date and converts it to a datetime object. This is useful when parsing an RDF or RSS feed that uses Dublin Core or otherwise uses ISO formatted dates. Strips the date time down to the hour and minute, omitting seconds (as some feeds do not use seconds). Please note that the tiem zone is ignored.
 

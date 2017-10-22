@@ -9,6 +9,7 @@ authorEmail: mrnate@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Causes the current request to wait for a specified amount of time.
+tagBased: false
 description: |
  This function causes the current java thread, ( the current CFMX page request) to go to sleep for a specified number of milliseconds. Not tested with CF5. Found in Pete Freitag's blog (cfm.blogspot.com).
 

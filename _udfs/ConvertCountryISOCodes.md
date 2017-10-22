@@ -9,6 +9,7 @@ authorEmail: jules@universeg.com
 version: 0
 cfVersion: CF5
 shortDescription: Convert between ISO country types&#58; Name, Numeric, Alpha2 and Alpha3
+tagBased: true
 description: |
  Feed this any ISO Country type input type (Name, Numeric, Alpha2 or Alpha3) and it will return the requested type.
 

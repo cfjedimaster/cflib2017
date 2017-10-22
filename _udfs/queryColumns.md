@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF6
 shortDescription: Returns query column list.
+tagBased: false
 description: |
  Returns the columns in a query in the same order and case returned by the database. Note that you can get the same information in CFMX7 using the result attribute for cfquery.
 

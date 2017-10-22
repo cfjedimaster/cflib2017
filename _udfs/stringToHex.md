@@ -9,6 +9,7 @@ authorEmail: umbrae@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Counterpart to HexToString - converts an ASCII string to hexadecimal.
+tagBased: false
 description: |
  Counterpart to HexToString - converts an ASCII string to hexadecimal.
 

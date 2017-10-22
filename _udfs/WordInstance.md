@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the number of occurances of a word in a string.
+tagBased: false
 description: |
  Returns the number of occurances of a word in a string.
 

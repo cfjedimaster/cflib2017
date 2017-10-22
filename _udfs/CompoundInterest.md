@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Calculate the compound interest after n years.
+tagBased: false
 description: |
  Calculate the compound interest after n years.
 

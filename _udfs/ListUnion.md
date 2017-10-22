@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Combines two lists, automatically removing duplicate values and returning a sorted list.
+tagBased: false
 description: |
  Combines two lists, automatically removing duplicate values.  Allows for optional delimiters for all lists.  Also allows for optional sort type and sort order.
 

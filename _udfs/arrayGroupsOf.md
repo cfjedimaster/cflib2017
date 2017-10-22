@@ -9,6 +9,7 @@ authorEmail: marcos.placona@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Splits or iterates over the array in number of groups.
+tagBased: true
 description: |
  Splits or iterates over the array in number of groups, 
  padding any remaining slots with custom strings unless it is empty. It's a big helper for the presentation layer where sometimes it's necessary to display data broken down into columns.

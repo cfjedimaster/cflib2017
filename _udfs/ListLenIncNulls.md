@@ -9,6 +9,7 @@ authorEmail: tom@oxbowbooks.com
 version: 1
 cfVersion: CF5
 shortDescription: Length of list including empty elements.
+tagBased: false
 description: |
  Returns the number of list element in a given list, but counts empty-strings as bona-fide list elements.
 

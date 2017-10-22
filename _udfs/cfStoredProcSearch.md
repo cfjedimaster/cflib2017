@@ -9,6 +9,7 @@ authorEmail: bleachedbug@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Search SQL Server Stored Procedures for a value.
+tagBased: true
 description: |
  Returns a list of stored procedures containing the string supplied.
 

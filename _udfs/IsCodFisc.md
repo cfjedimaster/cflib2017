@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Check if a string is a well formed italian Fiscal Code.
+tagBased: false
 description: |
  Check if a string is a well formed italian Fiscal Code, useful for validating purposes.
 

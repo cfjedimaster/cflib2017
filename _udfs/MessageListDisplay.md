@@ -9,6 +9,7 @@ authorEmail: vautrain@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes an array or struct of basic values and returns and HTML-formatted string.
+tagBased: false
 description: |
  It takes in an array or struct of basic values, and returns each element with user-specified or default HTML tags wrapped around it. It is useful when accumulating error messages inside an array or struct during data validation and exception catching. Then you can just call MessageListDisplay when you're ready to display the output.
 

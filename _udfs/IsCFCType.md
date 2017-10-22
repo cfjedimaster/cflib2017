@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Checks if a given variable is a specific CFC type
+tagBased: false
 description: |
  Given a variable and a type to check for, this UDF returns a boolean value for whether the given variable is a component of the given type.
  

@@ -9,6 +9,7 @@ authorEmail: usaRaydar@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Blends all nested structs, arrays, and variables in a struct to another.
+tagBased: false
 description: |
  Works much like Coldfusion's own structAppend.  The difference is it checks all nested structs and updates or adds children nested keys and their values to any depth.
  

@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns all the matches (case insensitive) of a regular expression within a string. This is simular to reGet(), but more closely matches the result set of reFind.
+tagBased: true
 description: |
  Returns all the matches (case insensitive) of a regular expression within a string. This is simular to reGet(), but more closely matches the result set of reFindNoCase.
 

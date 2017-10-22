@@ -9,6 +9,7 @@ authorEmail: tom@toshop.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the latitude and longitude for a given latitude, longitude, true course and distance in nautical miles.
+tagBased: false
 description: |
  Calculates the latitude and longitude for a given latitude, longitude, true course and distance.  Calculates complete latitude and longitude for a given position, true course and distance in NAUTICAL MILES!
 

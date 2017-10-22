@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Decryption of the Password for an IPSWITCH IMail-Account (Tested for IMail 6).
+tagBased: false
 description: |
  Decryption of the Password for an IPSWITCH IMail-Account (Tested for IMail 6). IMail is (among others) a POP3 daemon for Microsoft Windows NT.  Any user who can login to the machine with the IMail database can also retrieve the encrypted passwords for ANY user.  All they need to do is open a registry editor (i.e., regedit.exe).
   

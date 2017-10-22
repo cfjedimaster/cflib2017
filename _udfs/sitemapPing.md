@@ -9,6 +9,7 @@ authorEmail: mail@frankmarion.com
 version: 1
 cfVersion: CF8
 shortDescription: Ping multiple search engines with your sitemap.xml file and get the server response.
+tagBased: true
 description: |
  Ping multiple search engines (google|yahoo|ask|bing|all) with the url of a sitemap file and get the server response as either xml or an array of structs.
 

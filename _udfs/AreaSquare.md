@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of a square.
+tagBased: false
 description: |
  Calculates the area of a square based on the length of one side.
 

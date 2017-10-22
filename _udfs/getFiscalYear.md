@@ -9,6 +9,7 @@ authorEmail: bob@bobclingan.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns fiscal year for a date
+tagBased: false
 description: |
  Returns the fiscal year for date. If no date is provided, year returned is based on the current timestamp.
 

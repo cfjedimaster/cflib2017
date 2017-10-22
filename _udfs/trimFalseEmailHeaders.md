@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 1
 cfVersion: CF5
 shortDescription: Clean variables, such as form input, to modify values that may have been entered to perform e-mail injection.
+tagBased: false
 description: |
  Clean variables, such as form input, to modify values that may have been entered to perform e-mail injection. This includes 'content-type','mime-version','to','bcc' and 'subject'. It keeps the value intact, but replaces colons to avoid injection.
  

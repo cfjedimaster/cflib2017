@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the scheme from a specified URL.
+tagBased: false
 description: |
  Returns the scheme (ending with &quot;://&quot;) for the passed URL. If no scheme is found, then returns an empty string. Works with any protocol that follows a &quot;scheme://x&quot; syntax.
 

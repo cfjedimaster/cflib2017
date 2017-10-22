@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Return true if the queryname passed was a cached query.
+tagBased: true
 description: |
  This UDF make use of service Factory to check wehther the queryname passed was run as a cached query.
 

@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Juxtaposes two lists together in an &quot;every other value&quot; method.
+tagBased: false
 description: |
  Juxtaposes two lists together making the first value of list1 the first value of the new list and the first value of list2 the second value of the new list, ad nauseum. Inserts blank values if one list is longer than the other.
 

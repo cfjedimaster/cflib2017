@@ -9,6 +9,7 @@ authorEmail: steve@bryantwebconsulting.com
 version: 2
 cfVersion: CF6
 shortDescription: Formats an XML document for readability.
+tagBased: false
 description: |
  This function takes an XML Document (or an XML string) and returns an XML string formatted for readability.
 

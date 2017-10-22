@@ -9,6 +9,7 @@ authorEmail: bharbin@activematter.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the day of the week for a date in the Julian calendar.
+tagBased: false
 description: |
  Returns the day of the week for a date in the Julian.  If no date is provided, defaults to the current day.  Verified to be accurate between 400 and 9999 AD.
 

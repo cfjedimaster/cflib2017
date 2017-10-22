@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Changes a query into a struct of arrays.
+tagBased: false
 description: |
  Changes a query into a struct of arrays, where the keys of the struct are the column names in the query.  Each struct key holds an array of the values from the query. See also QueryToArrayOfStructs.
 

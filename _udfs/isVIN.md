@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 1
 cfVersion: CF8
 shortDescription: US Vehicle Identification Number (VIN) validation.
+tagBased: false
 description: |
  This function accepts a United States-formatted Vehicle Identification Number (VIN) as the sole argument, and returns true if the VIN is valid.
  

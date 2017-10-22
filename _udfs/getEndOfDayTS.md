@@ -9,6 +9,7 @@ authorEmail: samihoda@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: A function which returns a End Of Day TimeStamp. For example, 1/1/2000 returns {ts '2000-01-01 23&#58;59&#58;59'}.
+tagBased: false
 description: |
  A function which returns a End Of Day TimeStamp. For example, 1/1/2000 returns {ts '2000-01-01 23:59:59'}.
  

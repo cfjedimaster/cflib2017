@@ -9,6 +9,7 @@ authorEmail: steven.ross@zerium.com
 version: 2
 cfVersion: CF6
 shortDescription: Scans a directory (or path) for files of a specified extension and then copies them to the path you specify.
+tagBased: true
 description: |
  This UDF will scan (recurse) a given path for a given list of files by extension and then copy them to the path you specify.
 

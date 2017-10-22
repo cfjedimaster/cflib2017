@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 0
 cfVersion: CF5
 shortDescription: corrects rounding errors for times brought in from Excel
+tagBased: false
 description: |
  Correct for rounding error when working with datetimes brought into CF from Excel.
 

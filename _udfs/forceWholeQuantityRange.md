@@ -9,6 +9,7 @@ authorEmail: psalm_119_@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Force a value to whole quantity and restrict to a given min/max range.
+tagBased: false
 description: |
  Force a value to whole quantity and restrict to a given min/max range.
 

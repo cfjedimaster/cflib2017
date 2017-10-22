@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Generates a mask for a short date based on the locale.
+tagBased: false
 description: |
  ShortDateMask returns the appropriate mask for a short date based on the supplied locale. If no locale is supplied as a parameter, the function returns the mask for the current locale. You can then use this mask in a DateFormat() function.
  

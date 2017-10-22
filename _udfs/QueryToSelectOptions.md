@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates a list of select-field option tags from the provided query.
+tagBased: false
 description: |
  Assists in constructing a drop-down list box form control from a query. Used within HTML &lt;select&gt; tags. Creates a list of option tags from the provided query, allowing separate fields for values and displayed text. Optionally a default (&quot;selected&quot;) DisplayField may be specified. Unlike &lt;cfselect&gt;, QueryToSelectOptions allows values which are not part of the query to be specified *above* the query-driven values. Additionally, potential HTML-breaking characters are automatically converted to HTML entities where necessary.
 

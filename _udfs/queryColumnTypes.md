@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF6
 shortDescription: Returns a list of query column data types.
+tagBased: false
 description: |
  Used in conjuction with QueryColumns(), will return a list of data types such as the following: INTEGER,VARCHAR,CHAR,TIMESTAMP. This can be done in CFMX using getMetaData on the query.
 

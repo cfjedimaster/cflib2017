@@ -9,6 +9,7 @@ authorEmail: peter@coldgen.com
 version: 1
 cfVersion: CF5
 shortDescription: Translates a 10 digit Australian telephone/facsimile number (either in STD or Toll Free format) into an Australian formatted telephone number.
+tagBased: false
 description: |
  Translates a 10 digit Australian telephone/facsimile number (either in STD or Toll Free format) into an Australian formatted telephone number.
 

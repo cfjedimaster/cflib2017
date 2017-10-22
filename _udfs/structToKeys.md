@@ -9,6 +9,7 @@ authorEmail: adamcameroncoldfusion@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Extracts the keys from a struct
+tagBased: false
 description: |
  Traverses as struct and returns an array of all its keys with their full dotted path
 

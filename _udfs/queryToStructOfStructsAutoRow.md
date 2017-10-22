@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a query to a structure of structures with the primary index of the main structure auto incremented.
+tagBased: false
 description: |
  Converts a query to a structure of structures with the primary index of the main structure auto incremented.  Thanks to Shawn Seley's QueryToStructOfStructures for the basis of my code.
 

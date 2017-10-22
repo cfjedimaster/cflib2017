@@ -9,6 +9,7 @@ authorEmail: jeff@greatdentalwebsites.com
 version: 1
 cfVersion: CF6
 shortDescription: Like structFindKey except it matches a pattern.
+tagBased: true
 description: |
  Structfindkey is great if you know the &quot;key&quot; name you're looking for, but what if you only have a part of the key name.  This function solves your problem.
 

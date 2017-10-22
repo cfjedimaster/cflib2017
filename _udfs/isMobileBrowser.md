@@ -9,6 +9,7 @@ authorEmail: cbrickhouse@gmail.com
 version: 2
 cfVersion: CF7
 shortDescription: Mobile browser detector.
+tagBased: true
 description: |
  Detects whether or not user is using mobile browser by using the user-agent. Requires an API key from handsetdetection.com.
 

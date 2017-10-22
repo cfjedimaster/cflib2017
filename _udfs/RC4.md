@@ -9,6 +9,7 @@ authorEmail: michael.krock@avv.com
 version: 1
 cfVersion: CF5
 shortDescription: A function does RC4 encryption by using a key and the string.
+tagBased: false
 description: |
  A function does RC4 encryption by using a key and the string. Formula based upon script from Joshua Olson. Original article may be found here: http://www.4guysfromrolla.com/webtech/010100-1.shtml
 

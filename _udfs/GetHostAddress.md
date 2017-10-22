@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: Performs a DNS lookup.
+tagBased: false
 description: |
  Performs a DNS lookup. Provide a host name, it'll return an IP address. If the host name is invalid an exception will be throw, so &lt;CFTRY&gt;/&lt;CFCATCH&gt;
  should be used.

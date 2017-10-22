@@ -9,6 +9,7 @@ authorEmail: peter.gibb@icaew.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Returns the ISO correct year of a given date, necessary for dates from 29th Dec to 3rd Jan.
+tagBased: false
 description: |
  As ISOWeek is to Week(), ISOYear returns the ISOYear of the date input. For 360 days a year, this will be the same as
  Year(), but from the 29th Dec to 3rd Jan, is may be different.  Dates in this range may be part of a week number of a year that differs to the actual year of the date.

@@ -9,6 +9,7 @@ authorEmail: mccjdk@fyi.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns the date for Thanksgiving day in a given year.
+tagBased: false
 description: |
  Returns the date for Thanksgiving day in a given year. If no year is specified, defaults to current year.
 

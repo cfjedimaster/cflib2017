@@ -9,6 +9,7 @@ authorEmail: ccarey@fi.net.au
 version: 1
 cfVersion: CF6
 shortDescription: Load and parse a .properties file into a struct
+tagBased: true
 description: |
  Read a properties file (such as an ANT build props file) and return a structure.
  

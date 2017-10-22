@@ -9,6 +9,7 @@ authorEmail: wmrawlin@sbcs.com
 version: 1
 cfVersion: CF6
 shortDescription: cffunction that takes a text string and a format and returns a date object.
+tagBased: true
 description: |
  Takes a numeric string and returns the best date equivilent based on the format you specify.  Accepts four different formats: mmddyyyy, yyyymmdd, ddmmyyyy, yyyyddmm.  If a date string is passed in the date is returned. If a non-numeric or non-date string is passed in it returns 1/1/1900.
 

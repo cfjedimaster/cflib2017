@@ -9,6 +9,7 @@ authorEmail: kkz@foureyes.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the CFHEADER tag.
+tagBased: true
 description: |
  Mimics the CFHEADER tag. Allows you to pass a name/value pair or a statuscode/statustext pair.
 

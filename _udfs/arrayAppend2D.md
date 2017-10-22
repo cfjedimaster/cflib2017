@@ -9,6 +9,7 @@ authorEmail: contact@digeratidesignstudios.com
 version: 1
 cfVersion: CF5
 shortDescription: Appends two values to a 2D array.
+tagBased: false
 description: |
  This UDF appends allows the user to append a key-value set to a two-dimensional array. The code is easily modifiable for more than two dimensions.
 

@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 0
 cfVersion: CF5
 shortDescription: Creates an easy reccord pagination indicator.
+tagBased: false
 description: |
  Creates easy pagination output ie: (now showing) 101 to 105 of 105 (records) sort of thing.
 

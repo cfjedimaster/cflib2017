@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the character at a certain position in a string.
+tagBased: false
 description: |
  Returns the character at a certain position in a string.
 

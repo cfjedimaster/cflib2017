@@ -9,6 +9,7 @@ authorEmail: andrew@cripps.net
 version: 1
 cfVersion: CF5
 shortDescription: Midstring&#58; Return the middle part of a string between a specified start substring and a specified end substring.
+tagBased: false
 description: |
  The Midstring function returns the middle string between two substrings. The from and to strings should be unique in the string from which you want the substring because the function only looks for the first match of each string. So if you have string "ApplePearApple" and enter "Apple" as both the to and the from string, you will get an empty string back.
  Note that all strings are case sensitive.

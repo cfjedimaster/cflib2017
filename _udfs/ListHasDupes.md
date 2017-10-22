@@ -9,6 +9,7 @@ authorEmail: mike@striking.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if list has duplicate elements.
+tagBased: false
 description: |
  Pass a list to this function to evaluate if it contains duplicates.
 

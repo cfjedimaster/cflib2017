@@ -9,6 +9,7 @@ authorEmail: craig@altainteractive.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes null entries from lists.
+tagBased: false
 description: |
  Rather than replacing null entries with a &quot;countable&quot; value (like NULL) ListRemoveNulls() simply removes then from the list entrely. This is a modified version of the ListFix UDF written by Patrick McElhaney which is a modified version of the ListFix UDFwritten by Raymond Camden.
 

@@ -9,6 +9,7 @@ authorEmail: bboisvert@gmail.com
 version: 1
 cfVersion: CF8
 shortDescription: REReplaceCallback behaves like REReplace, except instead of supplying a replacement string, you supply a function to invoke on each match.
+tagBased: true
 description: |
  With the built-in REReplace function you can only supply a static replace string (parameterized with backreferences, of course).  This UDF allows you to supply a function callback that will be passed all matches (including subexpressions) allowing you to use arbitrary CFML to construct the replacement string dynamically.
 

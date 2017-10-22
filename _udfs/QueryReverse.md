@@ -9,6 +9,7 @@ authorEmail: whiterod.david@saugov.sa.gov.au
 version: 1
 cfVersion: CF5
 shortDescription: Reverse the order of a query.
+tagBased: false
 description: |
  Pass this function a query it will return a new one in reverse order (make first row the last and last row the first - in a new query).
 

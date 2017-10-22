@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF6
 shortDescription: Turn a string into an array of lines.
+tagBased: true
 description: |
  Turn a string into an array of lines, using java.io.BufferedReader to maximize performance.
 

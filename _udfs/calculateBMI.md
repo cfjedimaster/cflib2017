@@ -9,6 +9,7 @@ authorEmail: Elyse@anticlue.net
 version: 1
 cfVersion: CF6
 shortDescription: Calculates the Body Mass Index.
+tagBased: true
 description: |
  This function calculates the Body Mass Index based on Lbs and Inches.
  

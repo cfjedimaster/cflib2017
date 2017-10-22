@@ -9,6 +9,7 @@ authorEmail: neil.robertson-ravo@csd.reedexpo.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a Language Name (i.e. English) and returns the ISO 669 Two-Letter Language Code (i.e. EN).
+tagBased: false
 description: |
  Takes a Language Name (i.e. English) and returns the ISO 669 Two-Letter Language Code (i.e. EN).
 

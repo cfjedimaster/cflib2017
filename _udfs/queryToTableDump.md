@@ -9,6 +9,7 @@ authorEmail: jared@web-relevant.com
 version: 2
 cfVersion: CF8
 shortDescription: Simple table-based datadump from any query
+tagBased: true
 description: |
  This UDF takes a query as an argument and dumps out the contents of the query in a table, columns in TH tags and data in TD tags, for the simple purpose of examining the data in a page.
  

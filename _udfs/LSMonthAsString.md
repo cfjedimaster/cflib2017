@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the localized version of a month.
+tagBased: false
 description: |
  Returns the localized version of a month number. For example, if your current locale is set as French (Standard), the value for 1, Janaury, will be Janvier.
 

@@ -9,6 +9,7 @@ authorEmail: gregnettles@calvarychapel.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts struct into delimited key/value list.
+tagBased: false
 description: |
  Converts a struct into a delimed key/value list. Defult delimiter is &quot;&amp;&quot; but any character can be used by passing it as a second argument.
 

@@ -9,6 +9,7 @@ authorEmail: c_wigginton@yahoo.com
 version: 1
 cfVersion: CF10
 shortDescription: Generates loremipsum text.
+tagBased: false
 description: |
  Generates loremipsum text.
 

@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF7
 shortDescription: Merges one xml document into another
+tagBased: false
 description: |
  Given two XML documents, merge (superimpose) the second into the first.  You can choose to either overwrite existing nodes with the new values (default behavior) or add the nodes even if they duplicate the existing document.  This UDF is particularly handy when you have a default set of configurations in an XML file and want to be able to override some of them with an second XML file but want to have the second file contain only the nodes you are overriding.
 

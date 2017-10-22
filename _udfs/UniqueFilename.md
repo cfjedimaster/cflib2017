@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Creates a unique filename from a passed prefix, file extension and current date/time.
+tagBased: false
 description: |
  Creates a unique filename from a passed prefix, file extension and current date/time. Filename format: prepend_080701_023052.ext
 

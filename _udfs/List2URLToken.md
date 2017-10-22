@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a list into a QueryString. Allows an &quot;Exclude List&quot; as well.
+tagBased: false
 description: |
  List2URLToken creates a QueryString from a specified list. Each item in the list should be the name of an existing variable. The optional parameter EXCLUDE allows you to pass another list of values you do not want included in the QueryString. Accepts optinal delimiter as well. I use this for transforming form.fieldnames into a QueryString to pass to a NEXT-N tag, however this can be used with ANY list instead of only form fields.
 

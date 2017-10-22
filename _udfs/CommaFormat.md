@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds commas after every third non-ending digit to the left of the decimal point.
+tagBased: false
 description: |
  Adds commas after every third non-ending digit to the left of the decimal point. Does not alter anything to the right of the decimal point nor does it do any additional formatting. If value passed is not a number then returns the raw string, or the specified optional default value. Additionally, since numbers with leading and trailing spaces are still considered valid by IsNumeric(), this function preserves these spaces as well. Numbers in scientific notation also work fine with this function.
 

@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a random string of the specified length of either alpha, numeric or mixed-alpha-numeric characters.
+tagBased: false
 description: |
  This UDF generates a random string of the specified length of either Alpha, Numeric or mixed Alpha-Numeric characters. Could be useful for username generation, &quot;Key Code&quot; generation or any number of other situations.
 

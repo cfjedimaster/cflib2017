@@ -9,6 +9,7 @@ authorEmail: ralf.guttmann@hyperspace.de
 version: 1
 cfVersion: CF5
 shortDescription: Function which returns the value of a certain quantile from a list of numeric values.
+tagBased: false
 description: |
  Function which returns the value of a certain quantile from a list of numeric values. Similar to the quantile(matrix,alpha) function in ms excel.
 

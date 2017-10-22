@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date that Martin Luther King Day occurs on in a given year.
+tagBased: false
 description: |
  Returns a date that Martin Luther King Day occurs on in a given year.  If no year is specified, defaults to the current year.
 

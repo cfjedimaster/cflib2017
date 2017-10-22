@@ -9,6 +9,7 @@ authorEmail: bernd@shadowdesign.net
 version: 2
 cfVersion: CF5
 shortDescription: This function deletes all client variables for a user.
+tagBased: false
 description: |
  This function deletes all client variables for a user. An optional list can be passed to ignore certain client variables.
 

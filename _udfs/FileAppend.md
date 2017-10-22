@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the cffile, action=&quot;append&quot; command.
+tagBased: true
 description: |
  Mimics the cffile, action=&quot;append&quot; command.
 

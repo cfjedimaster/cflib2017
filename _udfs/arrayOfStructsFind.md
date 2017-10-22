@@ -9,6 +9,7 @@ authorEmail: nathbot@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns the position of an element in an array of structures.
+tagBased: false
 description: |
  This function searches for an element in an array of structures, using the key name and a value as criteria.
 

@@ -9,6 +9,7 @@ authorEmail: martijnvanderwoud@orange.nl
 version: 0
 cfVersion: CF5
 shortDescription: Calculates the Pearson correlation.
+tagBased: false
 description: |
  Calculates the Pearson correlation for the values in two specified keys in an array of structures.
 

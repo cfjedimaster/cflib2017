@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: A function to hand of a job to a separate thread
+tagBased: false
 description: |
  Hands-off a job to a thread and upon completion / failure / etc calls the provided event handlers.
 

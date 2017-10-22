@@ -9,6 +9,7 @@ authorEmail: Alain_blais@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Merge two queries.
+tagBased: false
 description: |
  Merge the columns from a source query into a second query. 
  

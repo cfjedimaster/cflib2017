@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns information about the differences between 2 queries with the same columns.
+tagBased: false
 description: |
  Given two queries queryDiff() returns a structure with information about which rows/cells changed and which rows were added or removed. NOTE:  This version works ONLY with 2 queries with the same columns!
  

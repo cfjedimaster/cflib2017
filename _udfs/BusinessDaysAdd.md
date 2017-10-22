@@ -9,6 +9,7 @@ authorEmail: billy@architechx.com
 version: 2
 cfVersion: CF5
 shortDescription: Works just like dateAdd(), except it only adds business days
+tagBased: false
 description: |
  Allows you to only add business days to a date (in other words, it ignores weekends).  Unlike dateAdd(), it only works with days.
 

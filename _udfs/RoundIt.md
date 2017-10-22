@@ -9,6 +9,7 @@ authorEmail: sierra@brighterfusion.com
 version: 2
 cfVersion: CF5
 shortDescription: RoundIt will round any number to a specific decimal point.
+tagBased: false
 description: |
  RoundIt will round any number to a specific decimal point.
 

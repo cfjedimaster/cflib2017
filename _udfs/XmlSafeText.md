@@ -9,6 +9,7 @@ authorEmail: dave@modernsignal.com
 version: 0
 cfVersion: CF8
 shortDescription: Replacement for XmlFormat that also replaces all special characters.
+tagBased: true
 description: |
  This was inspired by the xmlFormat2 function.  I was worried about the performance of that function, however, and so rewrote the same basic functionality using the REMatch function that was introduced in CF8.
 

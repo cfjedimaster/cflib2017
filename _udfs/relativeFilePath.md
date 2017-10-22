@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculate the relative path from startFile to endFile.
+tagBased: false
 description: |
  Paths can be system path (C:\myroot\mydir\myfile.cfm) or url (http://www.mydomain/myfile.cfm) but different kinds of paths (system and url) can't be used at the very same time.
 

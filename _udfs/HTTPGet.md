@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: UDF equivelant of &lt;CFHTTP&gt;
+tagBased: false
 description: |
  UDF equivelant of &lt;CFHTTP&gt;, pass it a URL and it'll return the stream. Does not support passing parameters or fields. Requires a complete URL with the protocol (the http://).
 

@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 1
 cfVersion: CF5
 shortDescription: Function that determines which scope an unscoped variable refers to.
+tagBased: false
 description: |
  Function that determines which scope an unscoped variable refers to.  Only checks those scopes through which ColdFusion searches.  Does not check named scopes (i.e., query names, etc.).
 

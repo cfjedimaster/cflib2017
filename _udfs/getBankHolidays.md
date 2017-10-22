@@ -9,6 +9,7 @@ authorEmail: siegfried.heckl@siemens.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns a struct with the bank holidays of Germany
+tagBased: true
 description: |
  Returns a struct with the bank holidays of Germany. I am sure you can adapt this to your local given holidays. The essential part of the function is the easter formula.
 

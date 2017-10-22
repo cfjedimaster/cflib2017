@@ -9,6 +9,7 @@ authorEmail: tuyen.k.tran@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: RE replace a list list of regular expression with a list of string.
+tagBased: false
 description: |
  RE replace a list list of regular expression with a list of string.
 

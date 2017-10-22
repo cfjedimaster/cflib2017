@@ -9,6 +9,7 @@ authorEmail: billy@fuzweb.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts hour of the year to hour of the day.
+tagBased: false
 description: |
  Allows you to take an hour of the year and convert it to a numeric hour (like 23.5).  Similar to CF's hour(date).  Very useful in scheduling applications, where you would want records to have an absolute value within a specific year, but still need to look at them as the fit within a certain day.
 

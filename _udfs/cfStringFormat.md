@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 1
 cfVersion: CF5
 shortDescription: companion to jsstringformat - formats a string for use as a coldfusion literal value
+tagBased: false
 description: |
  escapse all double-quotes and pound symbols in a string and replaces all ascii non-printing characters with a #chr(x)# equivalent
 

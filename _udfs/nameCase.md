@@ -9,6 +9,7 @@ authorEmail: jared@web-relevant.com
 version: 2
 cfVersion: CF6
 shortDescription: Converts an entire string to namecase (JARED RYPKA-HAUER becomes Jared Rypka-Hauer).
+tagBased: true
 description: |
  This uses a simple example of regex processing to convert ALL UPPER CASE STRINGS to Name Case Strings using CF's built-in case processing technology in the regex functions.
 

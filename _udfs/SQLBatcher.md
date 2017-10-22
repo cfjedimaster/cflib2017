@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 2
 cfVersion: CF6
 shortDescription: Sends a SQL Batch script and reports results.
+tagBased: true
 description: |
  Sends an SQL Batch script with 1 or more code blocks to a DSN. Reports results of each code block. Each code block seperated by a &quot;GO\r&quot; token is executed with a CFQuery.
 

@@ -9,6 +9,7 @@ authorEmail: gyrus@norlonto.net
 version: 3
 cfVersion: CF5
 shortDescription: Abbreviates a given string to roughly the given length, stripping any tags, making sure the ending doesn't chop a word in two, and adding an ellipsis character at the end.
+tagBased: false
 description: |
  Similar to the MaxLength UDF, but designed for outputting abbreviated lengths of HTML code (e.g. in list tables). Strips all tags, and makes sure any abbreviation is done to the last space within the given length. Also appends a properly escaped ellipsis character to the returned string.
 

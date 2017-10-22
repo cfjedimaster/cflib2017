@@ -9,6 +9,7 @@ authorEmail: amccollough@anthc.org
 version: 1
 cfVersion: CF8
 shortDescription: I loop through a struct that contains keys set to boolean values and return count of how many keys evaluate true.
+tagBased: false
 description: |
  You supply a structure filled with keys that are boolean values, and I will return a number of how many keys were boolean values that evaluated to true.
 

@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Computes the length of every key in the passed structure and returns a structure with unique key names of the lengths.
+tagBased: false
 description: |
  Computes the length of every key in the passed structure.  Optionally allows you to set the end stem of the returned struct. The return structure keys are the same as the passed structure keys plus the end stem is appended (default: &quot;_Len&quot;).  Also, allows you to pass an exclude list of keys not to return if you wish to only get lens on some of the passed structure.  This UDF will not process complex data types - simple values only.  Great to use on the form scope (which is a stucture itself) if you do len checking for data validation passed from forms.
  

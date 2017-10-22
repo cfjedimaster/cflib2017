@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Evaluates the Polynomial in the form y = an * x^n + a(n-1) * x^(n-1) + ... + a1 * x + a0 for a given value of x.
+tagBased: false
 description: |
  Horner's method, evaluates for given value of x
  for a polynomial in the form y = an*x^n + an-1*x^(n-1) + an-2*x^(n-2) + ... + a1 * x + a0

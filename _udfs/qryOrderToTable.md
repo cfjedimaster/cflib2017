@@ -9,6 +9,7 @@ authorEmail: cheveguerra@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Change query order from horizontal to vertical to display in a HTML table
+tagBased: true
 description: |
  When filling an HTML table with a query result, it will display the query horizontally (cell, cell, next_row, cell cell ...), this UDF will change the order of the query to display vertically (row, row, row, next_column, row, row ...)
 

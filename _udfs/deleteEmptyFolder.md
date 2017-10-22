@@ -9,6 +9,7 @@ authorEmail: pritesh@thecfguy.com
 version: 1
 cfVersion: CF6
 shortDescription: Delete empty folder from given path.
+tagBased: true
 description: |
  Arguments:
  1. Path : folder physical path for which you want to clean empty directory.

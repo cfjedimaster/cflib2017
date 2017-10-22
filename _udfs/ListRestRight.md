@@ -9,6 +9,7 @@ authorEmail: antoine@igloo.be
 version: 1
 cfVersion: 
 shortDescription: Same functionality as CF ListRest starting from right instead of left.
+tagBased: false
 description: |
  Same functionality as CF ListRest starting from right instead of left.
  Based on Tom Kitta's ListRest2 that works faster than CF ListRest.

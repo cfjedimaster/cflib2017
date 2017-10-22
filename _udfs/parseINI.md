@@ -9,6 +9,7 @@ authorEmail: dave@davejlong.com
 version: 1
 cfVersion: CF8
 shortDescription: Parses an INI file into a structure.
+tagBased: false
 description: |
  parseINI parses an INI file into a structure that contains sections and keys as structures.
 

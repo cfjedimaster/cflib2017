@@ -9,6 +9,7 @@ authorEmail: mike@mikehaggerty.net
 version: 1
 cfVersion: CF6
 shortDescription: Converts a string into a pretty URL safe slug
+tagBased: true
 description: |
  This function will take any string and replace all of the non-alphanumeric characters with the spacer of your choice (default is '-').
 

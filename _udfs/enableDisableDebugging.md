@@ -9,6 +9,7 @@ authorEmail: qasim_1976@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: This UDF will enable or disable debugging service with Admin access
+tagBased: true
 description: |
  This UDF will enable or disable debugging service based on the argument provided. I is useful in situation where you do not have access to ColdFusion  Administrator or want to manipulate debugging settings programatically.
 

@@ -9,6 +9,7 @@ authorEmail: jon.hartmann@gmail.com
 version: 0
 cfVersion: CF8
 shortDescription: Checkes to see if a color is a valid 3 or 6 character hex color, or one of the ColdFusion safe color keywords.
+tagBased: true
 description: |
  Checkes to see if a color is a valid 3 or 6 character hex color, or one of the ColdFusion safe color keywords (aqua, black, blue, fuchsia, gray,  green, lime, maroon, navy, olive, purple, red, silver, teal, white, and yellow).
 

@@ -9,6 +9,7 @@ authorEmail: tony@kenny.net
 version: 1
 cfVersion: CF5
 shortDescription: Searches a given list for a given regexp and returns the index number of the first item found.
+tagBased: false
 description: |
  Searches a given list for a given regexp and returns the index number
  of the first item it finds in the list that matches the regexp. Returns 0 (zero) if not found.

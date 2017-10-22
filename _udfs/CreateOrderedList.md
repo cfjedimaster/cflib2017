@@ -9,6 +9,7 @@ authorEmail: mike@striking.com
 version: 1
 cfVersion: CF5
 shortDescription: Used to create an Ordered Numeric List
+tagBased: false
 description: |
  Pass in Start and End numbers (with options for delim and step increment) and this UDF will generate an Ascending (or descending), ordered delimited list in your step increment.
 

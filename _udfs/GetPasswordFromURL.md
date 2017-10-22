@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the password from a specified URL.
+tagBased: false
 description: |
  Returns the password (ending with &quot;@&quot;) for the supplied URL. If no password is found, then returns an empty string. Works with any protocol that follows a &quot;username:password@&quot; syntax including ftp, telnet, and imap and others.
 

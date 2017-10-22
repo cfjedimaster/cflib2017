@@ -9,6 +9,7 @@ authorEmail: me@simonbingham.me.uk
 version: 1
 cfVersion: CF9
 shortDescription: Converts a day string to a number.
+tagBased: false
 description: |
  Converts a day string to a number (e.g. Sunday to 1, Monday to 2, etc.).
 

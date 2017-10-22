@@ -9,6 +9,7 @@ authorEmail: acdhirr@trilobiet.nl
 version: 0
 cfVersion: CF6
 shortDescription: Breaks a camelCased string into separate words
+tagBased: false
 description: |
  This is not about furry puppets in a rocket ship, but a function that takes a camel cased string and returns it lower-cased with spaces between the words. Comes in handy if you want to generate human readable captions from (camel cased) table column names.
 

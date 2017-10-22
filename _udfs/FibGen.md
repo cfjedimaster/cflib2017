@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the Fibonacci sequence to n places given a starting point of x and y.
+tagBased: false
 description: |
  Returns the Fibonacci sequence to n places given a starting point of x and y (each integer is the sum of the two previous integers).  Note that the function will also calculate the sequence for non-Fibonacci numbers.  Based on FibCalc() by Phillip B. Holmes (pholmes@mediares.com).
 

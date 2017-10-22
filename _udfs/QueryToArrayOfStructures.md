@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a query object into an array of structures.
+tagBased: false
 description: |
  Converts a query object into an array of structures.
 

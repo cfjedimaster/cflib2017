@@ -9,6 +9,7 @@ authorEmail: james@vertexcs.com
 version: 1
 cfVersion: CF5
 shortDescription: Indents all the lines of a string.
+tagBased: false
 description: |
  Return string with each line prepended with indentchar repeatcount times. This function could be useful for formatting in CFMAIL or PRE tags. 
  A line is defined to be a string terminated by CR/LF or LF.

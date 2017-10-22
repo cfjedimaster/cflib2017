@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 0
 cfVersion: CF5
 shortDescription: Strips characters that cause line wrap when exporting.
+tagBased: false
 description: |
  Strips Tab, Line Feed, Form Feed, Carriage Return, and non-breaking space (ASCII 160) from strings.  Reduces all space characters to a single occurrence.
 

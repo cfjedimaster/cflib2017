@@ -9,6 +9,7 @@ authorEmail: cflib@vox.phydiux.com
 version: 2
 cfVersion: CF5
 shortDescription: IP4r converts standard dotted IP addresses to their reversed IP4r equivalent.
+tagBased: false
 description: |
  IP4R Takes a common IP address (like 192.168.0.1) and converts it to it's IP4r equivalent. (in this case, it'd be 1.0.168.192) This is used by mack DNS based black lists, and mail server software to check DNS based black lists.
 

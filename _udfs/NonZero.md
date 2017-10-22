@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: NonZero returns TRUE if a value (numeric or text) is not an empty string and is greater than 0.
+tagBased: false
 description: |
  NonZero returns TRUE if a value (numeric or text) is not an empty string and is greater than 0.
 

@@ -9,6 +9,7 @@ authorEmail: jallen@figleaf.com
 version: 1
 cfVersion: CF9
 shortDescription: Changes a sexagesimal latitude longitude co-ordinates to decimal format
+tagBased: false
 description: |
  Say you have a .jpg file and it has EXIF data with its location information. Sometimes the EXIF location information is in sexagesimal format which is hard to use in popular mapping libraries. This code puts the information into the more &quot;normal&quot; decimal lat/lng format. Ben Nadel was the inspiration for this, see: http://www.bennadel.com/index.cfm?event=blog.viewcode&amp;id=1832&amp;index=1
 

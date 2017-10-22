@@ -9,6 +9,7 @@ authorEmail: fluid@sc.rr.com
 version: 2
 cfVersion: CF5
 shortDescription: Generates a password the length you specify.
+tagBased: false
 description: |
  Generates a decent password that can contain uppercase, lowercase, numeric, and punctuation characters.
 

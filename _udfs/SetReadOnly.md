@@ -9,6 +9,7 @@ authorEmail: nate@nateweiss.com
 version: 1
 cfVersion: CF5
 shortDescription: Convenience function to set/clear the ReadOnly attribute for the specified file.
+tagBased: false
 description: |
  Convenience function to set/clear the ReadOnly attribute for the specified file.
 

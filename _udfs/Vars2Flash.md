@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a list of variable names to a Flash safe string to pass into a Flash movie.
+tagBased: false
 description: |
  This function takes 2 parameters: varList - a delimited list of variable names to load into a Flash movie and loadVar - the variable to append to the end of the string to tell Flash that all the variables are loaded. An optional delimiter can be passed as with any ListX() function.
 

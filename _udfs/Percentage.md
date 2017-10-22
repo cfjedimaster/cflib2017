@@ -9,6 +9,7 @@ authorEmail: mr_urc@drule.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns the percentage of value out of maximum.
+tagBased: false
 description: |
  Divides value by maximum, multiplies the result by 100, and returns the percenage. Returns repeating decimals to ten decimal places.
 

@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the date for the End of Daylight Saving Time for a given year.
+tagBased: false
 description: |
  Returns the date for the End of Daylight Saving Time for a given year. If no year is specified, defaults to current year.
 

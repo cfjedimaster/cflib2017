@@ -9,6 +9,7 @@ authorEmail: erki@dreamdrummer.com
 version: 2
 cfVersion: CF6
 shortDescription: This functions helps to quickly build structures, both simple and complex.
+tagBased: false
 description: |
  Now you can make simple or complex structures with a one-liner in CF, just like with built-in shorthand syntax in many other programming languages. You can create simple structures with ease, or nest Struct() functions to create complex, nested structures.
 

@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 1
 cfVersion: CF5
 shortDescription: Returns the number of specific days between a start and end date - i.e. weekdays or workdays.
+tagBased: false
 description: |
  Returns the number of days between a start and end date, excluding a specified list of days, i.e. the number of tuesdays and thursdays - this UDF relies on formula instead of brute force to calculate the days and will perform better than other WeekDays/BusinessDays methods which loop from the start date to end date
 

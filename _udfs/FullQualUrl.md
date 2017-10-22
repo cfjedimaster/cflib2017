@@ -9,6 +9,7 @@ authorEmail: thompsonjewell.ryan@mayo.edu
 version: 1
 cfVersion: CF5
 shortDescription: Replace relative url's with a fully qualified URL
+tagBased: false
 description: |
  Replace relative url's with a fully qualified URL within HREF tags. Handy for when you syndicating content to clients.
 

@@ -9,6 +9,7 @@ authorEmail: brandon@melissa-brandon.com
 version: 0
 cfVersion: CF6
 shortDescription: Convert CSS Rules to a ColdFusion struct.
+tagBased: true
 description: |
  Pass css rules to the UDF and it will return a data-structure.
 

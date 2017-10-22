@@ -9,6 +9,7 @@ authorEmail: shakti@colony1.net
 version: 1
 cfVersion: CF5
 shortDescription: Finds the GCD (greatest common factor [divisor]) of two numbers using the Extended Euclidean Algorithm.
+tagBased: false
 description: |
  Finds the GCD (greatest common factor [divisor]) of two numbers using the Extended Euclidean Algorithm.  To express the GCD(a,b) = g as a linear combination of a and b, of the form ax + by = g. this program will always return the least positive result and will compute the value g as well.  Optionally displays all of the steps in the calculation.
 

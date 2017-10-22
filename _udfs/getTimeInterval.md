@@ -9,6 +9,7 @@ authorEmail: me@simonbingham.me.uk
 version: 1
 cfVersion: CF9
 shortDescription: Returns the interval since a date in a Twitter like format (e.g. 5 minutes ago)
+tagBased: false
 description: |
  Returns the interval since a date in a Twitter like format (e.g. 4 seconds ago, 5 minutes ago, 6 hours ago, yesterday, etc).
 

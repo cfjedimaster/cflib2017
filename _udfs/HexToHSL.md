@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Convert a hex RGB triplet to HSL (hue, saturation, luminance).
+tagBased: false
 description: |
  Convert a hex RGB triplet to HSL (hue, saturation, luminance).  HSL is another way of representing the color palette. It can be useful if you want to dynamically modify colors. For example if I have a graph with a series of bars, I can progressively change the shade of each bar by increasing L. I then need to convert the HSL value back to hex RGB.
 

@@ -9,6 +9,7 @@ authorEmail: richard.rein@medtronic.com
 version: 2
 cfVersion: CF5
 shortDescription: Generates a structure of days for the week, including the beginning and end of the week.
+tagBased: false
 description: |
  Pass in a date, or use the default of today, and this function will generate a structure containing a set of keys relevant to the week. Keys include: weekBegin, weekEnd, weekNo (week number of the year), Sunday, Monday, etc.
 

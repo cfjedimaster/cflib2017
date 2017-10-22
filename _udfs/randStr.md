@@ -9,6 +9,7 @@ authorEmail: bobby@acoderslife.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a randomly generated string using the specified character sets and length(s)
+tagBased: false
 description: |
  randStr returns a randomly generated string using lowercase letters, and/or numbers and possible uppercase letters. 
  

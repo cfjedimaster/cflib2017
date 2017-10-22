@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if a date is during the week.
+tagBased: false
 description: |
  Returns true if a date is during the week. This is defined as any day between Monday and Friday. The function defaults to today.
 

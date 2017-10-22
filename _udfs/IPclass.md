@@ -9,6 +9,7 @@ authorEmail: delusrexpert@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts an IP address to a network class.
+tagBased: false
 description: |
  Converts an IP address to a network class.
 

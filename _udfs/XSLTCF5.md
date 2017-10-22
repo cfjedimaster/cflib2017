@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Processes an XSL Template against an XML document and returns the transformed content.
+tagBased: false
 description: |
  Returns the Transformed content of an XML document from a specified XSL document. This function uses the MSXML processor. (Tested on MSXML3+)
 

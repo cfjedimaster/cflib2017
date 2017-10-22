@@ -9,6 +9,7 @@ authorEmail: russellspivey@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Converts a list to a single-column query.
+tagBased: true
 description: |
  Converts a list to a single-column query.
 

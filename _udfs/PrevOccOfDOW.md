@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing the previous day specified.  The default is one week prior to the current day.
+tagBased: false
 description: |
  Returns a date object representing the previous day specified.  The default is one week prior to the current day.  
  <P>

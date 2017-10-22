@@ -9,6 +9,7 @@ authorEmail: kalyan.cse.jis@gmail.com
 version: 2
 cfVersion: CF7
 shortDescription: Returns a query with any string values sanitized by HTMLEditFormat.
+tagBased: true
 description: |
  Returns a query with any string values sanitized by HTMLEditFormat. Values of the type varchar,char,nvarchar,text,ntext are modified.
 

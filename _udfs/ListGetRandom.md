@@ -9,6 +9,7 @@ authorEmail: bbreaux@blipz.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a random selection from a comma delimited list.
+tagBased: false
 description: |
  Can be used to return a random string or numeric value from a list. Just pass the list and an optional delimiter and it will return the random element.
 

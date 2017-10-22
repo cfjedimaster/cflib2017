@@ -9,6 +9,7 @@ authorEmail: nmaloney@prolucid.com
 version: 2
 cfVersion: CF6
 shortDescription: UDF that returns an SEO friendly string.
+tagBased: false
 description: |
  This function was developed to create SEO friendly urls from article titles (similar to digg and cnn). It removes all non alpha characters and replaces them with a hyphen. It also removes trailing hyphens, apostrophes, etc.
 

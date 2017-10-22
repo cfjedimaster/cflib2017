@@ -9,6 +9,7 @@ authorEmail: chrisspen@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a number of random selections from a list based on their given weights.
+tagBased: false
 description: |
  Requires a structure and the number of selections to make (with replacement).
  All keys are selectable elements.

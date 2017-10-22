@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the date for Inauguration Day
+tagBased: false
 description: |
  Returns a date for the US Presidential Inauguration. Returns -1 for non-inauguration years.  If no year is specified, defaults to the current year.
 

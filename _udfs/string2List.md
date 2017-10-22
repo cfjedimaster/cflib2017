@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a string to a list using the specified delimter (defaults to comma). Returns a list.
+tagBased: false
 description: |
  Converts a string to a list using the specified delimter (defaults to comma). Returns a list.
 

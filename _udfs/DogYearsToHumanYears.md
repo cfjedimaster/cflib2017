@@ -9,6 +9,7 @@ authorEmail: david@fekke.com
 version: 1
 cfVersion: CF5
 shortDescription: This UDF translates a dogs age to a humans age.
+tagBased: false
 description: |
  This function translates a dogs age to human years. This function is merely an approximation and does not take into effect such factors as the dogs breed or size.
 

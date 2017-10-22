@@ -9,6 +9,7 @@ authorEmail: steve@stephenwithington.com
 version: 0
 cfVersion: CF7
 shortDescription: I generate concatenated name-value pairs from forms.
+tagBased: true
 description: |
  Pass me a form and I'll generate url-friendly concatenated name-value pairs of each form field. If you want me to ignore any of the form fields, I can do that too!
 

@@ -9,6 +9,7 @@ authorEmail: brianmeloche@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Upper cases the first letter of a string.
+tagBased: true
 description: |
  Converts the first letter of a string to upper case, while keeping the rest of the string as is.
 

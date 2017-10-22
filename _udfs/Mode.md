@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the mode and frequency for a given set of values.
+tagBased: false
 description: |
  Returns a structure that contains 2 keys: Mode and Frequency.  Mode is the value with the greatest frequency in the set.
 

@@ -9,6 +9,7 @@ authorEmail: billy@architechx.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts form variables to query string.
+tagBased: false
 description: |
  Creates a standard query string (list of name value pairs, separated by =, delimited by &amp;) from all of the form variables.
 

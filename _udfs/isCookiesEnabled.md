@@ -9,6 +9,7 @@ authorEmail: alexbaban@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if browser cookies are enabled.
+tagBased: false
 description: |
  Returns true if browser cookies are enabled. Requires Session or Client scope enabled.
 

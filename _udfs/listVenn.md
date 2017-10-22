@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: Performs venn type operations on two lists.
+tagBased: false
 description: |
  ListVenn requires two lists and a return list type. The possible return list types are:
  AandB (intersection)

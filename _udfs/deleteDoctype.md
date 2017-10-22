@@ -9,6 +9,7 @@ authorEmail: mrnate@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Deletes the doctype out of the current page request.
+tagBased: false
 description: |
  If you're having display issues on a page, call this function to remove the doctype from your request. This solves the display problems with using cfdump in CFMX under an XHTML doctype. You can modify this code to, for example, change a strict doctype to a transitional one.
 

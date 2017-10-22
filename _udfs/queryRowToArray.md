@@ -9,6 +9,7 @@ authorEmail: kukielp@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: queryRowToArray
+tagBased: false
 description: |
  Convert a row in a query to an array in the same order the columns appear in the query.
 

@@ -9,6 +9,7 @@ authorEmail: cmcelwee@etechsolutions.com
 version: 1
 cfVersion: CF5
 shortDescription: Useful in constructing SQL statements that must handle empty strings as NULLs.
+tagBased: false
 description: |
  This function takes a CF variable and optionally a CF datatype ('alpha' or 'numeric') and returns either the CF value or NULL.  If it returns the CF value, it will be quoted if invoked with the 'alpha' datatype argument (default).
 

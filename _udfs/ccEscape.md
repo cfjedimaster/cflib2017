@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Escapes a credit card number, showing only the last 4 digits. The other digits are replaced with the * character.
+tagBased: false
 description: |
  Escapes a credit card number, showing only the last 4 digits. The other digits are replaced with the * character.
 

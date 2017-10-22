@@ -9,6 +9,7 @@ authorEmail: robert.munn@alumni.tufts.edu
 version: 1
 cfVersion: CF5
 shortDescription: When given a list of values, returns a list of element locations that match a given regular expression.
+tagBased: false
 description: |
  The function takes a given regular expression and evaluates each element of a given list of values against the regular expression. The match is case-insensitive. If the regular expression matches an element in the list, the list location of that element is added to a list of matched locations. The function returns the list of matched locations.
 

@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF9
 shortDescription: A supplemental script for Signature Pad that generates an image of the signature's JSON output server-side.
+tagBased: false
 description: |
  Signature to Image is a simple ColdFusion script that will take the JSON output of Signature Pad (jQuery/HTML5 canvas-based signature pad) and generate an image object to be saved or displayed inline.  (Useful when adding signatures via CFDocument since it doesn't render canvas elements.)
  

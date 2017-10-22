@@ -9,6 +9,7 @@ authorEmail: scott@figital.com
 version: 1
 cfVersion: CF5
 shortDescription: Ranks a number within a set.
+tagBased: false
 description: |
  Data validation and exception handling have been purposely
  omitted for speed. If you are not using the latest version of ColdFusion or Railo you might need to change &quot;i++&quot; to &quot;i = i + 1&quot;.

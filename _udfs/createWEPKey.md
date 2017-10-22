@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: Creates a 40-bit or 128-bit WEP key.
+tagBased: false
 description: |
  Creates a 40-bit or 128-bit WEP key. Use entirely at your own risk. No security is implied or provided by using this. This function simply creates a key for you.
 

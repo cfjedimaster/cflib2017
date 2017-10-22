@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if A is a factor of B.
+tagBased: false
 description: |
  Returns True if A is a factor of B.
 

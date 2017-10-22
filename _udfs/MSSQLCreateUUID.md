@@ -9,6 +9,7 @@ authorEmail: chip@anthrologik.net
 version: 1
 cfVersion: CF5
 shortDescription: Creates UUIDs safe for use in MSSQL UNIQUEIDENTIFIER fields.
+tagBased: false
 description: |
  CF UUIDs are formatted differently than MSSQL UUIDs generated with the T-SQL function newid().  This can lead to problems when working with UUIDs. This function can return a UUID formatted like newid() in either string or binary format.  String values must be quoted when inserted into the database whereas binary values do not have to be quoted.  The latter is of help when one wants to have either a UUID or NULL inserted- neither of which is quoted. Takes an optional parameter indicating output format which can be either 'string' or 'binary'.
 

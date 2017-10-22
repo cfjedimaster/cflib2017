@@ -9,6 +9,7 @@ authorEmail: larryclyons@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: splitMX converts a string or a list to an array using another string, or a multiple characters as a delimiter/
+tagBased: true
 description: |
  Unfortunately CF's listToArray function does not allow the use of another string or multiple characters as delimiters. However internally CF treats strings as java.lang.String objects. This allows you to use the split() method to create an array from a list using multiple characters as the delimiters. The splitMX function provides a wrapper for the java split() method. I've tested the code on CFMX 7 but it should work with any CF engine based on J2EE from CFMX 6 on, BlueDragon, Open BlueDragon and Railo.
 

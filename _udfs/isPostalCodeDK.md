@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks if valid postal code of Denmark.
+tagBased: false
 description: |
  Check if postal code is a valid postal code of Denmark. Does not check if the postal actually exsists, but if it meets the format.  Regex is case insensitive.
 

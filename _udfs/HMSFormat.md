@@ -9,6 +9,7 @@ authorEmail: ppeters@lrt.be
 version: 1
 cfVersion: CF5
 shortDescription: Formats a time difference in hours, minutes and seconds.
+tagBased: false
 description: |
  Returns a formatted time difference. The time can be in hours, minutes, seconds or milliseconds (default). You can specify an optional mask (HH: hours; MM:minutes; SS:seconds).
  Returns the unformatted string if the time is not numeric.

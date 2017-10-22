@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a number converted into a string (i.e. 1 becomes "One Dollar").
+tagBased: false
 description: |
  Generate a string representation of a dollar amount. For example, "2.56" generates "Two Dollars and Fifty Six Cents." This function will round cents to two spaces (so .329 is treated as .33). Optional parameter is a YES/NO flag specifying whether  or not cents should be displayed as digits ("Two Dollars
   and 56 Cents", for example), the default is NO.

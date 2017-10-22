@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: This turns a Microsoft Access hyperlink field into a standard URL.
+tagBased: false
 description: |
  Takes an Access &quot;Hyperlink&quot; field value, and turns it into a regular URL by removing the extra pounds at the beginning and end of the URL. This preserves pounds included as internal references.
 

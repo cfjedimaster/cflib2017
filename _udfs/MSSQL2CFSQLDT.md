@@ -9,6 +9,7 @@ authorEmail: cjwilson@cf-developer.net
 version: 0
 cfVersion: CF6
 shortDescription: Convert Microsoft SQL Server Data Type to equivilent CFSQLType
+tagBased: false
 description: |
  Convert Microsoft SQL Server Data Type to equivilent CFSQLType. Most usefull when querying MS SQL Server sys tables to return data type from the table structure 
   and converting to a CF data type for use within the &lt;cfqueryparam&gt; tag.

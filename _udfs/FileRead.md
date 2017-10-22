@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Reads a file.
+tagBased: false
 description: |
  This UDF will read a file using Java objects. You can also specify a range of line numbers to retrieve.
 

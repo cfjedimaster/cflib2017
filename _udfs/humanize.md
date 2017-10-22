@@ -9,6 +9,7 @@ authorEmail: cwarren@imagetrend.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a string and humanizes it, removing underscores and capitalizing each word.
+tagBased: true
 description: |
  A step beyond Jared Rypka-Hauer's nameCase UDF (http://www.cflib.org/udf.cfm?ID=1384), I took this idea from Rails, and I'm sure they didn't do it first. It is especially useful in reading through database names and columns and formatting them for users. Nothing original, but pretty useful.
 

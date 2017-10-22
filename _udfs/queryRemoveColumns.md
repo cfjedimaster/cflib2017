@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Remove a list of columns from a specified query.
+tagBased: true
 description: |
  Remove a list of columns from a specified query, using a query of query.
 

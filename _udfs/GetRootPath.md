@@ -9,6 +9,7 @@ authorEmail: billy@architechx.com
 version: 1
 cfVersion: CF5
 shortDescription: Determines the root path of the application without hard-coding.
+tagBased: false
 description: |
  It's pretty common to need to root path of an application (for redirects, images, etc.)  Typically, this value is hard-coded.  This UDF allows you to dynamically determine the root path.  Note: this requires that the template calling this UDF is in the root directory.
 

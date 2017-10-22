@@ -9,6 +9,7 @@ authorEmail: nightgazing@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns the date for Orthodox Easter (Pascha) in a given year.
+tagBased: true
 description: |
  Returns the date for Orthodox Easter (Pascha) in a given year. If no year is specified, defaults to the current year.
 

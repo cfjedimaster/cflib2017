@@ -9,6 +9,7 @@ authorEmail: larryclyons@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: The arrayFind function uses the java.util.list indexOf function to find an element in an array.
+tagBased: true
 description: |
  The arrayFind function performs a case sensitive search to find the index number of a value in a single dimension array using the java.util.List indexOf method. 
  

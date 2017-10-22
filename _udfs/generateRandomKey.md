@@ -9,6 +9,7 @@ authorEmail: michael@chapter31.com
 version: 0
 cfVersion: CF5
 shortDescription: Generate a random key with options
+tagBased: true
 description: |
  Generate a random key; the format of which can be based on a specific set of business rules such as numeric, string, alphanumeric and special characters.
  

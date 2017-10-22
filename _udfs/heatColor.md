@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Assign a &quot;heat&quot; color based on value's position within the range.
+tagBased: false
 description: |
  Allows you to assign colors.  The value is compared to a range of passed in values and the element is assigned a &quot;heat&quot; color based on its derived value's position within the range.  (Useful in non-javascript environments or calculating charting colors.)
  

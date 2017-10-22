@@ -9,6 +9,7 @@ authorEmail: swooosh2@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: This UDF uses a persons birthdate to output their current age in years.
+tagBased: false
 description: |
  This UDF uses a persons birthdate to output their current age in years.  This will output a non negative inter value - unless of course you enter a birthdate in the future.
 

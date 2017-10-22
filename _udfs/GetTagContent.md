@@ -9,6 +9,7 @@ authorEmail: johan@orbital.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Returns the content enclosed in a tag pair.
+tagBased: false
 description: |
  Returns the contents enclosed in a tag pair if found tag pair is found in the string. If the tag is not found the UDF will return an empty string. Uses two regular expressions to find start and end tag postions and then extract content. Single regular expression solutions that use a subexpression, typically (.^), to extract content do not always work.
 

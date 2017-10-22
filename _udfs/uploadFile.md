@@ -9,6 +9,7 @@ authorEmail: dave@modernsignal.com
 version: 1
 cfVersion: CF6
 shortDescription: Replaces cffile upload, handling security checks and providing better error handling.
+tagBased: true
 description: |
  This function is meant to replace cffile for uploads.  It uses a whitelist of acceptable file extensions, strips unwanted characters from the file name, and does the initial upload to a temporary directory.  It also produces a proper error message if the destination directory doesn't exist.
 

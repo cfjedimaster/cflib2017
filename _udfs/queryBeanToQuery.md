@@ -9,6 +9,7 @@ authorEmail: alistair_davidson@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts a Java QueryBean object to a ColdFusion query object.
+tagBased: false
 description: |
  Pass it a Java QueryBean object, and it will return an equivalent ColdFusion query object - handy for dealing with complex data from webservices.
  

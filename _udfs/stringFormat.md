@@ -9,6 +9,7 @@ authorEmail: jmiller@garrisonenterprises.net
 version: 1
 cfVersion: CF5
 shortDescription: Formats a string similarly to how NumberFormat formats a number.
+tagBased: false
 description: |
  Formats an alpha-numeric string to match a given mask. Useful for displaying phone numbers, IP addresses, codes, etc.
 

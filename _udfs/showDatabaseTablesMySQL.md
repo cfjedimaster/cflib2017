@@ -9,6 +9,7 @@ authorEmail: bwyckoff2@cox.net
 version: 1
 cfVersion: CF6
 shortDescription: This function will return all child tables of a mySQL database as an array.
+tagBased: true
 description: |
  This function will return a MySQL database and all child tables as an array
  without using a cfquery.

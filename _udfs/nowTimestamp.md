@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF6
 shortDescription: Returns current time from year to milliscend in a purely numerical format.
+tagBased: false
 description: |
  Returns current time in human-readable yet purely numeric format, that format being YYYYMMDDHHMMSSLLL 
  

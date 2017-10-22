@@ -9,6 +9,7 @@ authorEmail: tom@tomkitta.com
 version: 2
 cfVersion: CF5
 shortDescription: Split list into two lists of about equal length.
+tagBased: false
 description: |
  Splits list into two lists of about equal list length. Returns a structure with two new lists. Only about half of the original list is looked at in order
  to increase UDF's speed.

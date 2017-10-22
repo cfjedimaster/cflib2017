@@ -9,6 +9,7 @@ authorEmail: klenzade@avondale.com
 version: 1
 cfVersion: CF5
 shortDescription: Strips HTML from all form fields.
+tagBased: false
 description: |
  Strips all tag-based code from all form fields submitted to the action page.
 

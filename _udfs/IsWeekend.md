@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if a date is on the weekend.
+tagBased: false
 description: |
  This function returns true or false depending on if a date falls on the weekend. This is defined as either Saturday or Sunday. The function defaults to today.
 

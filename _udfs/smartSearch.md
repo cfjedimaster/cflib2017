@@ -9,6 +9,7 @@ authorEmail: craig@neuralmotion.com.au
 version: 0
 cfVersion: CF5
 shortDescription: Smart boolean searching in SQL queries.
+tagBased: false
 description: |
  smartSearch improves keyword searching via SQL by generating a string that can be inserted into an SQL query.
  

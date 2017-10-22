@@ -9,6 +9,7 @@ authorEmail: Mark@vividmedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a string with a space before each capital letter.
+tagBased: false
 description: |
  Returns a string with a space before each capital letter unless it is the first letter in the string. Handy if you need output a field name like &quot;FirstName&quot;  in the format of &quot;First Name&quot;.
 

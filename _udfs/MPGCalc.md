@@ -9,6 +9,7 @@ authorEmail: write2dave@gmx.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Calculate a vehicles Miles Per Gallon (MPG)
+tagBased: false
 description: |
  Calculate the Miles Per Gallon (MPG) for your vehicle.  Defaults set to UK values.
 

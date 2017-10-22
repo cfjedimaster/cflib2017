@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Makes a row of a query into a structure.
+tagBased: false
 description: |
  Convenience function for turning a given row of query into a structure.  By default, it uses the first row.
 

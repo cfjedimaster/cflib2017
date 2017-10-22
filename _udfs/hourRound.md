@@ -9,6 +9,7 @@ authorEmail: tim.garver@nice.com
 version: 1
 cfVersion: CF5
 shortDescription: Rounds a decimal number (hours) to the nearest quater hour.
+tagBased: false
 description: |
  Rounds a decimal number (hours) to the nearest quater hour.
  As in 7.45 hours would be rounded to 7.5 

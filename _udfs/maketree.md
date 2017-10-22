@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: This function is a UDF for maketree custom tag developed by Michael Dinowitz.
+tagBased: false
 description: |
  This function will take a query that is in a LEGAL parent/child relationship and sort it. The entire query will be sorted and an additional field called &quot;sortlevel&quot; will be added to specify the level of a particular item.
 

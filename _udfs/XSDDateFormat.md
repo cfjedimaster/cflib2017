@@ -9,6 +9,7 @@ authorEmail: rob@rtwo.net
 version: 1
 cfVersion: CF5
 shortDescription: Takes an Date/Time and makes it into XSD time format (for use in xml xsds)
+tagBased: false
 description: |
  Takes an Date/Time and makes it into simple XSD date time format (for use in xml xsds). Doesn't do time zones.
 

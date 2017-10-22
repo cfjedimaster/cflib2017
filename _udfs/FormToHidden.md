@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts the Form structure to hidden form fields.
+tagBased: false
 description: |
  This is a quick way to change all FORM variables into hidden fields in another form.  It is particularly useful in multi-step forms where you want to pass things on from previous forms in the current form.
 

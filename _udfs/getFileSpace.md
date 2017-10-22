@@ -9,6 +9,7 @@ authorEmail: siegfried.heckl@siemens.com
 version: 1
 cfVersion: CF6
 shortDescription: Gets available and total file space for all volumes on a server.
+tagBased: true
 description: |
  Gets available and total file space for all volumes on a server.
 

@@ -9,6 +9,7 @@ authorEmail: mitchiru_jo@gmx.de
 version: 1
 cfVersion: CF5
 shortDescription: Converts ColdFusion date to linux timestamp.
+tagBased: false
 description: |
  Converts ColdFusion date to linux timestamp using the datefiff algorithm to count the difference in seconds between the given date and the 1970-1-1.
 

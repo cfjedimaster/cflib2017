@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 0
 cfVersion: CF5
 shortDescription: Creates easy pagination output ie&#58; &lt; 1|2|3|4|5 ... |101|102|103|104|105 &gt;
+tagBased: false
 description: |
  Creates easy pagination output ie: &lt; 1|2|3|4|5 ... |101|102|103|104|105 &gt;
  

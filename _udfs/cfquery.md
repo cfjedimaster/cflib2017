@@ -9,6 +9,7 @@ authorEmail: joe@seemecreate.com
 version: 1
 cfVersion: CF5
 shortDescription: Mocks the CFQUERY tag.
+tagBased: false
 description: |
  Allows for the use of a function for a database return rather than th CFQUERY tag.
 

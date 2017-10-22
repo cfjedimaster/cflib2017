@@ -9,6 +9,7 @@ authorEmail: cflib@vox.phydiux.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object with the first date of the current quarter.
+tagBased: false
 description: |
  This function returns a datetime string of the first date of the current quarter, using the Now() function.
 

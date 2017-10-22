@@ -9,6 +9,7 @@ authorEmail: mark@3pss.com
 version: 1
 cfVersion: CF5
 shortDescription: Extends XMLFormat to include stripping non-printable characters.
+tagBased: false
 description: |
  XMLFormat escapes special XML characters so that you can put arbitrary strings safely into XML. However, it does not filter non-printable characters which can cause some XML Parser Engines to crash.
 

@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a UUID in the Microsoft form.
+tagBased: false
 description: |
  Modifies the CF CreateUUID() function to return a UUID in the form that Microsoft uses.
 

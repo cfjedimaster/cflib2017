@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Invoke a remote method using cfhttp and JSON proxy
+tagBased: false
 description: |
  WSDL is heavy and slow.  JSON is much faster but cfinvoke does not supporting invoking cfc method that way.
 

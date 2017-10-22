@@ -9,6 +9,7 @@ authorEmail: rip747@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Works like cflocation.
+tagBased: false
 description: |
  A UDF version of cflocation that uses meta tags instead of a server-side redirect.
 

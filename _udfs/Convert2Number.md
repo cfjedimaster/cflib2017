@@ -9,6 +9,7 @@ authorEmail: glenn.wilson@quotegen.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts any numeric string (even ones with currancy symbols to a number).
+tagBased: false
 description: |
  This function will take any string and strip out all characters that are not (-.0123456789) and will then determine it's numeric value.
 

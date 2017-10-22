@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the specified number is a perfect number.
+tagBased: false
 description: |
  Returns True if the specified number is a perfect number.  A perfect number is an integer greater than zero whose factors less than the number all add up to the number (i.e. 6 is a perfect number 3+2+1=6).
 

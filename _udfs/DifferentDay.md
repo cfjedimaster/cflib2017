@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Check if two dates refer to the same day.
+tagBased: false
 description: |
  Check if two dates refer to the same day. This is different from using the built-in function DateDiff(&quot;d&quot;) as it will only count whole days difference, whereas a difference of just a second could be the difference between one day and another.
 

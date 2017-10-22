@@ -9,6 +9,7 @@ authorEmail: jeff@kazoomis.com
 version: 4
 cfVersion: CF5
 shortDescription: Tests passed value to see if it is a properly formatted Canadian zip code.
+tagBased: false
 description: |
  Tests passed value to see if it is a properly formatted Canadian zip code.  Does not check actual validity/existence of zip code!
 

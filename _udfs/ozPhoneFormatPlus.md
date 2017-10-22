@@ -9,6 +9,7 @@ authorEmail: gc@anatex.net
 version: 1
 cfVersion: CF5
 shortDescription: Checks a phone number for Australian format.
+tagBased: false
 description: |
  Checks a phone number for Australian format. It checks for:
  - Numbers and spaces are ok

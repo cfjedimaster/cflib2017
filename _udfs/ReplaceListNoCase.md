@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 2
 cfVersion: CF5
 shortDescription: Replace all occurences of elements in list one with elements in list two. Case insensitive version of ReplaceList.
+tagBased: false
 description: |
  Returns string with all occurrences of the elements from the specified comma-delimited list being replaced with their corresponding elements from another comma-delimited list. The search is case-insensitive. If an item does not appear in the second list, the item from the first list is replaced with an empty string.
  

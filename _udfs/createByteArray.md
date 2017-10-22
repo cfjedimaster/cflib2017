@@ -9,6 +9,7 @@ authorEmail: marcos.placona@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts a ColdFusion string to a Java byte array
+tagBased: false
 description: |
  When using Java classes, you sometimes need to pass in Java byte arrays. ColdFusion can't do it out of the box, but with this UDF, you can turn a string into a Java byte array.
 

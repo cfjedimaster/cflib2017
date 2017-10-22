@@ -9,6 +9,7 @@ authorEmail: rob.ingram@broadband.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the normal distribution for a given mean and standard deviation with cumulative=true
+tagBased: false
 description: |
  Calculates the normal distribution for a given mean and standard deviation with cumulative=true.  Equivalent to the MS Excel function NORMDIST(x,mean,standard_dev, 1). This code is based on the C++ version by Oliver Maag
  (http://www.alina.ch/oliver/faq-excel-normdist.shtml)

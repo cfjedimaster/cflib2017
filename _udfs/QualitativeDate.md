@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Qualitative description of a date.
+tagBased: false
 description: |
  Returns a qualitative description of a date, such as &quot;Yesterday&quot; or &quot;Later this month&quot;.
 

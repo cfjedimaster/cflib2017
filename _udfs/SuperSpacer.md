@@ -9,6 +9,7 @@ authorEmail: dmf67@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: A UDF that will add a spacer gif image in a varity of formats to assist in page layout.
+tagBased: false
 description: |
  This small function is used as a shortcut for adding transparent gif spacer images.
 

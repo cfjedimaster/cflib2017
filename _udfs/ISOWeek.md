@@ -9,6 +9,7 @@ authorEmail: pasch@cistron.nl
 version: 1
 cfVersion: CF5
 shortDescription: Returns the weeknumber according to the ISO standard.
+tagBased: false
 description: |
  CF returns weeknumbers that are not according to the ISO standard. This UDF does.
 

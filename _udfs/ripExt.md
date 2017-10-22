@@ -9,6 +9,7 @@ authorEmail: acdhirr@trilobiet.nl
 version: 1
 cfVersion: CF5
 shortDescription: Function returns filename without extension.
+tagBased: false
 description: |
  This function (which is just a regular expression) strips off the extension from a filename. Dots within the filename are preserved.
 

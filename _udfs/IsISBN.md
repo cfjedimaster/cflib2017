@@ -9,6 +9,7 @@ authorEmail: axs@arbornet.org
 version: 1
 cfVersion: CF5
 shortDescription: Checks to to see if value is a valid ISBN.
+tagBased: false
 description: |
  Checks to to see if value is a valid ISBN.
 

@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 0
 cfVersion: CF9
 shortDescription: Calculates distance between Latitude/Longitude points using haversine formula.
+tagBased: false
 description: |
  Calculates distance between Latitude/Longitude points using haversine formula : http://www.movable-type.co.uk/scripts/latlong.html
 

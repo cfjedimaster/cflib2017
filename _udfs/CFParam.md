@@ -9,6 +9,7 @@ authorEmail: fred@fredsanders.com
 version: 2
 cfVersion: CF5
 shortDescription: Function to duplicate the <cfparam> tag within CFSCRIPT.
+tagBased: false
 description: |
  Allows you to cfparam variables from within cfscript.
 

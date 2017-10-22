@@ -9,6 +9,7 @@ authorEmail: sam@serndesign.com
 version: 1
 cfVersion: CF5
 shortDescription: Splits a URL into it's URL, QueryString, and Anchor parts.
+tagBased: false
 description: |
  Use this UDF to safely split out or manipulate one portion of a URL.
 

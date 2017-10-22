@@ -9,6 +9,7 @@ authorEmail: svg2@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: Replaces variable placeholders with values of said variables using any list of possible identifiers.
+tagBased: false
 description: |
  The EvaluateVariables UDF returns a string of text with variable placeholders turned into the actual value of those variables. This is useful in CFMAIL functions when sending user information, etc. In the email message you can include %thisusername% and when the mail is sent it replaces %thisusername% with the actual username. You can specify your own list of placeholder identifiers (%,!,@,$,etc).
  

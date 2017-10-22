@@ -9,6 +9,7 @@ authorEmail: tim@igl.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of an irregular N sided Polygon.
+tagBased: false
 description: |
  Purpose = Calcuate the area of an N sided irregular polygon.
  Formula = Area = 1/2 * ((x1+x2)(y1-y2)+(x2+x3)(y2-y3)+...+(xn+x1)(yn-y1))

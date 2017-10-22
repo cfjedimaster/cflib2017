@@ -9,6 +9,7 @@ authorEmail: kenf@mallfinder.com
 version: 1
 cfVersion: CF5
 shortDescription: Locate a value in an already-sorted array.
+tagBased: false
 description: |
  Locate a value in an already-sorted array. Case-insensitive for strings. Code is useful since converting to a list would require finding a unique delimiter.
 

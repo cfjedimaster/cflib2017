@@ -9,6 +9,7 @@ authorEmail: tfelice@reddoor.biz
 version: 1
 cfVersion: CF5
 shortDescription: Return a single row from a query.
+tagBased: false
 description: |
  Given a numeric row id, this function will return the single row as a query object.
 

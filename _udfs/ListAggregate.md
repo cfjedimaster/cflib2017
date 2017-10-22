@@ -9,6 +9,7 @@ authorEmail: jesse@ixstudios.com
 version: 1
 cfVersion: CF5
 shortDescription: Turn a list of numbers into a summation sequence.
+tagBased: false
 description: |
  Pass in any list of numbers and an optional delimiter set (&quot;,&quot; is default) and it returns a list of the positional summations of that list.  This function is great for financial numbers, time sensitive numbers or any order specific numbers.
 

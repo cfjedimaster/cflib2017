@@ -9,6 +9,7 @@ authorEmail: j.adam.tuttle@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: An easy way to cache the result of any UDF.
+tagBased: false
 description: |
  Pass a unique cache key (string), duration (using createTimeSpan()), and the function whose return value you want to cache. A fourth optional boolean argument will allow you to force cache update. Returns the value of the function passed in, or the cached return value.
 

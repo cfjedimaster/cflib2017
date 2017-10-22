@@ -9,6 +9,7 @@ authorEmail: samihoda@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: A function which returns a Beginning Of Day TimeStamp. For example, 1/1/2000 10&#58;30 PM returns {ts '2000-01-01 00&#58;00&#58;00'}.
+tagBased: false
 description: |
  A function which returns a Beginning Of Day TimeStamp. For example, 1/1/2000 10:30 PM returns {ts '2000-01-01 00:00:00'}.
  

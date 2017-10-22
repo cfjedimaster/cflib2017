@@ -9,6 +9,7 @@ authorEmail: chornobyl@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Serial Shipping Container Code (SSCC) ASN Generator.
+tagBased: true
 description: |
  I take a 9 digit serial sequence, concat a vendor ID with a leading 0 and find the Check Digit for the SSCC ID Number then return a complete 20 digit ASN number for generating Barcodes.
 

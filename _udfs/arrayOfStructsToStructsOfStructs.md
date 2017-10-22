@@ -9,6 +9,7 @@ authorEmail: olusina@hotmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Converts an array of structures to an structure of structures,
+tagBased: true
 description: |
  This UDF accepts an array of structures and converts it to a structure of structures.
  

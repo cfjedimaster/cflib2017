@@ -9,6 +9,7 @@ authorEmail: jlicht5@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts Knots to Mile Per Hour.
+tagBased: false
 description: |
  Converts Knots to Miles Per Hour.  Knots are a unit of speed, not distance.
 

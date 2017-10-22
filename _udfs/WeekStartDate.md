@@ -9,6 +9,7 @@ authorEmail: dmurphy52@lycos.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a week number and returns a date object of the first day of that week.
+tagBased: false
 description: |
  Takes a week number and returns a date object of the first day of that week. This can be useful if you want to display an actual date that can be easily understood by a person as opposed to a week number. By default, Sunday is considered the first day of the week. If you pass the optional ISOFormat argument, you can set Monday as the first day of the week.
 

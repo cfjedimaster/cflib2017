@@ -9,6 +9,7 @@ authorEmail: marc.esher@cablespeed.com
 version: 3
 cfVersion: CF5
 shortDescription: Creates a unique file name; used to prevent overwriting when moving or copying files from one location to another.
+tagBased: false
 description: |
  Pass a full file path to this function; if the file exists, the function will return a new, unique file name.
 

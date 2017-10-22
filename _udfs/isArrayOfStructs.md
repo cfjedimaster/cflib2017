@@ -9,6 +9,7 @@ authorEmail: jbriccetti@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Tells you if a variable is an array of structs
+tagBased: false
 description: |
  Allows you to check if a variable contains an array of structs.
 

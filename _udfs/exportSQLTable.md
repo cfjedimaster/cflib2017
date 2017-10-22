@@ -9,6 +9,7 @@ authorEmail: asifrasheed@rocketmail.com
 version: 2
 cfVersion: CF7
 shortDescription: Export table data in script format (INSERT statements).
+tagBased: true
 description: |
  This UDF will export any sql table data into script format. Where every row of data will covert into SQL INSERT statement. User can also specify the commit statement after x number of statements.
 

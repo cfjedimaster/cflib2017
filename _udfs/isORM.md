@@ -9,6 +9,7 @@ authorEmail: johnfarrar@sosensible.com
 version: 1
 cfVersion: CF9
 shortDescription: Validates if item is orm entity or collection.
+tagBased: false
 description: |
  There is no built in way to check this with a single function at this time. So I created a way to check if the element was either and ORM entity or collection of entities.
 

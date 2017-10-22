@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of an ellipse.
+tagBased: false
 description: |
  Calculates the area of an ellipse based on the vertical and horizontal radii.
 

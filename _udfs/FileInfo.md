@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns information about a file.
+tagBased: true
 description: |
  Returns information about a file. This includes: attributes, datelastmodified, mode, name, size, and type.
 

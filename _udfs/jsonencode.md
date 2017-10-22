@@ -9,6 +9,7 @@ authorEmail: jehiah@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Serialize native ColdFusion objects into a JSON formated string.
+tagBased: true
 description: |
  Serialize native ColdFusion objects (simple values, arrays, structures, queries) into a JSON format string. This is usefull for passing data to the browser using AJAX where JSON is the dataformat.
  

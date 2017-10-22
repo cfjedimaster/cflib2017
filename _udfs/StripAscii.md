@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 2
 cfVersion: CF5
 shortDescription: Removes ASCII character codes from the string.
+tagBased: false
 description: |
  Strips all ASCII character codes from str.
 

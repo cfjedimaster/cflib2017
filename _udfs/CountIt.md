@@ -9,6 +9,7 @@ authorEmail: pwu@hunter.com
 version: 1
 cfVersion: CF5
 shortDescription: Get a count on searching string in the searched string.
+tagBased: false
 description: |
  Get a count on searching string in the searched string. Simular to ListLen, however this UDF accepts a string, not a single character, as a delimiter.
 

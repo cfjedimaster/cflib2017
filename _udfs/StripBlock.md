@@ -9,6 +9,7 @@ authorEmail: nealb@800wine.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes all characters in a string between two characters.
+tagBased: false
 description: |
  Removes all characters in a string between two characters.  Especially useful for remarks enclosed in brackets, asterisks, etc., which you don't wish to display.
 

@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Generates a valid Site Map XML from either a list of URLs or a query of URLs.
+tagBased: true
 description: |
  Generates a valid Site Map XML from either a list of URLs or a query of URLs.
 

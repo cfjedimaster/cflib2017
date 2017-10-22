@@ -9,6 +9,7 @@ authorEmail: mliotta@r337.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the opposite of a color.
+tagBased: false
 description: |
  Returns the opposite of a color.
 

@@ -9,6 +9,7 @@ authorEmail: ericc@nc.rr.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert a hexadecimal color into a RGB color value.
+tagBased: false
 description: |
  HexToRGB is the opposite of RGBtoHex.  HexToRGB converts a 6 character hexadecimal color value into an RGB list (rr,gg,bb).
 

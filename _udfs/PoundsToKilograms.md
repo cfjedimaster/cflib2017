@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Pounds to kilograms conversion.
+tagBased: false
 description: |
  Pounds to kilograms conversion.
 

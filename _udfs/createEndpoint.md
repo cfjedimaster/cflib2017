@@ -9,6 +9,7 @@ authorEmail: marko.simic@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Create channel and endpoint at runtime
+tagBased: false
 description: |
  Create channel which communicate with corresponding endpoints on the BlazeDS server.
  This is part we miss to complete &quot;BlazeDS dynamic configuration&quot; story we started with createDestination function. It takes single parameter:

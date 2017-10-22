@@ -9,6 +9,7 @@ authorEmail: info@mindframe.com
 version: 1
 cfVersion: CF5
 shortDescription: Strips all non-numeric characters from a string.
+tagBased: false
 description: |
  This udf has the intended purpose of formatting a phone number that is in a (xxx) xxx-xxxx to a xxxxxxxxxx format.
 

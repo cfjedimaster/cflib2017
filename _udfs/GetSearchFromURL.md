@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the search part from a specified URL.
+tagBased: false
 description: |
  Returns the search part from the supplied URL. If no search part is found, then returns an empty string. Works with any protocol that follows the &quot;?searchpart&quot; syntax, most notably HTTP.
 

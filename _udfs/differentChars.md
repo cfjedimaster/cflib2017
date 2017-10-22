@@ -9,6 +9,7 @@ authorEmail: public.cflib@saghian.com
 version: 1
 cfVersion: CF5
 shortDescription: Counts how many different chars are in a string.
+tagBased: false
 description: |
  Counts how many different chars are in a string. Usable for passwords where you can ensure there is at least x different chars, can check case sensitive and not.
 

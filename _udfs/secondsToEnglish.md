@@ -9,6 +9,7 @@ authorEmail: pcrowley@webzone.ie
 version: 1
 cfVersion: CF5
 shortDescription: Converts seconds to nearest time unit in english.
+tagBased: false
 description: |
  Converts seconds to nearest time unit in english rounding down.
 

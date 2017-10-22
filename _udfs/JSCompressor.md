@@ -9,6 +9,7 @@ authorEmail: cheveguerra@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Compresses javascript code
+tagBased: true
 description: |
  This UDF compresses javascript code removing line comments, block comments, spaces, tabs and line feeds.
 

@@ -9,6 +9,7 @@ authorEmail: jen@jenw.net
 version: 2
 cfVersion: CF5
 shortDescription: Strips links and closing link tags from a string.
+tagBased: false
 description: |
  removeLinks searches a string for A tags and removes the tag and the closing tag. It takes one required argument, the string to be stripped. It returns the string with the links removed.
 

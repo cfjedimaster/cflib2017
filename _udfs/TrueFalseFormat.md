@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com, ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts Boolean values to either True or False.
+tagBased: false
 description: |
  Converts Boolean values to either True or False.  In ColdFusion, both 'yes', 'no', and numbers can be boolean. This UDF will transate Yes/No 0/N to a 'real' True/False.
 

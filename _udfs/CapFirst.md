@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 3
 cfVersion: CF10
 shortDescription: Capitalizes the first letter in each word.
+tagBased: false
 description: |
  Returns the string with the first character of each word capitalized.
 

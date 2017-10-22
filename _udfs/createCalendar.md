@@ -9,6 +9,7 @@ authorEmail: eric@hynds.net
 version: 1
 cfVersion: CF8
 shortDescription: A simple CFML calendar.
+tagBased: true
 description: |
  Pass in a month and year, and a calendar is returned in a string.  Includes previous/next links to move from month to month, and a simple form with month and year drop downs to change both at once.
 

@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Produces a Calendar for a given month and year.
+tagBased: false
 description: |
  Pass in the month and year for the calendar, the height and width you want the calendar boxes to be, and the styles for the Title and Numbers.  Returns a string that contains a table that contains the formated calendar.
 

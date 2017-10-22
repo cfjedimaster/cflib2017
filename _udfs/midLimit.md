@@ -9,6 +9,7 @@ authorEmail: joshua@remote-app.com
 version: 0
 cfVersion: CF5
 shortDescription: Limits a string from the center inserting &quot;...&quot;
+tagBased: false
 description: |
  Limits a given string to a specified amount of characters.  This UDF takes the characters from the middle of the string and inserts &quot;...&quot; in it's place.
 

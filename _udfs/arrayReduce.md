@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: CFML implementation of Array.reduce()
+tagBased: false
 description: |
  Similar to Javascript's one ref https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
 

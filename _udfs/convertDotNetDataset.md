@@ -9,6 +9,7 @@ authorEmail: tonyp@rolist.com
 version: 1
 cfVersion: CF7
 shortDescription: Takes a .Net dataset and converts it to a CF structure of queries.
+tagBased: true
 description: |
  Originally written by Joe Reinhart, so give him the credit. I just found this function useful and fixed a bug so it could be submitted.
  

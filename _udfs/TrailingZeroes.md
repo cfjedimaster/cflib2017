@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Restores significant trailing zeroes which may have been omitted during calculations.
+tagBased: false
 description: |
  Restores significant trailing zeroes which may have been omitted during calculations. Does not remove excess trailing zeroes (use a rounding function for this).
 

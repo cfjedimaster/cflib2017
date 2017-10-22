@@ -9,6 +9,7 @@ authorEmail: dpomerance@mos.org
 version: 2
 cfVersion: CF5
 shortDescription: Wraps a chunk of text at a given character count.
+tagBased: false
 description: |
  The function loops through the supplied string using new lines as a delimeter.  
  It then inserts the supplied break character(s) in place of the space located 

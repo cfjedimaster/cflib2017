@@ -9,6 +9,7 @@ authorEmail: klenzade@i-55.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks string to see if it is a pPalindrome.
+tagBased: false
 description: |
  Checks string to see if it is a palindrome. A palindrome is any word or phrase that is the same spelled forwards or backwards. The test performed will ignore spaces and punctuation.
 

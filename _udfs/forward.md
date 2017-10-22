@@ -9,6 +9,7 @@ authorEmail: me@neodude.net
 version: 1
 cfVersion: CF6
 shortDescription: Performs a serverside redirection.
+tagBased: false
 description: |
  This UDF performs a serverside redirection through getPageContext(). This redirect must be to a relative location on the server. Unlike &lt;cflocation&gt;, this UDF does not send a 302 header to the browser to ask for a redirect - instead, the Coldfusion server stops executing the current page and starts executing the new page; this is done by accessing the J2EE backend behind Coldfusion MX with the use of the internal function getPageContext().
  

@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF9
 shortDescription: I create a new user defined cache region in Ehcache with customizable parameters.
+tagBased: true
 description: |
  I create a new user defined cache region in Ehcache. This function allows you to also configure the attributes for the custom cache, something you would normally have to hard code in the ehcache.xml file if you rely on ColdFusion's built in caching functions. I named the function cacheCreate() and not cacheNew() in the hopes that a future version of ColdFusion includes a cacheNew() function with similar functionality.
 

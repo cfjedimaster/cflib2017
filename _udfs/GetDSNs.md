@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Gets a list of DSNs.
+tagBased: false
 description: |
  Gets a list of registered datasources.
 

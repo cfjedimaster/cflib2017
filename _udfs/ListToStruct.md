@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts a delimited list of key/value pairs to a structure.
+tagBased: false
 description: |
  Converts a delimited list of key/value pairs to a structure.  This function gives you the equivalent of StructNew() with constructor support.
 

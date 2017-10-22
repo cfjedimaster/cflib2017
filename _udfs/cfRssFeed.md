@@ -9,6 +9,7 @@ authorEmail: bleachedbug@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Display rss feed.
+tagBased: true
 description: |
  This UDF display's a rss feed to a web browser, in a readable format.
 

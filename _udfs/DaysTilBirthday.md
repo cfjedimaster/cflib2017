@@ -9,6 +9,7 @@ authorEmail: jason@yomamma.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns number of days until your next birthday.
+tagBased: false
 description: |
  DaysTilBirthday returns the number of days until your next birthday.  It should accept any date ColdFusion can parse, and will return an integer.  If your birthday happens to be today, it will return zero.
 

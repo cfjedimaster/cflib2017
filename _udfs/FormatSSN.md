@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Translates a 9 digit string into a social security number.
+tagBased: false
 description: |
  Formats a 9 digit number as a social security number (xxx-xx-xxxx).
 

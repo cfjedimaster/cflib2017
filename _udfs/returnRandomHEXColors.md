@@ -9,6 +9,7 @@ authorEmail: webmaster@easycfm.com
 version: 0
 cfVersion: CF5
 shortDescription: Generate random colors for cfcharts!
+tagBased: false
 description: |
  This UDF will allow you to generate random colors that you can use with your charts. Pass in a numbr of colors and it will randomly generate as many colors are you requested in a comma delimited list to pass into a cfchartseries colorlist.
 

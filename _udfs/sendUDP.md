@@ -9,6 +9,7 @@ authorEmail: coldfusion.jquery@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Sends a UDP packet.
+tagBased: true
 description: |
  Sends a UDP packet.
 

@@ -9,6 +9,7 @@ authorEmail: cflib@brisnicki.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a URL query string to a structure.
+tagBased: false
 description: |
  Converts a URL query string to a structure. Repeated keys have the values appended as a list. Also removes and URL encoding. Based on code from QueryStringDeleteVar.
  

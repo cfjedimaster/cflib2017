@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Accepts a directory path &amp; a file filter.  Returns number of matching files.
+tagBased: true
 description: |
  Accepts a directory path &amp; a file filter.  Returns number of matching files.
 

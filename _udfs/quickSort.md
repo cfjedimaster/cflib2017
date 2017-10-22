@@ -9,6 +9,7 @@ authorEmail: james@innovativemedia.co.nz
 version: 3
 cfVersion: CF6
 shortDescription: Implementation of Hoare's Quicksort algorithm for sorting arrays of arbitrary items.
+tagBased: true
 description: |
  Using this UDF you are able to sort an array via the Quicksort algorithm using your own comparison function to enable you to sort arrays of anything (simple variables, structs, arrays, dates...).
  

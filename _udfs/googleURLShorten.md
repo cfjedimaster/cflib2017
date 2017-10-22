@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF8
 shortDescription: Uses Google's URL Shortening service to shorten a URL.
+tagBased: true
 description: |
  Uses Google's URL Shortening service to shorten a URL.
 

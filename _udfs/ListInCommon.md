@@ -9,6 +9,7 @@ authorEmail: michael@slatoff.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns elements in list1 that are found in list2.
+tagBased: false
 description: |
  Returns elements in list1 that are found in list2.  Based on ListCompare by Rob Brooks-Bilson (rbils@amkor.com) .
 

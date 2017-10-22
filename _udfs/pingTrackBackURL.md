@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF6
 shortDescription: Pings a TrackBack URL.
+tagBased: true
 description: |
  Pings a TrackBack URL according to the TrackBack Specification from SixApart (http://www.sixapart.com/pronet/docs/trackback_spec).
 

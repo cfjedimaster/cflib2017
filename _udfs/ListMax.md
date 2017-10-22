@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: ListMax returns the greatest value in a list.
+tagBased: false
 description: |
  ListMax returns the greatest value in a listt.
 

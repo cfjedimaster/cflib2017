@@ -9,6 +9,7 @@ authorEmail: dlns2001@yahoo.com
 version: 1
 cfVersion: CF8
 shortDescription: Splits a numeric value into integer and decimal parts
+tagBased: false
 description: |
  Takes an numeric value and returns a struct with keys integer and decimal, each holding the relevant part of the original value.
 

@@ -9,6 +9,7 @@ authorEmail: dbastos@math.utoledo.edu
 version: 4
 cfVersion: CF5
 shortDescription: Checks is all elements of a list X is found in a list Y.
+tagBased: false
 description: |
  If ALL elements of a list X is found in a list Y, the function returns TRUE (yes) otherwise it'll return FALSE (no). Also allows for 'matchany' functionality which will allow for any match of X in Y.
 

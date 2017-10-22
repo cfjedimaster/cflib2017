@@ -9,6 +9,7 @@ authorEmail: gabriele.bernuzzi@gruppotesi.com
 version: 3
 cfVersion: CF6
 shortDescription: Adds a column filled with a value to a query object.
+tagBased: true
 description: |
  Adds a column filled with a value to a query object.
 

@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.com
 version: 1
 cfVersion: CF5
 shortDescription: URL Security tool to prevent a user from changing any part of a URL.
+tagBased: false
 description: |
  This function generates a Hash value based off of the full URL including any URL variables and the remote user's IP address.
  

@@ -9,6 +9,7 @@ authorEmail: mosterman@highspeed.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks that a number is a valid ABA routing number.
+tagBased: false
 description: |
  Returns a boolean result (true or false) of whether the provided number passes the ABA check-digit algorithim. ABA ( numbers must be exactly 9 digits long. They are used to uniquely identify a bank for wire transfers and ACH (Automated Clearing House).
 

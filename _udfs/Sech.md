@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the hyperbolic secant of an angle.
+tagBased: false
 description: |
  Returns the hyperbolic secant of an angle.  All angles are expressed in radians.
 

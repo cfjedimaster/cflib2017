@@ -9,6 +9,7 @@ authorEmail: spotter@redbanner.com
 version: 6
 cfVersion: CF5
 shortDescription: Creates a verity &quot;safe&quot; search string.
+tagBased: false
 description: |
  Verity_clean strips all invalid characters and word combinations from a search strign to prevent verity from crashing.
 

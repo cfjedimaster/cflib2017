@@ -9,6 +9,7 @@ authorEmail: coldfusion@evankeller.com
 version: 2
 cfVersion: CF5
 shortDescription: Convert ASCII characters into a decimal number.
+tagBased: false
 description: |
  Convert ASCII characters (i.e. binary file) into a decimal number.  You can specify either Intel or Motorola byte order, and process signed intergers normally or in two's complement notation.
 

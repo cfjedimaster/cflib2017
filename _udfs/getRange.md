@@ -9,6 +9,7 @@ authorEmail: delroekid@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Gets the difference between the largest and smallest values in a given data set (statistics)
+tagBased: false
 description: |
  STATISTICS -  The range is the size of the smallest interval which contains all the data and provides an indication of statistical dispersion. It is measured in the same units as the data. Since it only depends on two of the observations, it is most useful in representing the dispersion of small data sets.
 

@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 5
 cfVersion: CF8
 shortDescription: Detects 130+ browsers.
+tagBased: false
 description: |
  Detects what browser the user is using and version number. If the HTTP_USER_AGENT is stripped by a firewall or unknown (edited) Agent ID string, an &quot;Unknown&quot; is returned.
 

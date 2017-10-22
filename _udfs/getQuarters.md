@@ -9,6 +9,7 @@ authorEmail: steve.dewitt@milliman.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns first and last day of quarter from first year to current quarter from array of years.
+tagBased: false
 description: |
  Returns first day and last day of a quarter from an array of years. Starting with the oldest date up to the last year. If the current year is included in the array then it will return up to the current quarter. An array of years that goes from 1999 through 2004 will return up to 12 quarters in an array of structs.
 

@@ -9,6 +9,7 @@ authorEmail: c_wigginton@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Replaces dirty words with pattern.
+tagBased: true
 description: |
  Replaces dirty words in text using naughtyList (Carlin's 7 dirty words as an example) with either middle characters only or full replacement of text.
 

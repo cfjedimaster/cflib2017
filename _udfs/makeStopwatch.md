@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Returns functions for recording a sequence of timed events
+tagBased: false
 description: |
  Uses closure to maintain a timeline which start() / lap() / stop() functions can capture points in time to, with an annotation.
 

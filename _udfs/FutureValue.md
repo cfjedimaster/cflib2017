@@ -9,6 +9,7 @@ authorEmail: rayt@qsystems.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculate the future value of investment with regular deposits.
+tagBased: false
 description: |
  Calculate the future value of investment with regular deposits.
 

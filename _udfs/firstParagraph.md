@@ -9,6 +9,7 @@ authorEmail: neil.merton@mewebdev.net
 version: 1
 cfVersion: CF5
 shortDescription: Finds the first paragraph in a given string.
+tagBased: false
 description: |
  This function will return the first paragraph it finds in a string. It requires that the string is properly formed (i.e. has a closing paragraph tag).
 

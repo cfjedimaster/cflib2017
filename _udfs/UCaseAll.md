@@ -9,6 +9,7 @@ authorEmail: ivan.rodriguez@de-net.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns a string with all words capitalized with special non english characters.
+tagBased: false
 description: |
  It replaces all the ocurrencies in a string of French and Spanish letters and accents, with its equivalents capitalized.
 

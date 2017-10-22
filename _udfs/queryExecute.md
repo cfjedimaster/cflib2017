@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Backport of QueryExecute in CF11 to CF9 &amp; CF10
+tagBased: true
 description: |
  Include a cfm with this function if server.coldfusion.productVersion is 9 or 10.
 

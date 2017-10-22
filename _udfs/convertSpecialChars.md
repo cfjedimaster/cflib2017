@@ -9,6 +9,7 @@ authorEmail: gsalisbury@collegepublisher.com
 version: 2
 cfVersion: CF5
 shortDescription: Reformats special chars typically found when copying and pasting from Word.
+tagBased: false
 description: |
  The function is useful for filtering out chars that may not display correctly when viewed in a text only format.
  

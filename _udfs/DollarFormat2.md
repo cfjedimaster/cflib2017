@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Works like the built-in function DollarFormat, but does no rounding.
+tagBased: false
 description: |
  Works like the built-in function DollarFormat, but does no rounding so that you can round as you see fit. Most frequently useful for displaying whole dollar amounts. Adds commas to every third digit to the left of the decimal point. Uses parenthesis to denote negative values. And of course adds a dollar sign. If value passed is not a number then returns the raw string, or the specified optional default value. Incidentally, numbers in scientific notation also work with this function.
 

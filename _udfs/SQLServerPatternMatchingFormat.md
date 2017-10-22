@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Strip pattern-matching wildcards from a string appearing in a SQL Server query.
+tagBased: false
 description: |
  A visitor may enter wildcard characters into a search string without realising. An invalid search string can then produce either a database error or odd results. This is a particular problem with double-byte languages like Japanese where a [ for example may be hidden inside a character.
 

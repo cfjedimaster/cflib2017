@@ -9,6 +9,7 @@ authorEmail: wsgrah@wm.edu
 version: 1
 cfVersion: CF5
 shortDescription: Calculates correct UTM zone for a given latitude/longitude point.
+tagBased: false
 description: |
  Calculates correct UTM zone for a given latitude/longitude point. Longitude and latitude points are given in degree format.
 

@@ -9,6 +9,7 @@ authorEmail: joshua@waetech.com
 version: 1
 cfVersion: CF5
 shortDescription: Determines if the given point is within the given n-sided polygon.
+tagBased: false
 description: |
  Determines if the given point is within the given n-sided polygon.
  

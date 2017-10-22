@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Turn 1 into 1st, 2 into 2nd, etc.
+tagBased: false
 description: |
  Takes an integer and gives it back to you formatted as a &quot;rank&quot;.  1 becomes &quot;1st&quot;, 2 becomes &quot;2nd&quot;, 199329 becomes &quot;199,329th&quot; -- you get the idea.
 

@@ -9,6 +9,7 @@ authorEmail: adrian.l@thoughtbubble.net
 version: 1
 cfVersion: CF9
 shortDescription: Title cases all elements in a list.
+tagBased: false
 description: |
  Title cases all elements in a list. Will change &quot;adrian lynch&quot; to &quot;Adrian Lynch&quot;, &quot;a.lynch&quot; to &quot;A.Lynch&quot; and &quot;a.christopher lynch-smith&quot; to &quot;A.Christopher Lynch-Smith&quot;
 

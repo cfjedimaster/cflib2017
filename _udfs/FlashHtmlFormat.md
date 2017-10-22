@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a string into &quot;Flash&quot; safe HTML.
+tagBased: false
 description: |
  Flash doesn't support all html tags, and is very strict on the format of the tags it does support. This function to attempts to convert the string into &quot;Flash Safe&quot; HTML code.  Including simulation of &lt;ol&gt; and &lt;li&gt; tags.
 

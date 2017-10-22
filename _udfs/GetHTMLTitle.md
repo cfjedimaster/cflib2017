@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Parses an HTML page and returns the title.
+tagBased: false
 description: |
  This UDF will parse an HTML string (normally returned from CFFILE) and return the text between the title tags. The UDF will return an empty string if it cannot find proper HTML title tags.
 

@@ -9,6 +9,7 @@ authorEmail: randy@cfedge.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a selected column of data from a query and converts it into a list.
+tagBased: false
 description: |
  The function was inspired by the queryColumnToArray.  It takes a query and a column as arguments and returns a list.
 

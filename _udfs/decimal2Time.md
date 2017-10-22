@@ -9,6 +9,7 @@ authorEmail: audi.tt@verizon.net
 version: 1
 cfVersion: CF5
 shortDescription: Converts decimal to time.
+tagBased: false
 description: |
  Takes a decimal value between 0.001 and 23.99 and converts it to a time format.
 

@@ -9,6 +9,7 @@ authorEmail: sam@serndesign.com
 version: 1
 cfVersion: CF5
 shortDescription: Similar to xmlFormat() but replaces all characters not on the &quot;good&quot; list as opposed to characters specifically on the &quot;bad&quot; list.
+tagBased: false
 description: |
  xmlFormat2() can be used in place of xmlFormat() and will provide for a safer replacement including characters not caught by xmlFormat.
 

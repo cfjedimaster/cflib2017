@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Replaces a huge amount of unnecessary whitespace from your HTML code.
+tagBased: false
 description: |
  This function is useful to reduce download time of your entire webpage. Client's will load pages noticably faster. Also very useful to compress a page before caching it for storage.
  

@@ -9,6 +9,7 @@ authorEmail: nathans@dnsfirm.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a random color of a specified shade, light, dark, extra light, extra dark, or any.
+tagBased: false
 description: |
  You pass it exlight, light, dark, exdark or any, it passes you back a random color, of a random hue, with your specified shade of lightness or darkness.
 

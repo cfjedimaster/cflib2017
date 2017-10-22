@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns the list which was passed in after having trimmed each list item.
+tagBased: false
 description: |
  ListTrim accepts a list and an optional delimiter value (defaults to comma if not passed), and then returns the same list of trimmed values.
 

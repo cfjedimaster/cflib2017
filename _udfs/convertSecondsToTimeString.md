@@ -9,6 +9,7 @@ authorEmail: me@simonbingham.me.uk
 version: 2
 cfVersion: CF9
 shortDescription: Takes a time in seconds argument and converts to a time string in &quot;4d 12h 30m&quot; format.
+tagBased: false
 description: |
  Takes a time in seconds argument and converts to a time string in &quot;4d 12h 30m&quot; format. 
 

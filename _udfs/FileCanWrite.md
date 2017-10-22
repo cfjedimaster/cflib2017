@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF6
 shortDescription: Checks to see if a file can be written to.
+tagBased: false
 description: |
  Checks to see if a file can be written to. It uses the standard Java File object, which makes it very fast under Coldfusion MX.
 

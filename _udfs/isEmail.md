@@ -9,6 +9,7 @@ authorEmail: jeff@kazoomis.com
 version: 7
 cfVersion: CF5
 shortDescription: Tests passed value to see if it is a valid e-mail address (supports subdomain nesting and new top-level domains).
+tagBased: false
 description: |
  Tests passed value to see if it is a valid e-mail address (supports subdomain nesting and new top-level domains).
 

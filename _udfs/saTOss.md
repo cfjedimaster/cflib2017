@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure of arrays into a name/key style structure.
+tagBased: false
 description: |
  Converts a structure of arrays into a name/key style structure. For example, if the structure contains three keys, each arrays, named age, ID, and name, you can ask this UDF to return a new structure where the keys are based on ID. Each item in the ID array will be a key of the new struct. Each key will be a struct containing each of the keys from the previous structure, along with the corresponding data. In other words, oldStruct.name[X] will equal newStruct[id].name.
   Optional param to specify which columns each keyed structure will contain.

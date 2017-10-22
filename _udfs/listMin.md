@@ -9,6 +9,7 @@ authorEmail: svg@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: ListMin returns the smallest value in a list.
+tagBased: false
 description: |
  ListMin returns the smallest value in a list.
 

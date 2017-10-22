@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the mean (average) value for a set of numberic values.
+tagBased: false
 description: |
  Returns the mean (average) value for a set of numberic values.  These values can be passed as a list or one dimensional array.
 

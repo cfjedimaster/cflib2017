@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns season for given date.
+tagBased: false
 description: |
  Returns the Season for a given date. If no date is specified, defaults to the current date.
 

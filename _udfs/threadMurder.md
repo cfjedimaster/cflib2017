@@ -9,6 +9,7 @@ authorEmail: kmiller@websolete.com
 version: 0
 cfVersion: CF8
 shortDescription: Programmatically kill any cfthread from any request.
+tagBased: true
 description: |
  This UDF allows you to kill any thread spawned from any request.  This is the only way I've found to do so without cycling the CF server.  Since it uses the cfadmin API, does require the cfadmin login information.
 

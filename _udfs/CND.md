@@ -9,6 +9,7 @@ authorEmail: axs@arbornet.org
 version: 1
 cfVersion: CF5
 shortDescription: Cumulative Normal Distribution
+tagBased: false
 description: |
  Computes cumulative normal distribution function.
 

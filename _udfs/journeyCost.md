@@ -9,6 +9,7 @@ authorEmail: write2dave@gmx.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the cost of a car journey.
+tagBased: false
 description: |
  Calcualte the cost of a car journey based on miles traveled, your car's MPG and the cost of fulel per litre.  Defaults set to UK values.
 

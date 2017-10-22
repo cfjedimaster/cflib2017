@@ -9,6 +9,7 @@ authorEmail: markus.schneebeli@inm.ch
 version: 2
 cfVersion: CF5
 shortDescription: Removes values from a list by string pattern.
+tagBased: false
 description: |
  Removes list values which contain the string provided when mode is true (default). Removes list values which don't contain the string provided when mode is false.
 

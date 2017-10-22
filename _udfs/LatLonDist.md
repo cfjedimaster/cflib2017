@@ -9,6 +9,7 @@ authorEmail: tom@toshop.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the distance between two latitudes and longitudes.
+tagBased: false
 description: |
  Calculates the distance between two latitudes and longitudes.  Results can be in radians, kilometers, statute miles or nautical miles.  Handles the special cases of starting at either pole and checks for valid values.
 

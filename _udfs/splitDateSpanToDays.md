@@ -9,6 +9,7 @@ authorEmail: rodionbykov@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Splits date span to array of days (periods)
+tagBased: false
 description: |
  Function splits date span into array of periods (smaller date spans), from first day to last day.
 

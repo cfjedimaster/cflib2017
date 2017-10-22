@@ -9,6 +9,7 @@ authorEmail: CaptainPalapa@gmail.com
 version: 2
 cfVersion: CF8
 shortDescription: Returns a list like 3 years, 2 months, 12 days, 1 hour, 10 minutes, 45 seconds from a seconds count argument.
+tagBased: false
 description: |
  Returns a list like 3 years, 2 months, 12 days, 1 hour, 10 minutes, 45 seconds from a seconds count argument.
  

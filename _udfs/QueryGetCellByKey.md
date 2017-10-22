@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Provides direct access to query cells by knowing a key field value within the same row.
+tagBased: false
 description: |
  Provides direct access to query cells by knowing the primary key (or any other identifying field value) within the same row. No need to keep track of row numbers. No need to loop through an entire query if you only need to get at a single row. Useful for effectively joining queries which may not be easily joined otherwise, and allows for more effective reuse of existing, cached, and/or server/application scoped queries. Throws an error if keyFieldValue is not found.
 

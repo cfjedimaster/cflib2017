@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the cflocation tag.
+tagBased: true
 description: |
  Mimics the cflocation tag.
 

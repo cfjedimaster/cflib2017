@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates pulldowns for month, day and year.
+tagBased: false
 description: |
  Creates a three-part date entry via HTML pulldowns for month, day and year, defaulting to the passed DefaultDate, and restricting the year to a range between StartYear and EndYear. Each fieldname is specified via NameList.
 

@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: Converts decimal number to list of binary place values.
+tagBased: false
 description: |
  You give me a decimal number, and I return a list of numbers resulting from converting your original value to binary, and returning the non zero results. Example, you give me &quot;13&quot; and I return &quot;1,4,8&quot;.
 

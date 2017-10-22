@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the day of the month(1-31) of Last Occurrence of a day (1-sunday,2-monday etc.) in a given month.
+tagBased: false
 description: |
  Returns the day of the month(1-31) of Last Occurrence of a day (1-sunday,2-monday etc.)
  in a given month.  Can be used to determine holidays or special events that occur on the last occurrence of a day in a month.

@@ -9,6 +9,7 @@ authorEmail: germann_arlington@yahoo.co.uk
 version: 0
 cfVersion: CF6
 shortDescription: An arraySlice using Java 1.4 ArrayList built-in method.
+tagBased: true
 description: |
  An arraySlice using Java 1.4 ArrayList built-in method subList(int from, int to).
 

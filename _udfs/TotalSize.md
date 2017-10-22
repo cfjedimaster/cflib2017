@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the total size (in bytes) of a specified drive or network share. (Windows only)
+tagBased: false
 description: |
  Returns the total size (in bytes) of a specified drive or network share.  Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

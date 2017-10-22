@@ -9,6 +9,7 @@ authorEmail: deliver8r@gmail.com
 version: 1
 cfVersion: CF7
 shortDescription: QueryTreeSort takes a query and efficiently (O(n)) resorts it hierarchically (parent-child), adding a Depth column that can then be used when displaying the data.
+tagBased: true
 description: |
  Many datasets used in web programming are hierarchical, or parent-child.  Each item may have multiple subordinate items associated with it, and those subordinate items may have their own subordinate items, ad infinitum.  This sort of relationship is normally handled in a database by having a ParentID of one item point to the ID of another item.  The tricky part is getting the data out of the database in a way such that you can display it logically.  Most database engines do not offer native extensions for handling hierarchical data, so the easiest way is often to just have ColdFusion do the sorting.
 

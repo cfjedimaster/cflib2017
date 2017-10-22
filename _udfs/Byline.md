@@ -9,6 +9,7 @@ authorEmail: gyrus@norlonto.net
 version: 1
 cfVersion: CF5
 shortDescription: Generates a byline from a list of names.
+tagBased: false
 description: |
  Generate a byline from a comma-delimited list of one or more names, in the format 'by X[, Y &amp; Z]'. Also extensible to perform extra functions: currently included is the ability to generate links to iMDB for each name.
 

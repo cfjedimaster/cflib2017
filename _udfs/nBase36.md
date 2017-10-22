@@ -9,6 +9,7 @@ authorEmail: appsupport@hotmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Creates a base 36 from numbers that don't fit inside an integer.
+tagBased: false
 description: |
  Creates a base 36 from numbers that don't fit inside an integer.
 

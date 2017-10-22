@@ -9,6 +9,7 @@ authorEmail: marcos.placona@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Merge two simple structures in one combining keys or creating new ones.
+tagBased: true
 description: |
  This UDF can be used when you want to merge two ColdFusion Structures on just one. Just pass the structures as arguments, and it returns a new structure with all the data amended or merged. Unlike structAppend, existing values in struct1 will be appended, not overwritten.
 

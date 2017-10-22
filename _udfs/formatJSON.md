@@ -9,6 +9,7 @@ authorEmail: cf@animex.com
 version: 0
 cfVersion: CF9
 shortDescription: Formats a JSON string with indents &amp; new lines.
+tagBased: false
 description: |
  formatJSON() :: formats and indents JSON string
  based on blog post @ http://ketanjetty.com/coldfusion/javascript/format-json/

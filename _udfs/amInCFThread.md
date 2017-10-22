@@ -9,6 +9,7 @@ authorEmail: mark@compoundtheory.com
 version: 1
 cfVersion: CF8
 shortDescription: returns 'true' if the currentthread is a cfthread, rerturns false otherwise
+tagBased: true
 description: |
  Allows for the checking of executing code is being run inside a cfthread block or not.
 

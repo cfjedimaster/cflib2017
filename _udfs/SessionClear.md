@@ -9,6 +9,7 @@ authorEmail: robby@ohsogooey.com
 version: 1
 cfVersion: CF5
 shortDescription: Allows you to 'structclear' an entire session without worrying about deleting ColdFusion's built in variables.
+tagBased: false
 description: |
  Allows you to 'structclear' an entire session without worrying about deleting ColdFusion's built in variables.
 

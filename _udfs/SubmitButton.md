@@ -9,6 +9,7 @@ authorEmail: jesse@ixstudios.com
 version: 1
 cfVersion: CF5
 shortDescription: Create a simple submit button by providing name, value, class, width, and onClick.
+tagBased: false
 description: |
  Create a simple submit button by providing name, value, class, width, and onClick.
 

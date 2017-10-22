@@ -9,6 +9,7 @@ authorEmail: loyoj@fiu.edu
 version: 1
 cfVersion: CF6
 shortDescription: Update one structure values with values from another structure for those keys that match.
+tagBased: true
 description: |
  This function will find the matching keys between two structures and update structure1 values with structure2 values. If structure2 has more keys than structure1 the keys will not be added.
 

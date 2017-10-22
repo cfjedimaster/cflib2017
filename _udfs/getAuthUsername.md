@@ -9,6 +9,7 @@ authorEmail: mtangorre@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Get the authenticated username from the cgi.auth_user or cgi.remote_user without the domain information.
+tagBased: true
 description: |
  Users have various ways of specifying their username when logging onto a network. The formats can be: username@some.domain, domain\username, or even just username. This function returns the username portion of the cgi.auth_user or cgi.remote_user variables. If neither cgi variable contains a value, an empty string is returned.
 

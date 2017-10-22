@@ -9,6 +9,7 @@ authorEmail: amccollough@anthc.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns a boolean 1/0 from anything, including empty strings.
+tagBased: false
 description: |
  You pass in a variable, and I will return either a &quot;1&quot; if it evaluates to true, or a &quot;0&quot; if it is not a boolean (as in an empty string or any other non-boolean) or evaluates to false.
 

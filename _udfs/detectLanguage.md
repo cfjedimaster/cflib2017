@@ -9,6 +9,7 @@ authorEmail: guidobellomo@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: This function try to guess the language of a given text.
+tagBased: false
 description: |
  This function try to guess the language of a given text. Supports Italian,English,German.
  Accept a string as parameters and returns a two-letter code of the language (it,en,de).

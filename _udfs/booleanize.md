@@ -9,6 +9,7 @@ authorEmail: crosenblum@gmail.com
 version: 1
 cfVersion: CF7
 shortDescription: Simply converts access yes/no or other boolean variables to 0/1 format, almost opposite of yesnoformat
+tagBased: false
 description: |
  This was to help deal with a problem of access/sql conversion and there were some yes/no values that did not match to boolean values. So had to create a script to simplify universal conversion to boolean values.
 

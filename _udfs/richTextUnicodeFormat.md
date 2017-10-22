@@ -9,6 +9,7 @@ authorEmail: sierra@brighterfusion.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a rich text format unicode string, suitable for keyword replacement in rtf documents.
+tagBased: false
 description: |
  This function allows for the insertion of foreign characters into Rich Text Format (RTF) documents.  Strings are formatted into RTF Unicode characters.  This is especially handy for replacing keywords (such as name) in a translated RTF.
 

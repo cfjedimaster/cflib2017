@@ -9,6 +9,7 @@ authorEmail: craig@altainteractive.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a struct of simple values and returns the structure with the values and keys inverted.
+tagBased: false
 description: |
  Takes a struct of simple values and returns the  structure with the values and keys inverted.  The Values of the structure passed in will be the keys of the reutrned structure.  The Values of the Keys of the returned structure will be the corresponding keys of the passed in structure.
 

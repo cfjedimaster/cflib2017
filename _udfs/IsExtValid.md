@@ -9,6 +9,7 @@ authorEmail: gyrus23@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks for a valid file extension.
+tagBased: false
 description: |
  Takes a file path and a comma-separated list of three-letter extensions. Returns TRUE if there's a three-letter extension that matches one in the list, otherwise FALSE. Can be tweaked to accept 4-letter extensions.
 

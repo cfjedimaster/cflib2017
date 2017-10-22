@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the passed string with all non-numbers removed (letters, punctuation, whitespace, etc.).
+tagBased: false
 description: |
  Returns the passed string with all non-numbers removed (letters, punctuation, whitespace, etc.).
  If an optional second argument is defined, decimals will be allowed.  Otherwise, only digits 0-9 are returned.

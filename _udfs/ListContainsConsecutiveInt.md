@@ -9,6 +9,7 @@ authorEmail: terilynnstewart@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Determines if a list consists of consecutive integers, regardless or order.
+tagBased: false
 description: |
  Returns true if a list consists of integers that are consecutive, false if it does not. The minimum number in the list has no bearing; it may be any integer, negative or positive.
 

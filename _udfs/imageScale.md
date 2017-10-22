@@ -9,6 +9,7 @@ authorEmail: gregnettles@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns width or height of a scaled image.
+tagBased: false
 description: |
  Returns a width or height of an image when scaled down to a specified height or width while maintaining the original aspect ratio.
 

@@ -9,6 +9,7 @@ authorEmail: fluid@sc.rr.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts degrees Rankine to degrees Celsius.
+tagBased: false
 description: |
  Converts degrees Rankine to degrees Celsius.  Note that the Rankine temperature scale has an absolute zero (negative Rankine temperatures do not exist).  If a temperature below 0 Rankine (absolute 0) is passed, the funciton will return an invalid result.
 

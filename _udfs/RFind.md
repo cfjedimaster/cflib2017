@@ -9,6 +9,7 @@ authorEmail: cmn@v-works.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the last index of an occurrence of a substring in a string from a specified starting position.
+tagBased: false
 description: |
  Returns the last index of an occurrence of a substring in a string from a specified starting position. (The reverse of find).
 

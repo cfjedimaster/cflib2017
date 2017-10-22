@@ -9,6 +9,7 @@ authorEmail: adam@emscharts.com
 version: 1
 cfVersion: CF5
 shortDescription: Properly performs substring functionality on XML-Formatted strings.
+tagBased: false
 description: |
  Combines XmlFormat and Mid, but avoids problem of XMLFormat creating an invalid length string by converting special characters such as ampersands, quotes, and less than/greater than symbols.
 

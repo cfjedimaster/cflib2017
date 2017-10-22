@@ -9,6 +9,7 @@ authorEmail: everett.al@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns alternating color based on list of colors.
+tagBased: false
 description: |
  Returns color from list of colors based on row number sent. Useful for alternating row colors in a table, but is not limited to two colors. Also see EvenOddColor.
 

@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: ListFromDateRange returns a list of dates given a starting and ending date.
+tagBased: false
 description: |
  ListFromDateRange can be given a starting and ending date and will return an inclusive list of dates between those two dates. The resulting list will be comma delimited unless a different delimiter is specifically specified as the optional third argument.
 

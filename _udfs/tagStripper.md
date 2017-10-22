@@ -9,6 +9,7 @@ authorEmail: rick@webworksllc.com
 version: 2
 cfVersion: CF5
 shortDescription: Function to strip HTML tags, with options to preserve certain tags.
+tagBased: false
 description: |
  tagStripper is an extension of your standard regex to strip HTML tags, but allows you to either strip all tags and optionally preserve certain tags, or strip only certain html tags.  This can come in handy for stripping &quot;dangerous&quot; HTML code from user published HTML content.
 

@@ -9,6 +9,7 @@ authorEmail: nolan.erck@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Causes the current page request to &quot;sleep&quot; for the given duration, before continuing.
+tagBased: true
 description: |
  This is a variation of the sleep() UDF already on cflib.org.  However, fake_sleep() is a bit more &quot;web hosting friendly&quot;.  If your web host has CreateObject( &quot;java&quot; ) turned off (as mine did), the existing sleep() method will not work.  This UDF is a &quot;side step&quot; around that issue.
  

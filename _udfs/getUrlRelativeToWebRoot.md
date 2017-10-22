@@ -9,6 +9,7 @@ authorEmail: spidre@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Pass in file path to web root and a file and it returns URL relative to site root.
+tagBased: true
 description: |
  Pass in a system path for both the web root and the file you need a relative path for.  This will return the URL relative from the web site root.  Option available to almost URLEncode the URL path that is returned (ignores periods).
 

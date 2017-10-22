@@ -9,6 +9,7 @@ authorEmail: jorrit@janszen.net
 version: 1
 cfVersion: CF5
 shortDescription: Checks if valid Dutch postal code.
+tagBased: false
 description: |
  Validates a dutch postal code which is formatted with four digits (first digit can't be a zero) an (optional space) and two alphas.
 

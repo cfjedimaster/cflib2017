@@ -9,6 +9,7 @@ authorEmail: steve@adeptdeveloper.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts epoch milleseconds to a date timestamp.
+tagBased: true
 description: |
  MillisecondsToDate will convert milliseconds (such as timestamps returned by Java objects) and convert them into CF friendly date timestamps.
 

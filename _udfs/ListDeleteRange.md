@@ -9,6 +9,7 @@ authorEmail: shaun.ambrose@arcorsys.com
 version: 1
 cfVersion: CF5
 shortDescription: This function deletes a range of items from a list.
+tagBased: false
 description: |
  This function deletes a range of items from a list. If the ending position is greater than the length of the list, every item from the starting position until the end of the list is deleted.
  

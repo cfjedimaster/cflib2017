@@ -9,6 +9,7 @@ authorEmail: ed.hodder@bowne.com
 version: 3
 cfVersion: CF5
 shortDescription: Returns a string with words capitalized for a title.
+tagBased: false
 description: |
  Takes a string and returns it capitalized for a title. Always capitalizes first and last words and hyphenated words. Leaves some prepositions and conjunctions lower case.
 

@@ -9,6 +9,7 @@ authorEmail: paul@ninthlink.com
 version: 2
 cfVersion: CF5
 shortDescription: Pass in a value in bytes, and this function converts it to a human-readable format of bytes, KB, MB, or GB.
+tagBased: false
 description: |
  Given a number of bytes, this UDF converts that string to the appropriate value in kilobytes, megabytes, or gigabytes, using the notation and rules that MS Windows Explorer uses for placing the decimal and choosing units.  An optional second argument allows you to specify the preferred unit.
 

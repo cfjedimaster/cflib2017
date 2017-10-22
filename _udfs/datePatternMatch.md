@@ -9,6 +9,7 @@ authorEmail: matt11678@hotmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Determine if a date string is in a particular pattern
+tagBased: false
 description: |
  For a data import from a spreadsheet I needed a way to determine if a string was in the format dd-MMM-yy so I knew to transform it to another database friendly format (ie mm/dd/yyyy)
 

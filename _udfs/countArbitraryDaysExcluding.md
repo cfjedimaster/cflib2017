@@ -9,6 +9,7 @@ authorEmail: murray@murrah.com.au
 version: 0
 cfVersion: CF5
 shortDescription: Returns the number of days between a start and end date, excluding a specified list of days, and allowing for an exclusion list
+tagBased: false
 description: |
  Based on UDF countArbitraryDays(). Returns the number of days between a start and end date, excluding a specified list of days,e.g. exclude saturday and sunday. Optionally allows an array of dates to be excluded (eg public holidays). Since it is based on countArbitraryDays(), this UDF relies on formula instead of brute force to calculate the days and will perform better than other WeekDays/BusinessDays methods which loop from the start date to end date.
 

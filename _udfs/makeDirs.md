@@ -9,6 +9,7 @@ authorEmail: jiriso@fitquestsl.com
 version: 1
 cfVersion: CF6
 shortDescription: Create all non exitant directories in a path.
+tagBased: false
 description: |
  It will create all non existant directories in a path withouth looping by using java.io.File class.
 

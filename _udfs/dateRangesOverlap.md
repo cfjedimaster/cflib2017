@@ -9,6 +9,7 @@ authorEmail: cfsearching@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: Compares two date ranges to determine if they overlap by one or more days.
+tagBased: true
 description: |
  Compares two date ranges to determine if they overlap (or intersect) by one or more days. Returns true if the two ranges overlap.
 

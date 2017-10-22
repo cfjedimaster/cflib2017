@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if session variables are enabled.
+tagBased: false
 description: |
  Returns true if session variables are enabled.
 

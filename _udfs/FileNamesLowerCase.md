@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Makes all files in a directory lower case.
+tagBased: true
 description: |
  This UDF is a quick way to make all the files in a particular directory (or directory tree, optionally) lower case.  
  

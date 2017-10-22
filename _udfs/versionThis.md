@@ -9,6 +9,7 @@ authorEmail: byronj@bignell.com
 version: 2
 cfVersion: CF5
 shortDescription: Increments the values of a 3 place version number.
+tagBased: false
 description: |
  This UDF increments a standard 3 place (0.0.0) version number from left to right in ascending order.
 

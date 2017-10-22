@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Returns true if a specified array position is defined.
+tagBased: false
 description: |
  Returns true if a specified array position is defined.
 

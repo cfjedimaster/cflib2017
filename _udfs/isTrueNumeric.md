@@ -9,6 +9,7 @@ authorEmail: tomasbecklin@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns true if all characters in a string are numeric.
+tagBased: false
 description: |
  Verifies each characters in a string to be numeric. The existing isNumeric() function accepts e (express scientific notation) and d (denote double precision) as numeric characters and will return true/yes.
 

@@ -9,6 +9,7 @@ authorEmail: bracuk@pathcom.com
 version: 1
 cfVersion: CF8
 shortDescription: Returns the requested percentile()
+tagBased: true
 description: |
  Returns the requested percentile using an equivalent to the MS Excel percentile() / percentile.exc() functions.
 

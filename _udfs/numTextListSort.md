@@ -9,6 +9,7 @@ authorEmail: Coldfusion@spiraldev.com
 version: 1
 cfVersion: CF6
 shortDescription: This function is to be used, to sort a list that has numeric and text values.
+tagBased: false
 description: |
  This function returns a sorted list that has numeric and text values starting with the numeric and ending with the text values.
 

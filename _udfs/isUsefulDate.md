@@ -9,6 +9,7 @@ authorEmail: amccollough@anthc.org
 version: 1
 cfVersion: CF5
 shortDescription: Tests if a date is valid, and within a century of today.
+tagBased: false
 description: |
  isUsefulDate() tests for valid dates, but also tests that the date is within a century of now. Why? Dates outside that range are probably fat-fingered so you have a year of &quot;201&quot; or &quot;20100&quot; instead of &quot;2010&quot;. Unless you are a historian or a futurist, you probably don't use dates beyond a hundred years of now; but if you do, feel free to increase the 100-year test in the UDF.
 

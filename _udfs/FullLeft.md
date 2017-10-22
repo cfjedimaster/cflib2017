@@ -9,6 +9,7 @@ authorEmail: jonnycattt@aol.com
 version: 2
 cfVersion: CF5
 shortDescription: An enhanced version of left() that doesn't cut words off in the middle.
+tagBased: false
 description: |
  An enhanced version of left() that doesn't cut words off in the middle; instead, it searches backward until it finds a full word.
 

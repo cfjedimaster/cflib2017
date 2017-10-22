@@ -9,6 +9,7 @@ authorEmail: delatush@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a two letter Country Code (i.e. US) and returns the full Country Name (i.e. UNITED STATES).
+tagBased: false
 description: |
  Takes a two letter Country Code (i.e. US) and returns the full Country Name (i.e. UNITED STATES).  Country Codes are 3166-1-Alpha-2 code (official short names in ENGLISH) see http://www.din.de/gremien/nas/nabd/iso3166ma/codlstp1/en_listp1.html
 

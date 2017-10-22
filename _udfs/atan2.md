@@ -9,6 +9,7 @@ authorEmail: rick.root@webworksllc.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the arc tangent of the two variables, x and y.
+tagBased: false
 description: |
  This function calculates the arc tangent of the two variables x and y, utilizing java.lang.Math class.
  It is similar to calculating the arc tangent of y / x, except that the signs of both arguments are used to determine the quadrant of  the result.

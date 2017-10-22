@@ -9,6 +9,7 @@ authorEmail: jgedev@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns TRUE if the string is a valid CF UUID.
+tagBased: false
 description: |
  Checks to see if the string passed is a valid CF-style UUID.  A valid UUID is a string which matches the outputed format of the CreateUUID function. Please note that there is a difference between ColdFusion-style UUIDs and Microsoft style UUIDs.
 

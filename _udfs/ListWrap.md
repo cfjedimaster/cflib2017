@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 1
 cfVersion: CF5
 shortDescription: Wraps a list every n elements.
+tagBased: false
 description: |
  Takes in a list, a length, and an optional string and delimiter. It parses through the list, inserting &quot;string&quot; in such a way that the list will appear to be wrapped every &quot;length&quot; elements. Meant to be used with break strings like '&lt;br&gt;'.
 

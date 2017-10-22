@@ -9,6 +9,7 @@ authorEmail: jpoe@afit.edu
 version: 1
 cfVersion: CF5
 shortDescription: Returns the filename of the current URL.
+tagBased: false
 description: |
  Returns the filename of the current URL.
 

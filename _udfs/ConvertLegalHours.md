@@ -9,6 +9,7 @@ authorEmail: jcraven@akingump.com
 version: 1
 cfVersion: CF5
 shortDescription: Function that returns legal billing time from standard time format.
+tagBased: false
 description: |
  Converts h:mm:ss or h:mm strings to hours rounded to tenths, used in my case for legal time billing.
 

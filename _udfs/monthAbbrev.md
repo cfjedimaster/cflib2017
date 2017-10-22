@@ -9,6 +9,7 @@ authorEmail: cf.contractor@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Month number to three character month text abbreviation.
+tagBased: false
 description: |
  Pass in a digit (1-12) and get back the equivalent three character calendar month abbreviation.
 

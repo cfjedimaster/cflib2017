@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 3
 cfVersion: CF5
 shortDescription: Searches a string for email addresses.
+tagBased: false
 description: |
  This UDF will search a string for email addresses and return the matches as a list.
 

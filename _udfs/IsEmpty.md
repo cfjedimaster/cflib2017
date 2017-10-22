@@ -9,6 +9,7 @@ authorEmail: faser@faser.net
 version: 1
 cfVersion: CF5
 shortDescription: Check if a variable is set and has a value.
+tagBased: false
 description: |
  Check if a variable is set and has a value. This UDF will check to see if the variable is an array, structure, or query. If so, it will check to see if any data exists in the variable, and if not, will return true.
 

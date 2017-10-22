@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 0
 cfVersion: CF5
 shortDescription: Gets the next text container (placeholder, tag, etc.) from a string as designated by starting and ending identifiers.
+tagBased: false
 description: |
  Gets the next text container from a string as designated by starting and ending identifiers. Optionally can search from a specified startIndex. Returns a structure with start, end, len, and str values for both the whole container and for the container's contents (see the cfdumps below for examples). Containers can be HTML tags, tag pairs, placeholders, etc. Useful for any process involving parsing text documents one &quot;container&quot; at a time. Container identifiers are case-insensitive. (Note: the UDFs GetContainer and ReplaceAtNoCase make a very useful pair when parsing templates.)
 

@@ -9,6 +9,7 @@ authorEmail: dswitzer@pengoworks.com
 version: 1
 cfVersion: CF6
 shortDescription: Creates a CFC instance based upon a relative, absolute or dot notation path.
+tagBased: false
 description: |
  This UDF will create an instance of a CFC based upon a relative or absolute path or even upon the standard dot notation used in the createObject(&quot;component&quot;) function. 
  

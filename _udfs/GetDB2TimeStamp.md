@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a ColdFusion date object and returns a DB2 formatted timestamp.
+tagBased: false
 description: |
  Takes a ColdFusion date object and returns a DB2 formatted timestamp.
  

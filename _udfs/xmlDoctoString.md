@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts an CF XML objects to string without the XML declaration.
+tagBased: true
 description: |
  Converts an CF XML objects to string without the XML declaration.
  In order to understand the need to have such a UDF you have to remember that CF always return the XML declaration when you turn an XML Doc to a string.

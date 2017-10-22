@@ -9,6 +9,7 @@ authorEmail: anonymous@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Compares two lists and returns the elements that are unique for each list.
+tagBased: false
 description: |
  This function compares two lists and will return a new list containing the difference between the two input lists. This function is different from ListDiff as it treats duplicate elements within the lists as distinct elements.
 

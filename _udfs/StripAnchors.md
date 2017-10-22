@@ -9,6 +9,7 @@ authorEmail: vonbrownz@hotmail.com
 version: 2
 cfVersion: CF5
 shortDescription: A function that will strip out all anchors in text that has been passed as an argument.
+tagBased: false
 description: |
  A function that will strip out all anchors in text that has been passed as an argument to the function.
 

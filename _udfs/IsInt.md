@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if a var is an integer.
+tagBased: false
 description: |
  Why doesn't CF have a function for checking to see if something is an integer?  isNumeric() is all well and good, but sometimes you need an int and you want to check.  Well, here's one way to do it.
 

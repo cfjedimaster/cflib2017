@@ -9,6 +9,7 @@ authorEmail: erki@dreamdrummer.com
 version: 1
 cfVersion: CF5
 shortDescription: Renames a specified key in the specified structure.
+tagBased: false
 description: |
  Renames a specified key in the specified structure. You can optionally choose if overwriting existing key is allowed or not (by default overwriting is not allowed).
 

@@ -9,6 +9,7 @@ authorEmail: mrnate@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Changes a given array of structures to a structure of arrays.
+tagBased: false
 description: |
  For those times when you're working with complex structures and arrays, here's a function that will rearrange your data. This changes a given array of structures to a structure of arrays.
 

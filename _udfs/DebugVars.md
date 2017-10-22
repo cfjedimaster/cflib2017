@@ -9,6 +9,7 @@ authorEmail: cflib@10mar2001.com
 version: 1
 cfVersion: CF6
 shortDescription: Outputs a load of variables for debugging purposes.
+tagBased: true
 description: |
  Output more extensive debugging information than just the CF debug info, using the &lt;cfdump&gt; tag. It fits easiest at the end of the template, but can be placed anywhere.
 

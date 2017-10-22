@@ -9,6 +9,7 @@ authorEmail: jason@jmpj.net
 version: 1
 cfVersion: CF6
 shortDescription: This function will remove any reserved characters from a filename string and replace any spaces with underscores.
+tagBased: true
 description: |
  This function will remove any reserved characters from a filename string and replace any spaces with underscores.
 

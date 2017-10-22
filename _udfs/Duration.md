@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 2
 cfVersion: CF5
 shortDescription: Duration(dateObj1, dateObj2) Takes two date objects and returns a structure containing the duration of days, hours, and minutes.
+tagBased: false
 description: |
  Adapted from original concept of Craig Girard's CF_SubtractDates located in the Developer Exchange.
  

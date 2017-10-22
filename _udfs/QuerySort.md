@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Sorts a query using Query of Query.
+tagBased: true
 description: |
  Sorts a query using Query of Query.
 

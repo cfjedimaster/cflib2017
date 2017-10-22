@@ -9,6 +9,7 @@ authorEmail: davidcl@tlavideo.com
 version: 1
 cfVersion: CF5
 shortDescription: Looks up all IP addresses for a hostname and returns them in an array.  Requires Java.
+tagBased: false
 description: |
  Performs an &quot;A&quot; record DNS lookup.  Based on GetHostAddress() by Ben Forta.  This version returns all A records for the host in an array.  Good if you need need to get all host addresses for a host that uses round-robin DNS.  (The comment in the original function refers to this as a &quot;reverse lookup&quot; but that is not actually correct DNS terminology-- this is a forward lookup.)
 

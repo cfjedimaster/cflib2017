@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the hyberbolic cosine of an angle.
+tagBased: false
 description: |
  Returns the hyberbolic cosine of an angle.  All angles are expressed in radians.
 

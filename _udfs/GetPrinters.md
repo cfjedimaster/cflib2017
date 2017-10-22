@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF8
 shortDescription: Get array of available server printers (for use with CFPRINT).
+tagBased: true
 description: |
  Uses internal ColdFusion Java object to obtain an array of printers available to CF.
 

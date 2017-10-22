@@ -9,6 +9,7 @@ authorEmail: bharbin@activematter.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the date and time based on a modified Julian Day.
+tagBased: false
 description: |
  Calculates the date and time based on a modified Julian Day.
 

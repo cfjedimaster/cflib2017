@@ -9,6 +9,7 @@ authorEmail: brian.rinaldi@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Adds a row to a query object and populates it with the values of a structure.
+tagBased: true
 description: |
  Adds a row to a query object and populates it with the values of a structure.
 

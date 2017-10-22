@@ -9,6 +9,7 @@ authorEmail: joe@stagingroom.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes ms sql freetext stop words from a sting.
+tagBased: false
 description: |
  Used to remove the common ms sql Freetext stop words from a string. Prevents error from occurring from searching for a stop word.
 

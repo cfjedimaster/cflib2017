@@ -9,6 +9,7 @@ authorEmail: vautrain@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Tests a string, one-dimensional array, or simple struct for possible SQL injection.
+tagBased: false
 description: |
  This security-related function is intended to test for strings that users intentionally or otherwise may pass in form fields that may cause SQL injection to occur. SQL injection is an event in which a malicious or unknowing user inserts arbitrary SQL statements into queries without the knowledge of the programmer.
  

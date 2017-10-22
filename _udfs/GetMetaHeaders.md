@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 4
 cfVersion: CF5
 shortDescription: Parses an HTML string and returns META tag information.
+tagBased: false
 description: |
  This UDF will parse an HTML string (normally returned from CFFILE) and return an array containing information about all meta tags. Each element of the array is a structure. Each structure will contain either a name or &quot;http-equiv&quot; key. The value is the name or http-equiv entry. Each structure will contain a content key as well. This contains the content for the meta tag.
 

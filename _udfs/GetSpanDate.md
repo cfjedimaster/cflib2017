@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds a timespan to a date.  GetSpanDate(dateObj, days, hours, minutes, seconds)  Pass in a date object, with the span difference of days, hours, minutes, and seconds and returns a timestamp of the end of the span.
+tagBased: false
 description: |
  Returns a Date n days,hours,minutes, and seconds in the future or past by adding a timespan to the passed date.
 

@@ -9,6 +9,7 @@ authorEmail: howens@insidevc.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a verity &quot;score&quot; value and returns a formatted percentage.
+tagBased: false
 description: |
  Takes a verity &quot;score&quot; value and returns a formatted percentage.
  

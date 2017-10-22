@@ -9,6 +9,7 @@ authorEmail: bret@bricecheddarn.com
 version: 0
 cfVersion: CF5
 shortDescription: Converts a feed of lorem ipsum text into a string for output.
+tagBased: true
 description: |
  This function allows for outputting lorem ipsum text on the fly.  It converts a feed of lorem ipsum text from Lipsum.com into a formatted or unformatted return string for output.
 

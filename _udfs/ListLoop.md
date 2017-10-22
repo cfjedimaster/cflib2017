@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Applies simple evaluations to every element in a list.
+tagBased: false
 description: |
  Applies the passed evaluation to every element in the specified list. Allows versatile conversions, calculations, formatting and other alterations to an entire list in one easy step. Use the variable &quot;x&quot; in the passed evaluation to denote the current list element.
 

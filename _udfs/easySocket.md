@@ -9,6 +9,7 @@ authorEmail: george1977@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Connect to sockets through your ColdFusion application.
+tagBased: true
 description: |
  This function allows ColdFusion developers to connect to remote hosts through the TCP/IP protocol and transmit messages. Very useful for implementing chat rooms, integrate with third party applications such as merchant carts etc.
 

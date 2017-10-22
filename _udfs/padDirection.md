@@ -9,6 +9,7 @@ authorEmail: rgambill@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Basic padding function that allows user to decide which side of the submitted string that the characters should be added to (via L or R).
+tagBased: false
 description: |
  Basic padding function that allows user to decide which side of the submitted string that the characters should be added to (via L or R). See also  padString().
 

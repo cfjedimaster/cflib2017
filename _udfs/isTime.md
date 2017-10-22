@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 0
 cfVersion: CF6
 shortDescription: Validates if a string is a valid time in 12- or 24-hour format
+tagBased: false
 description: |
  Validates if a string is a valid time in 12- or 24-hour format.  Optionally, can require time be in a specific format.
 

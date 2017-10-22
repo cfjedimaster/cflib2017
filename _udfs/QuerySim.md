@@ -9,6 +9,7 @@ authorEmail: bert@redbanner.com
 version: 2
 cfVersion: CF5
 shortDescription: Accepts a specifically formatted chunk of text, and returns it as a query object.
+tagBased: false
 description: |
  Accepts a specifically formatted chunk of text, and returns it as a query object.  Based on QuerySim.cfm by hal.helms@TeamAllaire.com.
  

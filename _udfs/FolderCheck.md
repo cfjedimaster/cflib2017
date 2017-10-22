@@ -9,6 +9,7 @@ authorEmail: mike@striking.com
 version: 1
 cfVersion: CF5
 shortDescription: Will replace chars in a string to be used to create a folder with valid equivalent replacements
+tagBased: false
 description: |
  This function will replace the characters in a string to be used for a folder name with acceptable character replacements. Will support high ascii chars and replace spaces with &quot;_&quot;.  Great way to keep folder names legal, especially when dealing with &quot;international&quot; characters.
 

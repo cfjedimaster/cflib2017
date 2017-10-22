@@ -9,6 +9,7 @@ authorEmail: rayt@qsystems.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculate payment on loan.
+tagBased: false
 description: |
  Calculate the payment on a loan given the interest rate, periods, and present value. The value returned is negative since the payment represents a reduction in the account. To get the simple value, call Abs on the result.
 

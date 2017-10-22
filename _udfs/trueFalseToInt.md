@@ -9,6 +9,7 @@ authorEmail: ctoth@tmctech.com
 version: 1
 cfVersion: CF5
 shortDescription: Simple function to format a true / false value to an integer (true=1, false=0).
+tagBased: false
 description: |
  Simple function to format a true / false value to an integer (true=1, false=0). 
  All Values passed to function that are not equal to &quot;true&quot; will be return 0

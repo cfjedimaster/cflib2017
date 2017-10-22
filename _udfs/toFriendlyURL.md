@@ -9,6 +9,7 @@ authorEmail: ccarey@fi.net.au
 version: 1
 cfVersion: CF8
 shortDescription: enhanced version of friendlyURL that also replaces diacritics with plausible ascii substitutes
+tagBased: true
 description: |
  Generate a friendly URL string for a given string input
  - Replaces diacritics (accented chars) with plausible ascii equivalents

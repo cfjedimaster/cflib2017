@@ -9,6 +9,7 @@ authorEmail: oleitch@locustcreek.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns a custom-formated timespan, similar to timeFormat().
+tagBased: true
 description: |
  This function takes a decimal number representing a timespan and formats it to fit a mask; similar to timeFormat().  Within the mask, it will replace the first formating char (y,m,w,d,h,n,s) with the number of those units.  That value is then removed from the total.  The addition of {s} can be used for conditionally adding the plural.
 

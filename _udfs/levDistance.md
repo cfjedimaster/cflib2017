@@ -9,6 +9,7 @@ authorEmail: nicholas@nezen.net
 version: 1
 cfVersion: CF5
 shortDescription: Computes the Levenshtein distance between two strings.
+tagBased: false
 description: |
  Computes the Levenshtein distance between two strings which is defined as the number of replacements, insertions or deletions necessary to transform the first string into the second. 
  

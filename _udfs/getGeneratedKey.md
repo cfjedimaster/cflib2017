@@ -9,6 +9,7 @@ authorEmail: todd@cfsilence.com
 version: 1
 cfVersion: CF8
 shortDescription: Normalizes the various possible returned keys in the cfquery result struct.
+tagBased: true
 description: |
  This UDF takes the result struct from cfquery and returns the proper generated key from that struct.
 

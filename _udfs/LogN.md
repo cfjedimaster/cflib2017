@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the logarithm of a value to the specified base.
+tagBased: false
 description: |
  Returns the logarithm of a value to the specified base.
 

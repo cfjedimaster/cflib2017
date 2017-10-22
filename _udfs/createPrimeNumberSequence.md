@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Creates a &quot;generator&quot; for returning prime numbers, in sequence
+tagBased: false
 description: |
  Each call to the function returned from createPrimeNumberSequence() returns the next prime number.
 

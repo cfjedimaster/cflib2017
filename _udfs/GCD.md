@@ -9,6 +9,7 @@ authorEmail: shakti@colony1.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the GCD (greatest common factor [divisor]) of two positive integers using the Euclidean Algorithm.
+tagBased: false
 description: |
  Calculates the GCD (greatest common factor [divisor]) of two positive integers using the Euclidean Algorithm.  Optionally displays all of the steps in the calculation.
 

@@ -9,6 +9,7 @@ authorEmail: owen@letskillowen.com
 version: 1
 cfVersion: CF9
 shortDescription: Merge the contents of two or more structs together into the first struct.
+tagBased: false
 description: |
  This is similar to jQuery.extend().
  

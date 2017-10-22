@@ -9,6 +9,7 @@ authorEmail: axs@arbornet.org
 version: 1
 cfVersion: CF5
 shortDescription: Computes the theoretical price of an equity option.
+tagBased: false
 description: |
  Returns the value of call and put options using the Black-Scholes pricing formula. S is the current asset price, X is the exercise price, r is the risk-free interest rate, T is the time to maturity of the option in years, v is annualized volatility. This code requires the cumulative normal distribution function CND().
 

@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Translates a RSS Feed's items to a query.
+tagBased: false
 description: |
  Takes a RSS feed from Blogger, Slashdot, ZDNet, etc and translates into a CF query.  Based on the function TranslateMacromediaResourceFeed by  Jeffry Houser (jeff@farcryfly.com).
 

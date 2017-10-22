@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF6
 shortDescription: Validate an XML file against a DTD.
+tagBased: true
 description: |
  Validate an XML file against a DTD.
 

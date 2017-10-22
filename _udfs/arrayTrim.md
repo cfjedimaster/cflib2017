@@ -9,6 +9,7 @@ authorEmail: olusina@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: This method trims an array to the specified number of elements.
+tagBased: true
 description: |
  This UDF trims an array to a specified number of elements. Triming is from right to left by default.
 

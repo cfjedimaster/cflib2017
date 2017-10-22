@@ -9,6 +9,7 @@ authorEmail: JWVPICBHZCOX@spammotel.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns as a binary object the chr by chr XOR of two given strings for length of shortest of the two.
+tagBased: false
 description: |
  Returns as a binary object the character by character exclusive OR of two given strings for a length of the shortest of the two. The result is the same as php: $str1 ^ $str2
 

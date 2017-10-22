@@ -9,6 +9,7 @@ authorEmail: scrittler@etechsolutions.com
 version: 1
 cfVersion: CF5
 shortDescription: Pads a string to a length of n characters.  Padding is from the left.
+tagBased: false
 description: |
  Pads a string to a length of n characters.  Padding is from the left.  If the length of the string is greater than or equal to the number of characters to pad the string out to, the string is returned unchanged.
 

@@ -9,6 +9,7 @@ authorEmail: rbayly@mediageneral.com
 version: 1
 cfVersion: CF5
 shortDescription: This UDF will take a Tab delimited text file and parse it into a mutlidimensional array
+tagBased: false
 description: |
  GetTabTextFeed will take a feed from an older batch Database or an excel tab delimited file and turn it into something a programmer can quickly use for validation or entry into a Database, this will also place values where values are missing getting around Cold Fusions problem of Shifting values when one is not present. This currently bases its lines off of the Ascii New Line Character. chr(10), if you would like to base it off of hard carriage returns simply change all of the chr(10) values to chr(13).
 

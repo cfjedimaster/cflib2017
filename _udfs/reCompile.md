@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Create a java.util.regex.Pattern in a CF-friendly way.
+tagBased: false
 description: |
  Create a java.util.regex.Pattern in a CF-friendly way. Returns an instance of java.util.regex.Pattern.
  

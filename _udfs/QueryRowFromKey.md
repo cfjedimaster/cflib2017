@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the first query row number that contains the specified key value.
+tagBased: false
 description: |
  Returns the first query row number that contains the specified key value. Useful when using functions that require a query's row number ... but you only have its primary key (or any other value that identifies the record). Returns zero if no matching keyFieldValue is found.
 

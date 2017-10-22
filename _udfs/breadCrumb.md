@@ -9,6 +9,7 @@ authorEmail: jdl1101@rit.edu
 version: 1
 cfVersion: CF5
 shortDescription: Creates a bread crumb trail based on your sites sirectory structure.
+tagBased: false
 description: |
  BreadCrumbs() can be called from any page and will return a string of links.
 

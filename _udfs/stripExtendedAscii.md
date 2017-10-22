@@ -9,6 +9,7 @@ authorEmail: Kevin@Benore.net
 version: 2
 cfVersion: CF5
 shortDescription: Removes all extended and non-printing ASCII characters from a string.
+tagBased: false
 description: |
  Removes all extended and non-printing ASCII characters for a string. For example you may have data that has TABs, LINE FEEDs (or CARRIAGE RETURNs), international letters, or non-printing characters that you simply want to remove, this function will delete them.
 

@@ -9,6 +9,7 @@ authorEmail: broberts@nxs.net
 version: 1
 cfVersion: CF5
 shortDescription: Takes a string and scrambles the characters.
+tagBased: false
 description: |
  Takes a string and scrambles the characters in a random fashion.  If no string is given, it scrambles the default string (numbers 1-10).
 

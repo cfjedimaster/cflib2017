@@ -9,6 +9,7 @@ authorEmail: imageaid@gmail.com
 version: 3
 cfVersion: CF6
 shortDescription: Validate an email existence using an external web service.
+tagBased: false
 description: |
  This function validates the existence of an email address via the ValidateEmail Web Service at webservicex.net.
 

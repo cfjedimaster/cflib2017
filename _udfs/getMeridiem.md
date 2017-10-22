@@ -9,6 +9,7 @@ authorEmail: nolan@southofshasta.com
 version: 1
 cfVersion: CF9
 shortDescription: I return the &quot;am/pm&quot; portion of a date/time (aka the &quot;meridiem&quot;).
+tagBased: false
 description: |
  Returns the &quot;am/pm&quot; portion of a time/date (aka the &quot;meridiem&quot;). Works with both dates created via plain text (i.e. &quot;4/1/2012&quot;) and via CreateDateTime(), etc. This is basically a wrapper around the call to TimeFormat() to both a) add some extra validation for dealing with potentially badly formatted dates and b) uses the proper &quot;meridiem&quot; name for this portion of the timestamp, adding some readability to the code.
 

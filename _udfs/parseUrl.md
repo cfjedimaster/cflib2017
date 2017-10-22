@@ -9,6 +9,7 @@ authorEmail: dswitzer@pengoworks.com
 version: 1
 cfVersion: CF7
 shortDescription: Parses a Url and returns a struct with keys defining the information in the Uri.
+tagBased: false
 description: |
  Parses a Url and returns a struct with keys defining the information in the Uri.
  

@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the page anchor from a specified URL.
+tagBased: false
 description: |
  Returns the page anchor for the supplied URL. If no anchor is found, then returns an empty string. Works with the http protocol where page anchors follow the &quot;filename#anchor&quot; syntax.
 

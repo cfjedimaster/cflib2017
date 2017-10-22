@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: This function will return a query listing all the schedule task on a ColdFusion server without admin access.
+tagBased: false
 description: |
  This function will return a query listing all the scheduled task on a ColdFusion server to which you do not have administrative access. Following are the columns in the returned query
  

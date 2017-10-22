@@ -9,6 +9,7 @@ authorEmail: matheus_antonelli@ig.com.br
 version: 1
 cfVersion: CF5
 shortDescription: This function returns the number of lines in a text file.
+tagBased: false
 description: |
  This function returns the number of lines in a text file loaded into a string. For this UDF, a line is defined as a string ending with Chr(13) or Chr(10). 
  

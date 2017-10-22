@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the inverse secant of an angle.
+tagBased: false
 description: |
  Returns the inverse secant of an angle.  Returns the string "undefined" if zero (0) is passed.  All angles are expressed in radians.
 

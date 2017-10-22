@@ -9,6 +9,7 @@ authorEmail: ngiovanni@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a list of unique values from a query column.
+tagBased: false
 description: |
  Returns a list of unique values from a query column with the option of case sensitive or not.
 

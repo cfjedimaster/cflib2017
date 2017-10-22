@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns TRUE if the string is a valid IP address.
+tagBased: false
 description: |
  Performs a regex on the string and determines if it a valid IP address. The value passed
  must match contain four octets delimited by a period. Each octet must be a number from 1 to 255. The

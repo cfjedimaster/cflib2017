@@ -9,6 +9,7 @@ authorEmail: james.m.stevenson@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Performs a number of statistical functions on a set of points.
+tagBased: false
 description: |
  This function calculates a best fit line for a given set of points (i.e., provides slope &amp; intercept) and predicts a future value along a linear trend. It also provides values for a number of residual functions (SSR, SSE, MSE, Pearson's R, max absolute residual) and provides residual values for all given data points. Enter points as comma-delimited lists of X and Y values. Enter a known X for the third argument to get a predicted y value.
 

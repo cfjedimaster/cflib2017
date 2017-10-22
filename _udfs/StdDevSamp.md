@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the standard deviation calculated using the divisor n-1 method.
+tagBased: false
 description: |
  Returns the standard deviation calculated using the divisor n-1 method. This method is used when you have values representing a population sample.
 

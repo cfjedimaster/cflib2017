@@ -9,6 +9,7 @@ authorEmail: deanna.schneider@ces.uwex.edu
 version: 1
 cfVersion: CF5
 shortDescription: Returns the Federal Fiscal Year for a given date.
+tagBased: false
 description: |
  The Federal Fiscal year returned is the current year if the passed in date is before July 1, next year if after July 1. Defaults to current date if none is provided or if something other than a date is provided.
 

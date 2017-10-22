@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the path from a specified URL.
+tagBased: false
 description: |
  Returns the path (minus the file name) for the passed URL. If no path is found, then returns an empty string. Works with any protocol that follows the standard &quot;/path/&quot; syntax include http, ftp, and others. Relative and absolute URLs are accepted. The last &quot;/&quot; character can be implied, but the final component name must not have any dots (&quot;.&quot;) or it will be considered a file name (see GetFileFromURL).
 

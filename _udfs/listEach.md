@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: UDF to loop over a list
+tagBased: false
 description: |
  Iterates over a list, calling a callback for each element. Returns an ARRAY of the results of the callback calls. The callback receives the arguments passed to the listEach(), plus index, element and length.
 

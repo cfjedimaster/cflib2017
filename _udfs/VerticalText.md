@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Take a string, make it appear vertically.
+tagBased: false
 description: |
  Puts line breaks into text to make it appear vertically.
 

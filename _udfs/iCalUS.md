@@ -9,6 +9,7 @@ authorEmail: tpullis@yahoo.com
 version: 2
 cfVersion: CF5
 shortDescription: Pass a formatted structure containing the event properties and get back a string in the iCalendar format (correctly offset for daylight savings time in U.S.) that can be saved to a file or returned to the browser with MIME type=&quot;text/calendar&quot;.
+tagBased: false
 description: |
  Produces output used by the iCalendar standard for inclusion in calendaring tools such as Outlook, Sunbird, etc. 
  

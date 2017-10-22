@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Analogous to reReplace()/reReplaceNoCase(), except the replacement is the result of a callback, not a hard-coded string
+tagBased: false
 description: |
  Analogous to reReplace()/reReplaceNoCase(), except the replacement is the result of a callback, not a hard-coded string
 

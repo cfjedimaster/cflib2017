@@ -9,6 +9,7 @@ authorEmail: dave@yougeezer.co.uk
 version: 0
 cfVersion: CF8
 shortDescription: Returns a structure containing upload information.
+tagBased: false
 description: |
  Without touching &quot;cffile action='upload'&quot; this function can give you all the information you need about any uploads.  This includes the size, original name, temporary name, content type and extension.
 

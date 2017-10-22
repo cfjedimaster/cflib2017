@@ -9,6 +9,7 @@ authorEmail: dlns2001@yahoo.com
 version: 1
 cfVersion: CF8
 shortDescription: Backs up a database to a zip file.
+tagBased: true
 description: |
  Backs up a database to a zip file.
 

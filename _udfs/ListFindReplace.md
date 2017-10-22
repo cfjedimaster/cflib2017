@@ -9,6 +9,7 @@ authorEmail: bprater@bluefoxlabs.com
 version: 1
 cfVersion: CF5
 shortDescription: Finds a value in one list and returns the matching string at the same index in another list.
+tagBased: false
 description: |
  Finds a value in one list and returns the matching string at the same index in another list. Useful when a database stores values in a different way than you want to display and you don't want a series of cfcase statements for the display values.
 

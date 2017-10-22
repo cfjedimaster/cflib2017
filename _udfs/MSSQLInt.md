@@ -9,6 +9,7 @@ authorEmail: michael@slatoff.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if the number is a valid SQL-92 integer.
+tagBased: false
 description: |
  Checks to see if the number is a valid SQL-92 integer. If it is valid, return number else return 0.
 

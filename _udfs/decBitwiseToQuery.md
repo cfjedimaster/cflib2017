@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: You provide me with a decimal number, and a string for a column name and I will return to you a query containing of the decimal values for each resulting non-zero value when your number is converted to binary.
+tagBased: false
 description: |
  You give me a number, and a column name. For each place in the resulting binary number, if that place evaluates out to a non-zero decimal number, that number will be added to the query as a row.
      

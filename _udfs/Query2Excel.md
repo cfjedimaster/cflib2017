@@ -9,6 +9,7 @@ authorEmail: jesse@ixstudios.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts a query to excel-ready format.
+tagBased: false
 description: |
  By passing in a query, list of query columns, and list of display headers and an alternating row color you can create content that can be saved directly with a .xls extension.  Must be able to use the CFCONTENT tag.
 

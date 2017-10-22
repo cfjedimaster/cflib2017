@@ -9,6 +9,7 @@ authorEmail: orchaen@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Parse a list of values with the specified function.
+tagBased: false
 description: |
  Parse a list of values with the specified function. Returns a list of the values returned by the function itself. Only UDFs are supported, but a UDF could be used to wrap a built-in function.
 

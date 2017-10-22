@@ -9,6 +9,7 @@ authorEmail: dmf67@yahoo.com
 version: 2
 cfVersion: CF5
 shortDescription: Applies a simple highlight to a word in a string.
+tagBased: false
 description: |
  This function applies a highlight to a word in a string. For example, you can use this to highlight search terms in the search results.
 

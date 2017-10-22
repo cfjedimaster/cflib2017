@@ -9,6 +9,7 @@ authorEmail: erikvvold@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Takes a url and 301 redirects to user to that url.
+tagBased: true
 description: |
  Takes a url and 301 redirects to user to that url. Please note - ColdFusion 8 adds the statusCode attribute to be cflocation. This UDF should only be used in ColdFusion 6 and 7.
 

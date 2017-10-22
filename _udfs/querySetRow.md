@@ -9,6 +9,7 @@ authorEmail: lunareclipse13@earthlink.net
 version: 1
 cfVersion: CF6
 shortDescription: Sets the values for one or more columns in the specified query row.
+tagBased: true
 description: |
  This function allows you to set the values for multiple columns in the specified query row, with a single function call.  If a row number is not specified, the column values will be appended to the end of the query as a new row.  Useful for development.  Similar to using QueryAddRow() plus multiple QuerySetCell() calls.
 

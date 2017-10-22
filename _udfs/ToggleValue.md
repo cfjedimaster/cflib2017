@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Toggles a value (ie&#58; &quot;stop&quot;/&quot;start&quot;) between two options.
+tagBased: false
 description: |
  Save yourself a couple lines of coding next time you need to toggle the value of a variable.
 

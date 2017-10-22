@@ -9,6 +9,7 @@ authorEmail: mike@gne-ws.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if the current page is being run on a secure server.
+tagBased: false
 description: |
  It checks to see if the code is on a SSL site by checking the value of CGI.Server_Port_Secure. You can also pass a list of servers to the UDF so you can use your code on a listed sever, local and development servers.
 

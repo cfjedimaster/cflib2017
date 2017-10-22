@@ -9,6 +9,7 @@ authorEmail: houcfug@yahoogroups.com
 version: 1
 cfVersion: CF6
 shortDescription: Used to remove missing positions from an array.
+tagBased: false
 description: |
  This function is designed to remove undefined postions from an array.  Will not work in CF5, and would not recommend using it for large arrays.  Optional argument to pass in delimiter (default is Pipe symbol).
 

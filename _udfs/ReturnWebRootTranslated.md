@@ -9,6 +9,7 @@ authorEmail: whiterod.david@saugov.sa.gov.au
 version: 1
 cfVersion: CF5
 shortDescription: Returns the translated (file system) location of the web root directory.
+tagBased: false
 description: |
  Returns the translated (file system) location of the web root directory. Relies on PATH_TRANSLATED and SCRIPT_NAME
 

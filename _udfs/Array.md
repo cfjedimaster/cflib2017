@@ -9,6 +9,7 @@ authorEmail: erki@dreamdrummer.com
 version: 1
 cfVersion: CF5
 shortDescription: This functions helps to quickly build arrays, both simple and complex.
+tagBased: false
 description: |
  Now you can make simple or complex arrays with a one-liner in CF, just like with built-in shorthand syntax in many other programming languages. You can create simple 1D arrays with ease, or nest Array() functions to create complex 2D, 3D etc arrays.
 

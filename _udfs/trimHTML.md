@@ -9,6 +9,7 @@ authorEmail: cflib.org@kenric.com
 version: 1
 cfVersion: CF5
 shortDescription: Like Trim() except it also works on html.
+tagBased: false
 description: |
  Like Trim() except it also works on html whitespace i.e. &lt;p&gt;&lt;/p&gt;, &lt;br&gt;, &lt;br/&gt;, &lt;br /&gt;, and  non-breaking spaces.
 

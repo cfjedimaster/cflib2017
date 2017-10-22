@@ -9,6 +9,7 @@ authorEmail: cherdt@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Given unbalanced or truncated XHTML, returns balanced XHTML
+tagBased: true
 description: |
  Taking an XHTML excerpt based on character length can frequently produce broken tags and broken elements. This function removes trailing broken tags and adds end tags so that the excerpt is balanced.
 

@@ -9,6 +9,7 @@ authorEmail: x@seizethedave.com
 version: 1
 cfVersion: CF5
 shortDescription: Strips the cfid/cftoken information from a string.
+tagBased: false
 description: |
  Supply a string and the string is returned with the URL token removed (cfid=2322&amp;cftoken=1243934978).  ? or &amp; is accounted for, as well as any combination of upper/lower case text.
  

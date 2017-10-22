@@ -9,6 +9,7 @@ authorEmail: erukulla@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing the last Business day of the given month
+tagBased: false
 description: |
  The purpose of this script is to get the last business day of any given month and year. Year is optional.
 

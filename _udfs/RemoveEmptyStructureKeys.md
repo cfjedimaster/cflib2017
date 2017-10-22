@@ -9,6 +9,7 @@ authorEmail: brinaldi@criticaldigital.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes any empty structure keys from within a structure.
+tagBased: false
 description: |
  Removes any empty structure keys from within a structure. This is often useful when passing FORM scope variables to a component as an argumentCollection.
 

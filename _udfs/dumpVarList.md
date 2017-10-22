@@ -9,6 +9,7 @@ authorEmail: email@dgibson.net
 version: 2
 cfVersion: CF6
 shortDescription: Dumps out variables/structs in simple text format.
+tagBased: false
 description: |
  Dumps out variables/structs in simple text format; useful for plain-text logging and debugging info.
  

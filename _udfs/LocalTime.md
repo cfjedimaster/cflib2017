@@ -9,6 +9,7 @@ authorEmail: chad@textinc.com
 version: 1
 cfVersion: CF6
 shortDescription: Function that returns adjusted local server time.
+tagBased: true
 description: |
  This is a function that behaves just like now() for those running sites where server and local time are different.  You just have to set your GMT offset and call the function with localtime() to have the local time displayed.
 

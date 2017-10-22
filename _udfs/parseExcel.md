@@ -9,6 +9,7 @@ authorEmail: tpetruzzi@gmail.com
 version: 2
 cfVersion: CF8
 shortDescription: Converts an excel file to a structure of arrays
+tagBased: true
 description: |
  Converts an excel file to a structure of arrays
 

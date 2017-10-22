@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.com
 version: 1
 cfVersion: CF5
 shortDescription: Used along with URLHash to verify the URL integrity.
+tagBased: false
 description: |
  After securing a URL by using the URLHash UDF, you can verify that the URL's integrity remains unchanged by verifying the security Hash vale with URLCheckHash.
 

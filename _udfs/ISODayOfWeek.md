@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the ordinal for the day of the week for the specified date/time object according to ISO standards.
+tagBased: false
 description: |
  Returns the ordinal for the day of the week for the specified date/time object according to ISO standards.  ISO standards use Monday as the first day of the week as opposed to CF's built in DayOfWeek() function, which uses Sunday as the first day.
 

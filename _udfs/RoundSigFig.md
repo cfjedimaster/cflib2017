@@ -9,6 +9,7 @@ authorEmail: jason.snyder@trw.com
 version: 2
 cfVersion: CF5
 shortDescription: Rounds a number to a specified number of significant digits.
+tagBased: false
 description: |
  Rounds a number to a specified number of significant digits.
 

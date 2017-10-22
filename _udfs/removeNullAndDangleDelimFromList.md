@@ -9,6 +9,7 @@ authorEmail: bharat@isummation.com
 version: 0
 cfVersion: CF5
 shortDescription: Remove null element and dangel delimiter from the list
+tagBased: false
 description: |
  This is the simplest way to remove null element and dangle delimiter from the given list.
 

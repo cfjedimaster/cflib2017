@@ -9,6 +9,7 @@ authorEmail: tim@sloanconsulting.com
 version: 1
 cfVersion: CF5
 shortDescription: Function to take a single row from a query and generate a list.
+tagBased: false
 description: |
  Use this function to take row of data from a query and create a simple list from that row. Useful when you are querying a text file as a datasource and the columns are listed in the first row.
 

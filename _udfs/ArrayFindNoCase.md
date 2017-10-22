@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Like listFindNoCase(), but for arrays.
+tagBased: false
 description: |
  Returns the index in an array containing a given (case-insensitive) value.  It is analagous to listFind(), but with arrays.  See also arrayFind().
 

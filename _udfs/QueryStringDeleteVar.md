@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Deletes a var from a query string.
+tagBased: false
 description: |
  Delete a variable (or a set of variables) and its value from a query string.  By default, it uses the cgi.query_string, but you can pass in an optional second argument to replace the query string.
  

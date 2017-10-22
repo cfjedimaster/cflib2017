@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns the SQL statement used to generate the specified query.
+tagBased: true
 description: |
  Returns the SQL statement used to generate the specified query.  Uses the coldfusion.server.ServiceFactory object used by the ColdFusion debugging service.
 

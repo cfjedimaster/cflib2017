@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 2
 cfVersion: CF5
 shortDescription: This function will return the item with the most occurances in a list.
+tagBased: false
 description: |
  This function will return the item with the most occurances in a list.
 

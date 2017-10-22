@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Returns a localised version of dayOfWeekAsInteger() (http&#58;//www.cflib.org/udf/dayOfWeekAsInteger)
+tagBased: false
 description: |
  Improves dayOfWeekAsInteger() to be locale- and ISO-aware. Thanks to Simon Bingham, Duncan Cumming, Matt Bourke and James Moberg for inspiration for this.
 

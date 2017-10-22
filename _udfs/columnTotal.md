@@ -9,6 +9,7 @@ authorEmail: charlesbarber@hotmail.com
 version: 2
 cfVersion: CF5
 shortDescription: This UDF calculates the total of a column from a query.
+tagBased: false
 description: |
  With this UDF, you can get the total of all rows for any given query column. Assuming of course that the column you specify contains numbers! :-)
 

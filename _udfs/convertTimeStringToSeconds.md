@@ -9,6 +9,7 @@ authorEmail: me@simonbingham.me.uk
 version: 1
 cfVersion: CF9
 shortDescription: Takes a time string in &quot;4d 12h 30m&quot; format and converts to seconds.
+tagBased: false
 description: |
  Takes a time string in &quot;4d 12h 30m&quot; format and converts to seconds. Also, takes an optional working hours per day argument as the function was originally used for timesheets.
 

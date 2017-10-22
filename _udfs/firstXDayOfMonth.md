@@ -9,6 +9,7 @@ authorEmail: tpullis@yahoo.com
 version: 1
 cfVersion: CF9
 shortDescription: Returns a date object of the first occurrence of a specified day in the given month and year.
+tagBased: false
 description: |
  Takes a day number, month number, and year. Returns a date object of the first occurrence of that day in the given month and year. For example, you want a date object for the first Wednesday in November, 2005. In this case, the function returns the date: 11/2/05.
 

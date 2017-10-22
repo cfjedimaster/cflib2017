@@ -9,6 +9,7 @@ authorEmail: sierra@brighterfusion.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the Chinese Zodiac animal corresponding to the given year of birth.
+tagBased: false
 description: |
  Returns the Chinese Zodiac animal corresponding to the given year of birth.  Takes any year, positive or negative.  All years will be taken at face value, for example 73 will be the year 73 A.D., not 1973.
 

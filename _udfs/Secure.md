@@ -9,6 +9,7 @@ authorEmail: rob@robrusher.com
 version: 1
 cfVersion: CF5
 shortDescription: This function validates user permissions against required permissions using Bit, List or custom validation.
+tagBased: false
 description: |
  This function is based on the secure.cfm customtag used in FuseBox 3 and authored by Hal Helms. This function validates user permissions against required permissions for code execution using either Bit, List or custom validation.
 

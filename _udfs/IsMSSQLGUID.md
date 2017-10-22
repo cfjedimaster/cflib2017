@@ -9,6 +9,7 @@ authorEmail: Michael@Slatoff.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns true if the string is a MS SQL GUID.
+tagBased: false
 description: |
  Returns true if the string is a MS SQL GUID.
 

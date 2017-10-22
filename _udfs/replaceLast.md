@@ -9,6 +9,7 @@ authorEmail: john.whish@crisp-ebusiness.com
 version: 0
 cfVersion: CF5
 shortDescription: Replaces the last occurrence of a substring in a string
+tagBased: false
 description: |
  Replaces the last occurrence of a substring in a string, with another string.
 

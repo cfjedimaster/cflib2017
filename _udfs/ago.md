@@ -9,6 +9,7 @@ authorEmail: amccollough@anthc.org
 version: 1
 cfVersion: 
 shortDescription: Displays how long ago something was.
+tagBased: false
 description: |
  You supply a date/time, and I return a string indicating how long ago that was. e.g. &quot;5 seconds ago&quot;, &quot;1 year ago&quot;, etc. Useful for displaying &quot;Last Updated&quot; information. Does not look to the future, this is for past events.
 

@@ -9,6 +9,7 @@ authorEmail: steverobison@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the index of the first item in an array that contains a list element.
+tagBased: false
 description: |
  Returns the index in an array containing one of the given (case-insensitive) list elements or 0 if none found.
 

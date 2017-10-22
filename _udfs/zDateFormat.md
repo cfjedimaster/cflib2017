@@ -9,6 +9,7 @@ authorEmail: quicquid@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Formats the given date as a Zulu date.
+tagBased: true
 description: |
  It takes a GMT offset and a date object, and returns a string representation of the date as a Zulu date (yyyy-mm-ddTHH:mm:ssZ). It checks for valid offsets and dates. It's useful in formatting dates as Zulu dates for Atom feeds, etc.
 

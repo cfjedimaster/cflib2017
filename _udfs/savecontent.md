@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Implements CFSAVECONTENT as a function
+tagBased: false
 description: |
  Best to just read this: http://cfmlblog.adamcameron.me/2014/03/how-about-this-for-savecontent.html
 

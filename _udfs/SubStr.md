@@ -9,6 +9,7 @@ authorEmail: rhodion@tiscalinet.it
 version: 2
 cfVersion: CF5
 shortDescription: Returns the substring of a string. It mimics the behaviour of the homonymous php function so it permits negative indexes too.
+tagBased: false
 description: |
  It mimics the behaviour of php &quot;substr&quot;, enclosing mid, left and right functionalities into a single function and adding some extra-functionality and trick. 
  

@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF6
 shortDescription: Makes a struct for all values in a given column(s) of a query.
+tagBased: false
 description: |
  Creates a structure keyed off one column in a given query.  You can choose to either have the value be the same as the key or choose another column for the value.  Since this function uses only simple values as the values in the structure duplicate keys will be overwritten.  You can control this to some extent with the optional 4th argument, which you set to &quot;true&quot; if you want to go through the query in reverse order (which would result in the top-most value of a given key being used as opposed to the bottom-most value).  Typically, you'll use the primary key of the table in the query as the key in the struct, so it should not be an issue in most cases.
 

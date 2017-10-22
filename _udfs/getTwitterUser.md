@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF9
 shortDescription: Does a simple Twitter lookup for a user.
+tagBased: true
 description: |
  Does a Twitter lookup for a user and returns all public information.
 

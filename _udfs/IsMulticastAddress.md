@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if a specifid address (IP address or host name) is a multicast address (Class D).
+tagBased: false
 description: |
  Checks to see if a specifid address (IP address or host name) is a multicast address (Class D). If the host name is invalid an exception will be throw, so &lt;CFTRY&gt;/&lt;CFCATCH&gt; should be used.
 

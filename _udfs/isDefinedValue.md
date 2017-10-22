@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 1
 cfVersion: CF5
 shortDescription: Checks that a variable is defined and  that the variable  is not an empty value.  Optionally lets you check that the variable is a specific value.
+tagBased: false
 description: |
  Checks that a variable is defined and  that  the variable  is not an empty value.  Optionally allows you to specify the &quot;correct&quot; value of the variable.
   

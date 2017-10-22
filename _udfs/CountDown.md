@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Counts down to a date.
+tagBased: false
 description: |
  Feed countdown() a date or dateTime and it will tell you how long until then (or how long ago it was).  By default it will return a string describing how long the countdown is, but if you pass a second argument with the value &quot;struct&quot; you can get a struct with the keys: years,months,days,hours,minutes,seconds.
 

@@ -9,6 +9,7 @@ authorEmail: leviathan@darktech.org
 version: 1
 cfVersion: CF9
 shortDescription: Generates an AES encryption key from a provided password and salt.
+tagBased: false
 description: |
  Normally when using AES with encrypt() and decrypt() you would use generateSecretKey(&quot;AES&quot;) to generate an encryption key.  This key needs to be stored somewhere in order to decrypt the data encrypted with that key.  In some cases, you may not want to store the encryption key but generate one based on other data, such as a password provided by the user (which you would then not store, so not even you can decrypt the data without the user's decryption password).  This function provides a way to generate an AES key based on a provided password and salt.
 

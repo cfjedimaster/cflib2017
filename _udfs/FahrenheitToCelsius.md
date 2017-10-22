@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts from degrees Fahrenheit to degrees Celsius.
+tagBased: false
 description: |
  Converts from degrees Fahrenheit to degrees Celsius.
 

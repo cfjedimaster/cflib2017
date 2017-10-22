@@ -9,6 +9,7 @@ authorEmail: reinhard.jung@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: A better version of getLocale.
+tagBased: true
 description: |
  This is a better version of getLocale. It allows you to get the full, long, and short version of the current locale.
 

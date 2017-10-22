@@ -9,6 +9,7 @@ authorEmail: jmueller@swiftk.com
 version: 3
 cfVersion: CF5
 shortDescription: This function takes URLs in a text string and turns them into links.
+tagBased: false
 description: |
  This function takes URLs in a text string and turns them into links. The entire string will be returned with the additional &lt;a href&gt; tags
 

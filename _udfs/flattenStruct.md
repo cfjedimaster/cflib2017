@@ -9,6 +9,7 @@ authorEmail: tomdeman@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Builds nested structs into a single struct.
+tagBased: true
 description: |
  Recursively loops through a structure with nested structures and builds nested keys and values into a single struct.
  

@@ -9,6 +9,7 @@ authorEmail: ryan.kime@somnio.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing the last day of the given month.
+tagBased: false
 description: |
  LastDayOfMonth() takes your selected month as a number (1-12) and an optional given year (which is good for instances of a Leap Year). It returns a date object that you can then use DateFormat to get the appropriate format for the month, day, and year.
 

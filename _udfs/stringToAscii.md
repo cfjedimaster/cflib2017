@@ -9,6 +9,7 @@ authorEmail: steve@stephenwithington.com
 version: 1
 cfVersion: CF6
 shortDescription: I convert a string to ASCII characters.
+tagBased: false
 description: |
  Pass me a string and I'll convert it into HTML-friendly ASCII characters.
 

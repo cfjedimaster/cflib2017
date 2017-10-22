@@ -9,6 +9,7 @@ authorEmail: aaron@x-clothing.com
 version: 1
 cfVersion: CF5
 shortDescription: Emulates the preg_match function in PHP for returning a regex match along with any backreferences.
+tagBased: false
 description: |
  Searches a string for all matches to the regular expression given and puts them in an array along with any backreferences.
 

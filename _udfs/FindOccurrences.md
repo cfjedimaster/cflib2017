@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 3
 cfVersion: CF5
 shortDescription: Returns the number of times a pattern exists within a string.
+tagBased: false
 description: |
  Returns the number of times a pattern exists within a string.
 

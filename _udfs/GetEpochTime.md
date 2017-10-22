@@ -9,6 +9,7 @@ authorEmail: mellan@mnr.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns the number of seconds since January 1, 1970, 00&#58;00&#58;00
+tagBased: false
 description: |
  Returns the number of seconds since January 1, 1970, 00:00 (UNIX epoch). Can be passed a datetime value, or defaults to Now().  Note that epoch time functions are only valid through 2038.
 

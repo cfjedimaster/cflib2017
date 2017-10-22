@@ -9,6 +9,7 @@ authorEmail: wellercs@gmail.com
 version: 1
 cfVersion: CF8
 shortDescription: Converts a URL query string to a struct
+tagBased: true
 description: |
  This function accepts a URL query string argument and returns it as a structure.
 

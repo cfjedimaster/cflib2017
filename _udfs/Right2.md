@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Adds zero and negative support to the length parameter of right().
+tagBased: false
 description: |
  Parameters are the same as right().
  0 Length returns no value. Negative lengths will return the the full string minus the specified number of characters from the left.

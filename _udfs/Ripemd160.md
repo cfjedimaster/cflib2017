@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Produces a 160-bit condensed representation (message digest) of a message using the RIPEMD-160 algorithm.
+tagBased: false
 description: |
  Produces a 160-bit condensed representation (message digest) of a message using the RIPEMD-160 algorithm. See http://www.esat.kuleuven.ac.be/~bosselae/ripemd160.html for more information.
  

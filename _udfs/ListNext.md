@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Given the current list item, returns the next item within a list of unique values.
+tagBased: false
 description: |
  Given the current list item, returns the next item within a list of unique values. If current item is the last value in the list or is not found in the list, then returns the first item. Will not work correctly if the list contains duplicate values (comparisons are case sensitive).
 

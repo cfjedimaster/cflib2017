@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the coefficient of variation for a set of values (entire population).
+tagBased: false
 description: |
  Returns the coefficient of variation for a set of values (entire population). The CV is a measure of relative dispersion and is calculated by dividing the standard deviation by
  the mean and multiplying the result by 100 to arrive at a percentage.

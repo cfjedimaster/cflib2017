@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts degrees to radians.
+tagBased: false
 description: |
  Converts degrees to radians.
 

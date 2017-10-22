@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Verifies a DSN is working.
+tagBased: true
 description: |
  Verifies a DSN is working.  It will verify whether the specified DSN is working, not whether it exists.  This UDF uses the coldfusion.server.ServiceFactory object.
 

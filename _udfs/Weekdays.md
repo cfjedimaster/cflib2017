@@ -9,6 +9,7 @@ authorEmail: udf@sr77.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the number of weekdays between two dates.
+tagBased: false
 description: |
  Returns the number of weekdays between two dates.
 

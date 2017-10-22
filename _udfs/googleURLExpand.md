@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF8
 shortDescription: Reverses a URL shortened by Google's URL Shortening service.
+tagBased: true
 description: |
  Reverses a URL shortened by Google's URL Shortening service.
 

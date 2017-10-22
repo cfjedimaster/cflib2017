@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns specified number of random list elements without repeats.
+tagBased: false
 description: |
  Returns a list with a specified number of random list elements from the passed list without any repeats. Special delimeters (non-comma) can be specified in the optional final argument.  If the number of elements to return is greater than or equal to the total number of list items, all of the items will be returned in a random order.
 

@@ -9,6 +9,7 @@ authorEmail: rodionbykov@rodionbykov.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns string, with occurence of structure key names replaced by structure values.
+tagBased: true
 description: |
  Useful whe you need to replace many sub-strings in a string at once, and have structure which key names are exactly same as sub-strings to be replaced.
 

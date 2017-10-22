@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the username from a specified URL.
+tagBased: false
 description: |
  Returns the username (ending with either &quot;:&quot; or &quot;@&quot;) for the passed URL. If no user is found, then returns an empty string. Works with any protocol that follows a &quot;username:password@&quot; syntax including ftp, telnet, and imap and others.
 

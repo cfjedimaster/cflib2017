@@ -9,6 +9,7 @@ authorEmail: skduddella@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a list with a specified factor of list elements from the passed list .
+tagBased: false
 description: |
  Returns a list with a specified factor of list elements from the passed list. Special delimeters (non-comma) can be specified in the optional final argument.
 

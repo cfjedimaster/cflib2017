@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds formatting to list elements, for displaying lists in a more readable fashion.
+tagBased: false
 description: |
  Adds formatting to list elements by wrapping each element between beginStr and endStr. Special delimeters (non-comma) can be specified in the optional final argument.
 

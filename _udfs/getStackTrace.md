@@ -9,6 +9,7 @@ authorEmail: aphex@netvisao.pt
 version: 2
 cfVersion: CF9
 shortDescription: Gets the current stack trace, even if no error was thrown, and returns it in a query.
+tagBased: false
 description: |
  Gets the current stack trace, even if no error was thrown, and returns it in a query.
 

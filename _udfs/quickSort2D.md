@@ -9,6 +9,7 @@ authorEmail: matt.b.wear@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Sorts a two dimensional array by the specified column using quicksort.
+tagBased: false
 description: |
  Send the array you want to sort, the column you want to sort by, the lower index you want to start the sort from, and then upper index you want to start the sort from.  The function will sort the array using the quicksort algorithm and return the sorted array.
 

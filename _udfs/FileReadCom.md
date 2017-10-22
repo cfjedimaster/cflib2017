@@ -9,6 +9,7 @@ authorEmail: brucewillisisnotdead@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Reads a text file, and returns content as a string.
+tagBased: false
 description: |
  Reads a text file, and returns content as a string. This UDF use VBScript File System Object (IIS Only).
 

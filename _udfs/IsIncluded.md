@@ -9,6 +9,7 @@ authorEmail: scott@lightburndesigns.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if calling template is base template.
+tagBased: false
 description: |
  Checks to see if calling template is base template.
 

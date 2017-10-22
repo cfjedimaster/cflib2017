@@ -9,6 +9,7 @@ authorEmail: telegramsam@byu.edu
 version: 1
 cfVersion: CF6
 shortDescription: returns true if one of the values in the values list is found in the list.
+tagBased: true
 description: |
  returns true if one of the values in the values list is found in the list.
 

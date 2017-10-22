@@ -9,6 +9,7 @@ authorEmail: ruchizzy@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Delete items from a list.
+tagBased: false
 description: |
  Delete items from a list. Will find and remove specified items from a list. Based on QueryStringDeleteVar UDF.
 

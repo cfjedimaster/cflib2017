@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 1
 cfVersion: CF6
 shortDescription: Converts a string of text from Quoted-Printable format to UTF-8.
+tagBased: true
 description: |
  Allows a string which is encoded with the Quoted-Printable format to be converted into UTF-8 for parsing various document formats such as vCard and iCal.
 

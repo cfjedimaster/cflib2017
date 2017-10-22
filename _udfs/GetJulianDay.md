@@ -9,6 +9,7 @@ authorEmail: bharbin@activematter.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the Julian Day for any date in the Gregorian calendar.
+tagBased: false
 description: |
  This function calculates the Julian Day for any date in the Gregorian calendar.  Astronomers have used the Julian period to assign a unique number to every day since 1 January 4713 B.C.E.  Julian Days begin at noon on the date specified.
 

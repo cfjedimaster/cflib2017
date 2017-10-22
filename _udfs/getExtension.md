@@ -9,6 +9,7 @@ authorEmail: as867@columbia.edu
 version: 2
 cfVersion: CF5
 shortDescription: Returns extension defined by all characters following last period.
+tagBased: false
 description: |
  Submit a filename and function will return extension. If no period exists in the filename, an empty string is returned.
 

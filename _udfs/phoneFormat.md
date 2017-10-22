@@ -9,6 +9,7 @@ authorEmail: adrapley@rapleyzone.com
 version: 4
 cfVersion: CF5
 shortDescription: Allows you to specify the mask you want added to your phone number.
+tagBased: false
 description: |
  phoneFormat() takes a 10 digit phone number in any format and returns a value in the specified mask. Here are some mask examples, (xxx) xxx-xxxx, xxx.xxx.xxxx, xxx xxx-xxxx, etc. The only requirement is that numeric values in the mask must be represneted by an &quot;x.&quot;
 

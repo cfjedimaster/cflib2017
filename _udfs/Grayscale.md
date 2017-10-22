@@ -9,6 +9,7 @@ authorEmail: sierra@brighterfusion.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts an HTML (hex) color code to gray.  An optional second argument allows for conversion to a web-safe color in the same step.
+tagBased: false
 description: |
  Converts an HTML (hex) color code to grayscale.  Takes a valid hex color code without hash marks (for example, "00ff00") as the first argument.  An optional second argument ("web-safe") takes a boolean value such as 1/0, "YES"/"NO", or true/false.  Defaults to false.
 

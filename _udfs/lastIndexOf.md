@@ -9,6 +9,7 @@ authorEmail: chrisgdouglas@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Returns the index position of the last matching character in a string.
+tagBased: true
 description: |
  This UDF returns the index position of the last matching character in a string that you are searching for. If no matching string is found, a 0 is returned.
 

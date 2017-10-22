@@ -9,6 +9,7 @@ authorEmail: tom@toshop.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the initial true course between two latitudes and longitudes.
+tagBased: false
 description: |
  Calculates the initial true course between two latitudes and longitudes.
 

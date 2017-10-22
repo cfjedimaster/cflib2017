@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Tells whether two lists have entirely distinct elements
+tagBased: false
 description: |
  Given two lists, returns a boolean value telling you whether both lists have entirely different elements.  In other words, no element in list 1 exists in list 2 and vice versa.
  

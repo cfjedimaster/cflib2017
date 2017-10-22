@@ -9,6 +9,7 @@ authorEmail: fractorr@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Format a value as 1 or 0.
+tagBased: false
 description: |
  Format a value as 1 or 0.
 

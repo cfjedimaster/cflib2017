@@ -9,6 +9,7 @@ authorEmail: randy@cfconcepts.com
 version: 1
 cfVersion: CF5
 shortDescription: Capitalize the first letter of each item in a list.
+tagBased: true
 description: |
  Capitalize the first letter of each item in a list.
 

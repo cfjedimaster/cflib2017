@@ -9,6 +9,7 @@ authorEmail: as867@columbia.edu
 version: 1
 cfVersion: CF5
 shortDescription: Given the date of birth, returns age.
+tagBased: false
 description: |
  Given the date of birth, returns age. ie: 23y or 11m or 6d. Also see GetCurrentAge, which will only return a strict year result.
 

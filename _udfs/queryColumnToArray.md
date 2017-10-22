@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a selected column of data from a query and converts it into an array.
+tagBased: false
 description: |
  Takes a selected column of data from a query and converts it into an array.
 

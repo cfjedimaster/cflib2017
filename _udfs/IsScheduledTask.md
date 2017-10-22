@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if the specified task name exists as a scheduled task in the CF Administrator.
+tagBased: true
 description: |
  Returns true if the specified task name exists as a scheduled task in the CF Administrator.
 

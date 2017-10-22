@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns the first occurrence of the longest item  in  a list.
+tagBased: false
 description: |
  Returns the first occurrence of the longest item  in  a list.
 

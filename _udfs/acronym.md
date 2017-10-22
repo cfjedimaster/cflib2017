@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Pass in a set of words to only display its acronym.
+tagBased: false
 description: |
  Takes a full string of words as input then converts it for proper display in the html &lt;acronym&gt; tag. That way you see the acronym but in most browsers you can put your mouse over the acronym to display its full meaning. I often see acronyms used in Blogs.
 

@@ -9,6 +9,7 @@ authorEmail: henryho167@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: This function returns a struct having all the lowercased columns as keys and their corresponding values
+tagBased: false
 description: |
  Simulate QueryGetRow @ https://wikidocs.adobe.com/wiki/display/coldfusionen/QueryGetRow for CF8+
 

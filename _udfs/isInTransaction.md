@@ -9,6 +9,7 @@ authorEmail: bilalsoylu@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Returns true if the call to it is within a CFTRANSACTION block
+tagBased: false
 description: |
  The function can be used within code to determine whether one is currently within a CFTRANSACTION or not. Credit for the technique must go to Bilal from boncode.blogspot.co.uk who wrote this article from which I lifted the concept: http://boncode.blogspot.co.uk/2009/02/cf-detecting-nested-transactions.html.  All I have done is turned it into a UDF.
  

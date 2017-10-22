@@ -9,6 +9,7 @@ authorEmail: arocheking@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Counts the number of list elements that contain a given substring.
+tagBased: false
 description: |
  Modified from Peini Wu's CountIt(). This version works on lists.
 

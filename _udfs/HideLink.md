@@ -9,6 +9,7 @@ authorEmail: jeff@kazoomis.com
 version: 1
 cfVersion: CF5
 shortDescription: Disguise a link using JavaScript's window.status attribute.
+tagBased: false
 description: |
  Creates a disguised link by using JavaScript's window.status attribute to display a desired string in the browser's status bar instead of the actual location of the link.  Uses XMLFormat to be XHTML-compliant.
 

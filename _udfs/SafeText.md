@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 4
 cfVersion: CF5
 shortDescription: Removes potentially nasty HTML text.
+tagBased: false
 description: |
  Strips out nasty HTML/scripting but leaves friendly HTML formatting in place.  
  This tag is useful for processing the input from form fields where you want 

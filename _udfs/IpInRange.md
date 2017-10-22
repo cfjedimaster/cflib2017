@@ -9,6 +9,7 @@ authorEmail: acole76@NOSPAMgmail.com
 version: 0
 cfVersion: CF7
 shortDescription: determine if IP is with in a range.
+tagBased: false
 description: |
  determines if the ip is within the start and end range
 

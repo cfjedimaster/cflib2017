@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Produces a 160-bit condensed representation (message digest) of message using the Secure Hash Algorithm (SHA-1).
+tagBased: false
 description: |
  Produces a 160-bit condensed representation (message digest) of message using the Secure Hash Algorithm (SHA-1). For more information, see FIPS PUB 180-1
  (http://www.itl.nist.gov/fipspubs/fip180-1.htm).

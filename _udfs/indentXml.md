@@ -9,6 +9,7 @@ authorEmail: bboisvert@gmail.com
 version: 2
 cfVersion: CF8
 shortDescription: indentXml pretty-prints XML and XML-like markup without requiring valid XML.
+tagBased: true
 description: |
  XML and other markup is much easier to visually scan when the indentation is carefully balanced.  This UDF will reformat markup into properly indented lines.  Unlike most XML pretty-printers, however, it doesn't NOT use XSLT, just simple string manipulation.  This allows it to format pretty much any XML-like markup, well-formed or not.  Non-well-formed markup might not be perfectly indented (e.g. a non-closed BR tag will offset following tags by one stop), but it will at least be indented in a useful fashion.
 

@@ -9,6 +9,7 @@ authorEmail: sami@bytestopshere.com
 version: 2
 cfVersion: CF9
 shortDescription: Like VerityClean, massages text input to make it Solr compatible.
+tagBased: false
 description: |
  Like VerityClean, massages text input to make it Solr compatible. NOTE: requires uCaseWordsForSolr UDF.
 

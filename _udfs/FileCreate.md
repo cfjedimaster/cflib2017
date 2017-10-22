@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF5
 shortDescription: Create a new file.
+tagBased: false
 description: |
  This will create a new file, only if a file with the given name does not exist. Use force=true to overwrite a file that already exists
 

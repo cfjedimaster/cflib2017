@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the specified value and verifying digit constitute a valid RUT (government company number used in Chile).
+tagBased: false
 description: |
  Returns True if the specified value and verifying digit constitute a valid RUT (government company number used by Chile).  RUT numbers appear in the form xx.xxx.xxx-y or x.xxx.xxx-y where x represents digits 0-9 and y represents the verifying digit in the form 0-9|K.
 

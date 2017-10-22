@@ -9,6 +9,7 @@ authorEmail: craig@altainteractive.com
 version: 1
 cfVersion: CF5
 shortDescription: Appends a value to an array if the value does not already exist within the array.
+tagBased: false
 description: |
  Takes an Array and a Value as it arguments.  Returns an array with the value appended if the value does not already exist within the array.
 

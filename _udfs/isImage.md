@@ -9,6 +9,7 @@ authorEmail: nmaloney@prolucid.com
 version: 1
 cfVersion: CF6
 shortDescription: Checks to see if an image URL contains a valid jpeg or gif.
+tagBased: true
 description: |
  Takes a url of an image as an argument. Returns boolean value based on whether or not the remote image is a valid jpeg or gif.
 

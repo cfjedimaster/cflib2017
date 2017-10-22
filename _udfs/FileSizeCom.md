@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the size (in bytes) of the specified file. (Windows only)
+tagBased: false
 description: |
  Returns the size (in bytes) of the specified file. Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

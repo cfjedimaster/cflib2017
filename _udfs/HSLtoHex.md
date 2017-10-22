@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Convert an HSL (hue, saturation, luminance) triplet to a hex RGB triplet.
+tagBased: false
 description: |
  Convert an HSL (hue, saturation, luminance) triplet to a hex triplet.  This is the reverse of the HextoHSL function, taking an HSL triplet in the form of a list of three values between 0 and 1, and building a hex RGB triplet of the familiar form "xxxxxx".
 

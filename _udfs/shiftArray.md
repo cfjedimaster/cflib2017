@@ -9,6 +9,7 @@ authorEmail: richard@corporatemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a shifted array at the passed Shift On value.
+tagBased: false
 description: |
  Allows you to move an array index and the remaining indexes below it to the top of an array. Extremly helpful in building grid based outputs such as calendars.
 

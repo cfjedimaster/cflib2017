@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Pass this UDF a Yes/No question, and it will return a prediction.
+tagBased: false
 description: |
  Pass this UDF a Yes/No question, and it will return a prediction.  Based on the Magic 8-Ball by Tyco Toys.
 

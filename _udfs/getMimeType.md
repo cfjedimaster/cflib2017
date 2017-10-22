@@ -9,6 +9,7 @@ authorEmail: kip.rainey@incapital.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns mime type and subtype for a file.
+tagBased: false
 description: |
  getMimeType returns a string containing the mime type and subtype when given a file name and extention.
 

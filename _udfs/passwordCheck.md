@@ -9,6 +9,7 @@ authorEmail: scott@boyzoid.com
 version: 1
 cfVersion: CF6
 shortDescription: Checks the compelxity of a password.
+tagBased: true
 description: |
  This function will check the complexity of a password.  It will check for the existence of letters, numbers, and non-alphanumeric characters in a given password.  Optionally, it can for check for the number of times each of these occurs.  
  

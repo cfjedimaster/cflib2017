@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if user is authenticated.
+tagBased: false
 description: |
  Returns true if user is authenticated. Based on new security model in CFMX.
 

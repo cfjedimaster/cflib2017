@@ -9,6 +9,7 @@ authorEmail: mikenadasy@comcast.net
 version: 1
 cfVersion: CF7
 shortDescription: Returns an array of weekdays.
+tagBased: true
 description: |
  Returns an 2 dimension array of weekday name and weekday value to be used in a select form control.
 

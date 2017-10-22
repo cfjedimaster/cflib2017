@@ -9,6 +9,7 @@ authorEmail: sduffey@ci.davis.ca.us
 version: 1
 cfVersion: CF5
 shortDescription: Returns the numeric value of a letter's position in the alphabet, or the returns matching letter of a number in the alphabet.
+tagBased: false
 description: |
  Returns the numeric value of a letter's position in the alphabet, or returns the matching letter of a number in the alphabet.
 

@@ -9,6 +9,7 @@ authorEmail: shawnse@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Gets the value of a variable in a query string.
+tagBased: false
 description: |
  Gets the value of a variable in a query string. Useful for parsing variables from URLs outside of the current &quot;url.&quot; scope. Note: &quot;query string&quot; is also referred to as &quot;search part&quot; within cflib.org's library.
 

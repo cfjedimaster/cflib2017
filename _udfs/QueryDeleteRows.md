@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Removes rows from a query.
+tagBased: false
 description: |
  This function will allow you to remove rows from a query. You can either remove one row or a list of rows.
 

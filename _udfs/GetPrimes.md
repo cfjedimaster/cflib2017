@@ -9,6 +9,7 @@ authorEmail: svg2@placs.net
 version: 3
 cfVersion: CF5
 shortDescription: Creates an array of all the prime numbers from 1 to the specified integer.
+tagBased: false
 description: |
  Creates an array of all the prime numbers from 1 to the specified integer.
 

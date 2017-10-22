@@ -9,6 +9,7 @@ authorEmail: galen@oncli.com
 version: 2
 cfVersion: CF5
 shortDescription: Counts the number of keys in a structure of structures.
+tagBased: false
 description: |
  I needed a way to count the number of keys in a structure that contained other structures.  This UDF will parse all the way through and return the count.   So far I have tested it to 5 nested deep. If an array is encountered, each element in the array will be tested to see if it is a structure. (However, the UDF still requires that the top level value be a structure.)
  

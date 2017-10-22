@@ -9,6 +9,7 @@ authorEmail: gcruz@elkiwa.com
 version: 1
 cfVersion: CF5
 shortDescription: Check the percentage change between 2 numbers.
+tagBased: false
 description: |
  This function can be used with any 2 numbers you want the percentage change on.
  

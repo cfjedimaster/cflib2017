@@ -9,6 +9,7 @@ authorEmail: nmische@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns the first, second, or third quartile value for a set of numeric values.
+tagBased: false
 description: |
  Returns the first, second, or third quartile value for a set of numeric values.
 

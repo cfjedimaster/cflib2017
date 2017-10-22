@@ -9,6 +9,7 @@ authorEmail: critter@cfresume.org
 version: 1
 cfVersion: CF5
 shortDescription: Strips leading zero's from a string or number.
+tagBased: false
 description: |
  Strips leading zero's from a string or number.
 

@@ -9,6 +9,7 @@ authorEmail: martin.parry@beetrootstreet.com
 version: 1
 cfVersion: CF6
 shortDescription: Gets the configuration of an existing datasource.
+tagBased: true
 description: |
  Gets the configuration of an existing datasource.
 

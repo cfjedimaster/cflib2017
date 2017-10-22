@@ -9,6 +9,7 @@ authorEmail: joseph@switch-box.org
 version: 1
 cfVersion: CF6
 shortDescription: Gets the directory path for CF mapping logical path.
+tagBased: true
 description: |
  Uses the coldfusion.server.ServiceFactory to obtain the directory path for a CF mappings logical path by passing in the name of the logical path.
 

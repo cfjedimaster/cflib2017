@@ -9,6 +9,7 @@ authorEmail: will@hothorse.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a Country (i.e. United Kingdom) and returns the 3 letter ISO Country Name (i.e. GBR).
+tagBased: false
 description: |
  Takes a Country (i.e. United Kingdom) and returns the 3 letter ISO Country Name (i.e. GBR).
 

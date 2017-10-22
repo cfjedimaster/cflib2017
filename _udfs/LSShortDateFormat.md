@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Return a date in a locale-specific short form.
+tagBased: false
 description: |
  This function returns a date in a short form (such as mm/dd/yyyy or dd.mm.yyyy) based on your locale setting. Please note that CFMX now supports a mask of &quot;short&quot; that should be used instead of this UDF.
 

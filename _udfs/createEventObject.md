@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Creates functions for event-handling in CFML
+tagBased: false
 description: |
  Returns a lightweight object (just a struct) containing on() / off() / trigger() functions to facilitate event-driven coding in CFML
 

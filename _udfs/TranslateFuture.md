@@ -9,6 +9,7 @@ authorEmail: Mkruger@cfwebtools.com
 version: 1
 cfVersion: CF5
 shortDescription: Translates a Cryptic Futures symbol into a descriptive structure.
+tagBased: false
 description: |
  This tag is for developers struggling with commodity quotes.  A given commodity symbol has an indicator for the year and month of the contract it represents.  The month in particular cooresponds to codes dictated by commodity exchanges.  This UDF unpacks a futures symbol into it's root, descriptive month, and year, and hands the values back as a structure.
 

@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Caesar-cypher encryption that replaces each English letter with the one 13 places forward or back along the alphabet.
+tagBased: false
 description: |
  Stands for "rotate alphabet 13 places".  Caesar-cypher encryption that replaces each English letter with the one 13 places forward or back along the alphabet.  The same function is used to both encrypt and decrypt a string.
 

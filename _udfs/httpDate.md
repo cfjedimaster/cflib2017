@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF6
 shortDescription: Format a date as required by HTTP specifications
+tagBased: true
 description: |
  The HTTP specifications requires a very specific format for dates, this is very important if you want to manipulate HTTP headers using the &lt;cfheader&gt; tag
 

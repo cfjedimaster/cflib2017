@@ -9,6 +9,7 @@ authorEmail: bret@bricecheddarn.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns the interest rate per period of an annuity.
+tagBased: false
 description: |
  A translation of Microsoft Excel's RATE() formula.  This function returns the interest rate per period of an annuity.
 

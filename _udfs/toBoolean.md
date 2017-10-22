@@ -9,6 +9,7 @@ authorEmail: stephenwithington@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: I convert anything to boolean
+tagBased: false
 description: |
  Pass me a value, expression, or anything you want and I'll give you back its boolean value (true || false).  I'm especially useful when mixing CFML with JavaScript and you need an actual 'true' or 'false' value to pass in as an argument to a js call.
 

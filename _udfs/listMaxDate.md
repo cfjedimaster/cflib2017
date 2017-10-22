@@ -9,6 +9,7 @@ authorEmail: ann@landuseoregon.com
 version: 2
 cfVersion: CF5
 shortDescription: Checks a list of dates for the maximum date.
+tagBased: false
 description: |
  Checks a list of dates for the maximum date.
 

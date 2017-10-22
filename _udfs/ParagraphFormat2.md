@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 3
 cfVersion: CF5
 shortDescription: An &quot;enhanced&quot; version of ParagraphFormat.
+tagBased: false
 description: |
  An &quot;enhanced&quot; version of ParagraphFormat. It will replace any CR/LF combination with a &lt;BR&gt; tag and any double CR/LF pair with a &lt;P&gt; tag. 
  

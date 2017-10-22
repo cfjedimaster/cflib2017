@@ -9,6 +9,7 @@ authorEmail: david_satz@hyperion.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert a date in ISO 8601 format to an ODBC datetime.
+tagBased: false
 description: |
  This function take a string that holds a date in ISO 8601 and converts it to ODBC datetime, but could be adapted to convert to whatever you like.  It also will convert to a datetime in a timezone of your choice by specifying the offset, i.e. it could take a datetime in GMT and convert to PT.
  

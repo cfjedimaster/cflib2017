@@ -9,6 +9,7 @@ authorEmail: pholmes@mediares.com
 version: 1
 cfVersion: CF5
 shortDescription: This script Calculates the Fibonacci sequence  (each integer is the sum of the two previous integers).
+tagBased: false
 description: |
  This script Calculates the Fibonacci sequence  (each integer is the sum of the two previous integers).  Note that the function will also calculate the sequence for non-Fibonacci numbers.
 

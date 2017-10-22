@@ -9,6 +9,7 @@ authorEmail: cflib@tackettproxy.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a decimal Lat/Long coordinate into sexagesimal (degrees, minutes, seconds).
+tagBased: false
 description: |
  Returns a sexagesimal coordinate from a decimal coordinate representation.  Also will return just a part of the sexagesimal coordinate if requested.
 

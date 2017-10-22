@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the host from a specified URL.
+tagBased: false
 description: |
  Returns the host (domain name or IP address) for the supplied URL. If no host is found, then returns an empty string. Works with any protocol that follows a &quot;host.TLD&quot; syntax including http, ftp, telnet and others. Note, the abbreviated URL &quot;somehost.com&quot; by itself would be considered a file name (see GetFileFromURL) since this function only analyzes syntax and does not take into account specific TLDs or file extensions. However &quot;www.somehost.com&quot;, &quot;http://somehost.com&quot;, &quot;somehost.com:80&quot;, &quot;user@somehost.com&quot; and &quot;somehost.com/&quot; by themselves would all be correctly extracted as hosts.
 

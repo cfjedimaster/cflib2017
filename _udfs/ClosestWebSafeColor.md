@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the closest web safe hexadecimal color for a given hexadecimal color.
+tagBased: false
 description: |
  Takes a hex color in, and returns the closest web safe hexadecimal color. Returns a NULL (empty) string if input hex string is invalid.
  Thanks to Eric Carlisle (IsWebSafeColor)

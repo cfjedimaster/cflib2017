@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts the URL structure to hidden form fields.
+tagBased: false
 description: |
  This is a quick way to capture the URL variables on a given page as hidden fields in a form.  This is useful when you have a multi-step process.
 

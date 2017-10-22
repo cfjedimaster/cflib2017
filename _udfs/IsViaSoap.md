@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true if the curent request is SOAP based.
+tagBased: true
 description: |
  Returns true if the curent request is SOAP based.
 

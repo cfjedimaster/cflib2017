@@ -9,6 +9,7 @@ authorEmail: joe@seemecreate.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts an RSS 0.9+ feed into a structure.
+tagBased: true
 description: |
  Converts an RSS 0.9+ feed into a structure. The structure contains meta information about the feed and a query of feed items.
 

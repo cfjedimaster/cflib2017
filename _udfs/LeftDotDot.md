@@ -9,6 +9,7 @@ authorEmail: peter@digital-crew.com
 version: 0
 cfVersion: CF5
 shortDescription: leftDotDot turns &quot;This is a nice day&quot; into &quot;This is a nic..&quot;
+tagBased: true
 description: |
  leftDotDot turns &quot;This is a nice day&quot; into &quot;This is a nic..&quot;. You can specify the clipping length.
  

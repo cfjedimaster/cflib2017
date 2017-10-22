@@ -9,6 +9,7 @@ authorEmail: Gerald.Guido@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Searches a list for case- sensitive Duplicates and returns a list of the duplicate items or an empty string if no dupes are found.
+tagBased: false
 description: |
  Searches a list for case- sensitive Duplicates and returns a list of the duplicate items or and empty string if no dupes are found. Based on Jeff Howden's' ListDeleteDuplicates()
 

@@ -9,6 +9,7 @@ authorEmail: cyborgirlx@yahoo.com
 version: 0
 cfVersion: CF5
 shortDescription: Turns a decimal number into a reduced fraction.
+tagBased: true
 description: |
  Turns a decimal number into a reduced fraction.
 

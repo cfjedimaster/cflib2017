@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns zero if the value passed into ZeroMinimum() is less than zero.
+tagBased: false
 description: |
  Returns zero if the value passed into NotLessThanZero() is less than zero. If the input value is greater than zero, the iput value is returned.
 

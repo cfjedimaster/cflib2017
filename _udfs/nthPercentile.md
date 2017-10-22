@@ -9,6 +9,7 @@ authorEmail: delroekid@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Gets the nth percentile of the given population
+tagBased: false
 description: |
  Reference: http://en.wikipedia.org/wiki/95th_percentile
 

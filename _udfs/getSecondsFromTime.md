@@ -9,6 +9,7 @@ authorEmail: kittycat@kittycatonline.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the total number of seconds from midnight for a valid date/time object.
+tagBased: false
 description: |
  Returns the total number of seconds from midnight for a valid date/time object.
 

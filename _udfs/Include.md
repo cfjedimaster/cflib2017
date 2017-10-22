@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Mimics the cfinclude tag.
+tagBased: true
 description: |
  Mimics the cfinclude tag.
 

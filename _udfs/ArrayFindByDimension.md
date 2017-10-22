@@ -9,6 +9,7 @@ authorEmail: grant@quagmire.com
 version: 1
 cfVersion: CF6
 shortDescription: Search a multidimensional array for a value.
+tagBased: true
 description: |
  Extends Nathan Dintenfass' ArrayFindNoCase() by adding ability to search a specified dimension of a multidimensional array.  Returns numeric array position of first dimension if element found, otherwise returns 0.
 

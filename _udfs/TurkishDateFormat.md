@@ -9,6 +9,7 @@ authorEmail: omer@hamzaoglu.com
 version: 1
 cfVersion: CF5
 shortDescription: Display date in Turkish language and Turkish date format.
+tagBased: false
 description: |
  Display date in Turkish language and Turkish date format. 8 different outputs available for display.
 

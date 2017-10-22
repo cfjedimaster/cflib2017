@@ -9,6 +9,7 @@ authorEmail: paul@malan.org
 version: 1
 cfVersion: CF5
 shortDescription: Determine whether a date of birth exceeds minimum age requirement.
+tagBased: false
 description: |
  Given a date of birth, determine whether a user is old enough to satisfy an arbitrary minimum age requirement.  Accurate down to the day.
 

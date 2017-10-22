@@ -9,6 +9,7 @@ authorEmail: bharbin@activematter.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the date for Quinquagesima in a given year.
+tagBased: false
 description: |
  Returns the date for Quinquagesima in a given year.  If no year is specified, defaults to the current year.
 

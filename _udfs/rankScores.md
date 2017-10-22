@@ -9,6 +9,7 @@ authorEmail: tigeryan55@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Takes a query and ranks the scores, including ties at the same rank.
+tagBased: false
 description: |
  Pass in a query with scores and a blank rank column and it will return the query with the rank column populated.  When ties are encountered it will assign them the same number and when a non-tie is found it will be incremented based on the number of ties.
 

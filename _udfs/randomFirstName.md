@@ -9,6 +9,7 @@ authorEmail: matt@digitalhappy.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns a random first name.
+tagBased: true
 description: |
  Returns a first name from an internal list of 100. Stupidly simple, but very handy for filling test datasets.  Names were taken from Facebooks top 100
 

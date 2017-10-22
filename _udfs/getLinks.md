@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Finds all anchor or frame tags and creates a structure that you can use to look up a URL by name.
+tagBased: false
 description: |
  Creates a structure with the following contents:
      link:  An array of all the URL's in the text.

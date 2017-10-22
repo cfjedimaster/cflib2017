@@ -9,6 +9,7 @@ authorEmail: lucas@thebitbucket.net
 version: 2
 cfVersion: CF5
 shortDescription: Implementation of Luhn algorithm or Mod10.
+tagBased: false
 description: |
  This is an implementation of the Luhn algorithm or Luhn formula, also known as the &quot;modulus 10&quot; or &quot;mod 10&quot; algorithm. It calculates the check digit for a number and appends it to the end of the orignal string.
  

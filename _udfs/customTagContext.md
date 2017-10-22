@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF6
 shortDescription: Return the calling template for a custom tag.
+tagBased: true
 description: |
  customTagContext returns the absolute path of the calling template of a custom tag. This is useful where the custom tag may want to access resources relative to the path of the calling template rather than relative to the path of the tag. This code may be adapted for CF5 by inserting it directly rather than calling as a UDF, and changing the &quot;3&quot;s to &quot;2&quot;s.
 

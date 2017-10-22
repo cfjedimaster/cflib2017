@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the smallest and largest value in a set of values.
+tagBased: false
 description: |
  Returns a structure containing the smallest and largest value in a set of values.
 

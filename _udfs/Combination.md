@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the Combination of n elements taken p at a time.
+tagBased: false
 description: |
  Returns the Combination of n elements taken p at a time.
 

@@ -9,6 +9,7 @@ authorEmail: acole76@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Uses the Java String format() method to format a string in CFML.
+tagBased: false
 description: |
  CFML-friendly wrapper for a call to Java String's format() function.
  

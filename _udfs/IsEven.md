@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if the number passed it is even, returns false if it is not.
+tagBased: false
 description: |
  This very simple but usefull UDF returns true if the number passed is even, or false if it is not.
 

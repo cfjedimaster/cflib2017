@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the drive type for a specified drive. (Windows only)
+tagBased: false
 description: |
  Returns the drive type for a specified drive. Possible types are Unknown, Removable, Fixed, Network, CD-ROM, and RAM Disk
  <P>

@@ -9,6 +9,7 @@ authorEmail: sduffey@ci.davis.ca.us
 version: 2
 cfVersion: CF5
 shortDescription: When given an email address this function will return the address in a format safe from email harvesters.
+tagBased: false
 description: |
  When given an email address this function will return the address in a format safe from email harvesters.
 

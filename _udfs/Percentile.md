@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Function for calculating the percentile of a given number from a population of numbers.
+tagBased: false
 description: |
  This function is used to get the percentile rank of a given number from a population of numbers. The percentile refers to the percent of numbers in the set that are below the number you pass in.
 

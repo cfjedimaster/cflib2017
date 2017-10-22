@@ -9,6 +9,7 @@ authorEmail: delatush@yahoo.com
 version: 2
 cfVersion: CF5
 shortDescription: Applies a simple highlight from and to a given position in a string.
+tagBased: false
 description: |
  Applies a simple highlight from and to a given position in a string. Works well to quickly reference certain position of characters in large strings.
 

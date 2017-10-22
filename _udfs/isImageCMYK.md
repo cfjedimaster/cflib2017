@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF10
 shortDescription: Identifies CMYK images.
+tagBased: true
 description: |
  Pass a file path or image object and it will identify whether the image uses a CUSTOM (CMYK) color palette.
 

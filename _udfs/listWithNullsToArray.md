@@ -9,6 +9,7 @@ authorEmail: udf@thebluefrogcompany.net
 version: 2
 cfVersion: CF5
 shortDescription: Return an array from a list with null values.
+tagBased: false
 description: |
  If your list contains 6 elements with 5 null values then the listToArray length would be 1. With this function you create an array with a length of 6 and the extra values filled with &quot;null&quot;.
 

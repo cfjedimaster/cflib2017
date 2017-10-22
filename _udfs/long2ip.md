@@ -9,6 +9,7 @@ authorEmail: tpullis@yahoo.com
 version: 0
 cfVersion: CF8
 shortDescription: Generates an (IPv4) Internet Protocol dotted address (aaa.bbb.ccc.ddd) from the proper address representation.
+tagBased: false
 description: |
  Generates an (IPv4) Internet Protocol dotted address (aaa.bbb.ccc.ddd) from the proper address representation. Returns 0 if error occurs.
 

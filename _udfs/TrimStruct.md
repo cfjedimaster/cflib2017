@@ -9,6 +9,7 @@ authorEmail: mike@striking.com
 version: 3
 cfVersion: CF5
 shortDescription: Trims spaces from all keys in a structure.
+tagBased: false
 description: |
  Allows for trimming of all fields in a structure. Useful for automatically trimming the Form scope for example.
 

@@ -9,6 +9,7 @@ authorEmail: larry@aljnet.net
 version: 1
 cfVersion: CF5
 shortDescription: Checks to see if a submitted letter is Upper or Lower Case.
+tagBased: false
 description: |
  This UDF will check to see if a submitted alpha character is Upper or Lower Case.
 

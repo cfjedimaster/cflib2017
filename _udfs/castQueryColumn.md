@@ -9,6 +9,7 @@ authorEmail: james@ssmedia.com
 version: 1
 cfVersion: CF9
 shortDescription: Will recast a query column to a different datatype.
+tagBased: false
 description: |
  When using CFSpreadsheet or CFHTTP to import numeric data, all numeric and data values are imported as &quot;VarChar&quot;.  This script will change the datatype of the query so that you can perform Query-of-Query transactions on properly typed datatypes.
 

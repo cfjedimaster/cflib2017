@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 2
 cfVersion: CF6
 shortDescription: Converts a query object into a structure of structures accessible by its primary key.
+tagBased: false
 description: |
  Dumps an entire query into a structure of structures, with each row being easily accessible by knowing its primaryKey value. By making the passed primaryKey a foreign key from another table, you can effectively &quot;join&quot; tables that you couldn't join otherwise.  Some code based on QueryToArrayOfStructures() by Nathan Dintenfass (nathan@changemedia.com)
 

@@ -9,6 +9,7 @@ authorEmail: ja@nuorbit.com
 version: 1
 cfVersion: CF5
 shortDescription: Recursive functions to compare arrays and nested structures.
+tagBased: false
 description: |
  Recursive functions to compare structures and arrays. The root structure or array may contain nested structures and arrays.
 

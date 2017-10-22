@@ -9,6 +9,7 @@ authorEmail: skduddella@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the index of the first item in an array that contains a specified substring.
+tagBased: false
 description: |
  Returns the index of the first item that contains a specified substring. The search is case-insensitive. If the substring is not found in an Array, it  returns zero (0).
 

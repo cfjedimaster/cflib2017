@@ -9,6 +9,7 @@ authorEmail: fractorr@yahoo.com
 version: 2
 cfVersion: CF5
 shortDescription: Checks to see if a string is all lower case characters
+tagBased: true
 description: |
  Returns true if a string is all lower case characters or false if not all lower case characters.
 

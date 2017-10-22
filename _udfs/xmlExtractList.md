@@ -9,6 +9,7 @@ authorEmail: sam@serndesign.com
 version: 1
 cfVersion: CF6
 shortDescription: Extracts the text of named XML elements and returns it in a list.
+tagBased: true
 description: |
  This UDF searches for all elements matching the specified tag name and returns a list from the text within those elements.
 

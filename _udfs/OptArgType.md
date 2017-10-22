@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Pass in an optional UDF argument of a specific type and define a default value at once.
+tagBased: false
 description: |
  This function is similar to optArg() except that it allows you to specify a type of the argument, if the provided arg isn't the correct type, then the default  value is used. Also when types &quot;structure&quot; and &quot;array&quot; are used an empty array / struct is created when no default value is specified. This tag requires the typeOf() udf to work.
 

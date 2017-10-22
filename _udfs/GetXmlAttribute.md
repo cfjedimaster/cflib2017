@@ -9,6 +9,7 @@ authorEmail: kkz@foureyes.com
 version: 1
 cfVersion: CF6
 shortDescription: Pass in an XML Node and attribute reference to receive the attribute's value.
+tagBased: true
 description: |
  This tag will allow you to retrieve an XML attribute from an XML node. Furthermore, if you are in the habit of needing default values in case the attribute's value is empty or the attribute does not exist, you can specify that as well.
 

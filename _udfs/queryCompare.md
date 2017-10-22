@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 2
 cfVersion: CF6
 shortDescription: This function will compare two queries and returns a struct which shows the difference between two queries if any.
+tagBased: true
 description: |
  This function will compare two queries and returns a struct with the following keys
  

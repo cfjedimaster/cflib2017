@@ -9,6 +9,7 @@ authorEmail: everett.al@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Same as built-in CJustify(), but allows optional parameter character to pad with.
+tagBased: false
 description: |
  This function mimics the CJustify() function, but offers an optional third parameter to define the character to use for padding (if padding is necessary).
 

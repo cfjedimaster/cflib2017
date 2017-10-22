@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Convert a stored complex number to a string in the form a + bi.
+tagBased: false
 description: |
  Convert a complex number stored as a structure by the Complex() UDF to a human readable form: a+bi. This is primarily intended as a quick output for debugging.
 

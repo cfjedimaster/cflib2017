@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure of arrays to a keyed structure of structs.
+tagBased: false
 description: |
  Converts a structure of arrays to a keyed structure of structs. In other words - taking a struct where each key is an array, it converts the struct into a struct of structs, where a particular key is used as the root key.
 

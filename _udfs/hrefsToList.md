@@ -9,6 +9,7 @@ authorEmail: cfml@raphelt.de
 version: 1
 cfVersion: CF5
 shortDescription: Extracts all links from a given string and puts them into a list.
+tagBased: false
 description: |
  Extracts all links from a given string and puts them into a list.
 

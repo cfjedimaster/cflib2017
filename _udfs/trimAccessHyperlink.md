@@ -9,6 +9,7 @@ authorEmail: KDL@KomputerMan.com
 version: 0
 cfVersion: CF5
 shortDescription: Convert an Access hyperlink field to text.
+tagBased: false
 description: |
  MS Access stores hyperlink information like: www.KomputerMan.com#http://www.KomputerMan.com#.  This tag removes the second part of that data leaving you with just www.KomputerMan.com.
 

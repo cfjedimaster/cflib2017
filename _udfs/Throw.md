@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the CFTHROW tag.
+tagBased: true
 description: |
  Mimics the CFTHROW tag.
 

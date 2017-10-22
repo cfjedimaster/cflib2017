@@ -9,6 +9,7 @@ authorEmail: gyrus@norlonto.net
 version: 3
 cfVersion: CF5
 shortDescription: Coverts special characters to character entities, making a string safe for display in HTML.
+tagBased: false
 description: |
  This is a variation on Mike Gillespie's CovertEntity() function, to quickly parse a string for safe display in HTML. Includes decimal entity codes for non-standard characters, and dynamically adjusts to Unicode or non-Unicode matching, depending on CF version.
 

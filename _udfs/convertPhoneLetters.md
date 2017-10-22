@@ -9,6 +9,7 @@ authorEmail: bcswartz@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Converts the letters in a phone number to the corresponding digits on an American phone.
+tagBased: false
 description: |
  Converts the letters in a phone number to their numeric keypad equivalent (eg: a=&gt;2, k=&gt;5, p=&gt;7, etc). Coded for phones using ISO/IEC 9995-8 (http://en.wikipedia.org/wiki/ISO/IEC_9995#ISO.2FIEC_9995-8), but easily changed.
 

@@ -9,6 +9,7 @@ authorEmail: j.adam.tuttle@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns a key value from the given struct, or a default value.
+tagBased: false
 description: |
  Returns a key value from the given struct, or a default value.
 

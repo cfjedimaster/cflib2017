@@ -9,6 +9,7 @@ authorEmail: fractorr@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Count the number of occurences of items from one list to another list.
+tagBased: false
 description: |
  Count the number of occurences of items from one list to another list.
 

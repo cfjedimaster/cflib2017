@@ -9,6 +9,7 @@ authorEmail: vorn@__nospam__vorn.org
 version: 1
 cfVersion: CF5
 shortDescription: Determines whether a string is 7bit
+tagBased: false
 description: |
  Determines whether a string is 7bit.  Useful for guessing if a string contains binary data (after reading a file using cffile for example).
 

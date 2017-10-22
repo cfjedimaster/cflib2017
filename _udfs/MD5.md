@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Produces a 128-bit condensed representation (message digest) of a message using the RSA MD5 algorithm.
+tagBased: false
 description: |
  Produces a 128-bit condensed representation (message digest) of a message using the RSA MD5 algorithm.  See RFC 1321 (http://www.ietf.org/rfc/rfc1321.txt) for more information.
  

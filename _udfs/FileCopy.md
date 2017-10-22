@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF6
 shortDescription: Mimics the cffile, action=&quot;copy&quot; command.
+tagBased: true
 description: |
  Mimics the cffile, action=&quot;copy&quot; command. Please note that this function will not work in ColdFusion 8 as it is a built in function.
 

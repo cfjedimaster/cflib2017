@@ -9,6 +9,7 @@ authorEmail: oleitch@locustcreek.com
 version: 1
 cfVersion: CF7
 shortDescription: Compresses a string using the gzip algorithm; returns binary or a string of (base64|hex|uu).
+tagBased: true
 description: |
  This function will take any string and run it through a gzip compression.  By default it will return the binary result, or you can specify an encoding of &quot;base64&quot;, &quot;hex&quot;, &quot;uu&quot;.
 

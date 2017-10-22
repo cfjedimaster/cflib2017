@@ -9,6 +9,7 @@ authorEmail: john@johnjrice.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks if a list consists of numeric values only.
+tagBased: false
 description: |
  Checks if a list consists of numeric values only. Handy for validating list received through forms and urls.  Nice for checking a potentially hazardous list before using it in SQL.
 

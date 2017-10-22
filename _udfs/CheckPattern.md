@@ -9,6 +9,7 @@ authorEmail: itadept@earthlink.net
 version: 2
 cfVersion: CF5
 shortDescription: This UDF is an extensible, easy to use pattern validator using regular expressions.
+tagBased: false
 description: |
  RPV uses regular expressions to check and match the string to a predefined pattern.  For instance, date, phone number, credit card and so on.  2 parameters are required for using RPV, name of the pattern to check (see code), and the string to validate.  If a patter is not found, the UDF will return false.
  

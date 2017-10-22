@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Parses a CMS (SNV or CVS) revision string into a usable variable.
+tagBased: false
 description: |
  Parses a CMS (SNV or CVS) revision string into a usable variable. Accepts CVS $Revsion: $ or SVN $LastChangedRevision: $.
 

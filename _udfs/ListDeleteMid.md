@@ -9,6 +9,7 @@ authorEmail: shaun.ambrose@arcorsys.com
 version: 1
 cfVersion: CF5
 shortDescription: Deletes n elements starting at the specified start position.
+tagBased: false
 description: |
  Deletes n elements starting at the specified start position. Accepts an optional delimiter. Note that if the number of items to delete at startPos is greater than the length of the list, the function will remove delete all items from startPos onward.
 

@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF6
 shortDescription: Converts a byte value into kb or mb if over 1,204 bytes.
+tagBased: false
 description: |
  Given a number of bytes, this function will return an easier to read formatted value.  For example, &quot;10&quot; would return &quot;10 bytes&quot;, &quot;1024&quot; would return &quot;1 KB&quot;, &quot;1560&quot; would return &quot;1.5 KB&quot;.
 

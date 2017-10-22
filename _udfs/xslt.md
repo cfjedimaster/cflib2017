@@ -9,6 +9,7 @@ authorEmail: mark@compoundtheory.com
 version: 2
 cfVersion: CF6
 shortDescription: Provides CFMX native XSL transformations using Java, with support for parameter pass through and relative &amp;lt;xsl&#58;import&amp;gt; tags.
+tagBased: true
 description: |
  This UDF using CFMX's underlying Java XML/XSL engine to provide support for XSL transformations.  Natively CFMX does not provide support for parameters to be passed through to XSL stylesheets, nor does it allow for relative use of &amp;lt;xsl:import&amp;gt; tags due to the fact that xsl files must first be read into memory via &lt;CFFILE&gt;.  This UDF works around this by leveraging the underlying Java which supports parameter pass through, and also allows you enter a file path for your xml/xsl document.
  

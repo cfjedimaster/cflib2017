@@ -9,6 +9,7 @@ authorEmail: info@turnkey.to
 version: 2
 cfVersion: CF5
 shortDescription: Strip xml-like tags from a string when they are within or not within a list of tags.
+tagBased: false
 description: |
  Enter a mode, list of tags and a string to either strip all tags in or not in the list from the string, or return the first substring matching or not matching an item in the list.
 

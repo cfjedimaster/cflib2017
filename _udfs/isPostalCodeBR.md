@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks if postal code is format of Brazil.
+tagBased: false
 description: |
  Checks if postal code is format of Brazil.  Does not check if the postal code actually exists.
 

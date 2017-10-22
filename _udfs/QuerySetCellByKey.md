@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Allows changing of a query cell by knowing a key field value within the same row.
+tagBased: false
 description: |
  Allows changing of a query cell by knowing the primary key (or any other identifying field value) within the same row. This is useful for altering existing queries without having to keep track of (or manually finding) the respective row number. Throws an error if keyFieldValue is not found.
 

@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Filters a list so that just numeric entries are returned.
+tagBased: false
 description: |
  Filters a list so that just numeric entries are returned. Based on isNumericList by John Rice.
 

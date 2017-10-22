@@ -9,6 +9,7 @@ authorEmail: md40@evansville.edu
 version: 1
 cfVersion: CF5
 shortDescription: Creates a date/time object from a generalized time string in the format of YYYYMMDDHHMMSS.0Z
+tagBased: false
 description: |
  Microsoft's Active Directory stores a generalized time string in many of its attributes.  ColdFusion cannot natively parse this time string.  This function adds date and time delimiters to the time string to allow ColdFusion to correctly parse the value.  This function does not calculate any time zone offset since Active Directory does not store that information.  This function also does not convert the time from UTC to local.
 

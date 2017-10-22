@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns every occasion of a day of the week. A list of days of the week can be used.
+tagBased: false
 description: |
  Returns every occasion of a day of the week. A list of days of the week can be used. The UDF returns an array of date objects corresponding to the days of the week requested.
 

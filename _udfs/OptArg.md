@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Pass in an optional UDF argument and define a default value at once.
+tagBased: false
 description: |
  Easy way to define optional arguments for your functions. If the value isn't passed in, the local variable is still created.
 

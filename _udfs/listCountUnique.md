@@ -9,6 +9,7 @@ authorEmail: everett.al@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Count unique items in a list. (Case-sensitive)
+tagBased: false
 description: |
  Counts the unique items in a list. Useful when you don't need to de-dupe a list.
 

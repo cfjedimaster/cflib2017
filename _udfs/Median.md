@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the median (middle) value for a set of numberic values.
+tagBased: false
 description: |
  Returns the median (middle) value for a set of numberic values. The values can come from a list or a one dimensional array.
 

@@ -9,6 +9,7 @@ authorEmail: duncan@sixfive.co.uk
 version: 1
 cfVersion: CF6
 shortDescription: Converts a CSV file to an array.
+tagBased: true
 description: |
  CSV files are comma delimited, but when you have a comma in a field, and that field is quoted, then you have quotes in that field, things become messy. CSVtoArray is used parse a CSV file, one that is created via Excel for example with these characteristics, and return a array.
  

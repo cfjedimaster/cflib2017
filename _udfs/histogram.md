@@ -9,6 +9,7 @@ authorEmail: dragosp@battelle.org
 version: 1
 cfVersion: CF7
 shortDescription: Bins the elements of an array into equally spaced containers and returns the number of elements in each container.
+tagBased: false
 description: |
  This function bins the elements of an array of numbers into equally spaced containers and returns the number of elements in each container.  X = HISTOGRAM(Y) bins the elements of Y into 10 equally spaced containers.  X = HISTOGRAM(Y,LOW,HI,NUM) bins the elements of Y into NUM equally spaced containers where the lowest container's midpoint is LOW and the highest container's midpoint is HI.  Returns a 2-D array containing the number of elements in each container and the mid-point of each container.  Use a bar chart to plot the resulting histogram.
 

@@ -9,6 +9,7 @@ authorEmail: jeff@kazoomis.com
 version: 1
 cfVersion: CF5
 shortDescription: Tests passed value to see if it is a properly formatted U.S. zip code.
+tagBased: false
 description: |
  Tests passed value to see if it is a properly formatted U.S. zip code.  Does not check actual validity/existence of zip code!
 

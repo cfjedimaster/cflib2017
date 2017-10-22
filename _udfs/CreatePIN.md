@@ -9,6 +9,7 @@ authorEmail: sierra@brighterfusion.com
 version: 1
 cfVersion: CF5
 shortDescription: Flexible PIN generator, supporting alphabetical, numeric, and alphanumeric types, upper, lower, and mixed cases, and validating prescence of letters and numbers in alphanumeric PINs at least 2 characters long.
+tagBased: false
 description: |
  Creates a random PIN from alphabetical, numeric, or alphanumeric characters.
  Supports upper, lower, and mixed cases.

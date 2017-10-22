@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Replaces a regular expression with newSubString from a specified starting position.
+tagBased: false
 description: |
  An enhanced version of CF's REReplace() function. Returns theString with occurrence(s) of the specified regular expression replaced with newSubString starting from the startIndex and optionally within the provided scope. This startIndex feature can be especially useful for partial and/or conditional replacements.
 

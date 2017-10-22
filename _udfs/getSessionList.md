@@ -9,6 +9,7 @@ authorEmail: bobby@acoderslife.com
 version: 3
 cfVersion: CF6
 shortDescription: Gets all the session keys and session ids for an application.
+tagBased: false
 description: |
  In order for this tag to work, you need an application name using cfapplication defined in the ColdFusion MX Server.
 

@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF5
 shortDescription: Changes a var in a query string.
+tagBased: false
 description: |
  Changes the value of a variable in a query string.  By default it will use cgi.query_string, but you can pass in an optional third argument to act as the query string.
  

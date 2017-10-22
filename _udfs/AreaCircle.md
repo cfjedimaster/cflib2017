@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of a circle.
+tagBased: false
 description: |
  Calculates the area of a circle based on the radius.
 

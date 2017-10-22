@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns either a formatted value or the passed default string.
+tagBased: false
 description: |
  Returns either a formatted value (wrapped within begin_str and end_str) or the passed default string. Useful for wrapping non-empty values in parenthesis, or in anchor tags, or for other similar conditional formattings.
 

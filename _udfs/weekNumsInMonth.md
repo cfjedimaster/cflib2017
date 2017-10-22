@@ -9,6 +9,7 @@ authorEmail: robby@ohsogooey.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the week numbers in a given month of a given year.
+tagBased: false
 description: |
  When given a month and year returns an array of weeks that are present in that month. By weeks we mean the numeric value from the week() function.
 

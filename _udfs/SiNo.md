@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: The same as YesNoFormat() function, but in Italian.
+tagBased: false
 description: |
  The same as YesNoFormat() function, but in Italian. Returns &quot;S�&quot;(&quot;No&quot;) if input is True (False). Returns &quot;Boh&quot; if input is not a boolean value.
 

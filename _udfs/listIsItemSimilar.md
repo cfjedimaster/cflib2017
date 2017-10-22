@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 2
 cfVersion: CF5
 shortDescription: Determines whether any list items begin with the strToMatch.
+tagBased: false
 description: |
  Determines whether any list items begin with the strToMatch.
 

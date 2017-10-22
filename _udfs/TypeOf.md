@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 3
 cfVersion: CF5
 shortDescription: Returns the type of the variable.
+tagBased: false
 description: |
  Enhanced typeof() function with added checking for binary, custom function, and date values.
 

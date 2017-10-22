@@ -9,6 +9,7 @@ authorEmail: sam@serndesign.com
 version: 1
 cfVersion: CF6
 shortDescription: Unzips a file to the specified directory.
+tagBased: false
 description: |
  unzipFile() utilizes the built in java.util.zip package and requires no software be installed on the server.  Pass in the path to a zip file and a target directory and it will unzip the contents.
  

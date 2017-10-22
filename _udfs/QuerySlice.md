@@ -9,6 +9,7 @@ authorEmail: cyberswat@orlandoartistry.com
 version: 2
 cfVersion: CF6
 shortDescription: Returns specific number of records starting with a specific row.
+tagBased: true
 description: |
  Pass this function a query and tell it what row to start with and how many rows to return.  Good beginning for previous/next functionality.
 

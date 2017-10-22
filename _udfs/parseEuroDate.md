@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Makes a &quot;European&quot; date (day before month) into a U.S. style date.
+tagBased: false
 description: |
  If you are a U.S. developer who has end users in other parts of the world, you may have run into the fact that they write dates with the day before the month, whereas Americans write the month before the day.
  

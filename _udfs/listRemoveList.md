@@ -9,6 +9,7 @@ authorEmail: ann@landuseoregon.com
 version: 2
 cfVersion: CF5
 shortDescription: Removes second list from first list, accepting an optional delimiter and whether to remove one or all list items.
+tagBased: false
 description: |
  Removes items from the first list that are in the second list and returns the edited list.  Lists one and two are required, and optionally, pass in a delimiter and option to remove all instances of items in list 2, or to remove the first one.  (default is remove 1)
 

@@ -9,6 +9,7 @@ authorEmail: axel@misterbuzz.com
 version: 1
 cfVersion: CF5
 shortDescription: Parses subjects returned by CFPOP.
+tagBased: false
 description: |
  This function parses the encoded subject fields returned by CFPOP.
  It returns a structure with 2 variables:

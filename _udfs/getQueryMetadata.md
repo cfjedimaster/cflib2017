@@ -9,6 +9,7 @@ authorEmail: marc.esher@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Replicates the CF7 getMetadata(query) functionality for MX6.1+
+tagBased: true
 description: |
  CF7 introduced the ability to run getMetadata() on a query, which returns an array of structures containing datatype information. This UDF replicates this functionality for CFMX6.1
  

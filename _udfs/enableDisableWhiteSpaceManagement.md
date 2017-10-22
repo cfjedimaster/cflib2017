@@ -9,6 +9,7 @@ authorEmail: qasim_1976@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: This function will enable or disable whitespace management in ColdFusion Server without access to ColdFusion Administrator.
+tagBased: true
 description: |
  This function will enable or disable whitespace management in ColdFusion Server without access to ColdFusion Administrator. It returns the current status of the setting.
 

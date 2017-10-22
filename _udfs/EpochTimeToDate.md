@@ -9,6 +9,7 @@ authorEmail: mellon@mnr.org
 version: 1
 cfVersion: CF5
 shortDescription: Converts a UNIX epoch time to a ColdFusion date object.
+tagBased: false
 description: |
  Converts a UNIX epoch time to a ColdFusion date object.  Epoch time is defined as the number of seconds elapsed since January 1 1970 00:00:00 GMT.  This UDF does not take the server's local timezone offset into account when converting from epoch to local time.  For that, see EpochTimeToLocalDate().
 

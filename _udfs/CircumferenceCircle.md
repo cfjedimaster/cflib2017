@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the circumference of a circle
+tagBased: false
 description: |
  Calculates the circumference of a circle based on the radius.
 

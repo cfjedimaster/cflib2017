@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the volume of a triangular prism.
+tagBased: false
 description: |
  Calculates the volume of a triangular prism.
 

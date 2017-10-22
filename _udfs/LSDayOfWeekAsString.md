@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the localized version of a day of the week.
+tagBased: false
 description: |
  Returns the localized version of a day of the week. For example, if your current locale is set as French (Standard), the value for 1, Sunday, will be dimanche.
 

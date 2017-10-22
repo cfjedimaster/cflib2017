@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns a boolean if the datasource name exists.
+tagBased: false
 description: |
  Pass in a string, get a boolean back telling you if a datasource of that name exists.
 

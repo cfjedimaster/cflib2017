@@ -9,6 +9,7 @@ authorEmail: adam@fusiongrokker.com
 version: 0
 cfVersion: CF7
 shortDescription: Converts a Flex ArrayCollection object to a ColdFusion Query object
+tagBased: false
 description: |
  For people that are more comfortable working with queries than arrayCollections, this should help.
 

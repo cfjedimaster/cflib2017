@@ -9,6 +9,7 @@ authorEmail: steve@stephenwithington.com
 version: 0
 cfVersion: CF5
 shortDescription: I generate a randomized string of desired length.
+tagBased: true
 description: |
  Pass in a string and I'll return a randomized string value at the length you desire.
 

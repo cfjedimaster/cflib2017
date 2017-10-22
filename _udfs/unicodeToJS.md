@@ -9,6 +9,7 @@ authorEmail: klein@contens.de
 version: 1
 cfVersion: CF5
 shortDescription: Replace html unicode strings with strings in javascript format.
+tagBased: false
 description: |
  Replace html unicode strings with strings in javascript format.
  

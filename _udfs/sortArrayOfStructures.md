@@ -9,6 +9,7 @@ authorEmail: martijnvanderwoud@orange.nl
 version: 0
 cfVersion: CF5
 shortDescription: Sorts an array of structures on one or more keys.
+tagBased: false
 description: |
  This function performs a so-called 'insertion sort' on an array of structures. You can specify multiple keys to sort on. The sort order (&quot;descending&quot;) or (&quot;ascending&quot;) seperately per key
  Sorting is hierarchical: elements that match on the first-specified key are sorted on the second key; element that match on the first two key are sorted on the third key and so on..

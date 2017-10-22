@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns default value if primary value is empty.
+tagBased: false
 description: |
  A shorthand way of specifying a default value to be returned if the primary value is empty (or contains only spaces). Handy for a variety of if-then uses.
 

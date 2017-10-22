@@ -9,6 +9,7 @@ authorEmail: neil.robertson-ravo@csd.reedexpo.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a Country (i.e. United United Kingdom) and returns theISO Country Name (i.e. GB).
+tagBased: false
 description: |
  Takes a Country (i.e. United United Kingdom) and returns theISO Country Name (i.e. GB). Simple reversal of the CodeToCountry UDF by delatush@yahoo.com.
 

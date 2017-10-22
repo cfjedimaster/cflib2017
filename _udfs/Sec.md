@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the secant of an angle.
+tagBased: false
 description: |
  Returns the Secant of an angle.  The secant of a 90 degree angle is infinity.  All angles are expressed in radians.
 

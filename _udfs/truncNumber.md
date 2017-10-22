@@ -9,6 +9,7 @@ authorEmail: tony@ckm9.com
 version: 1
 cfVersion: CF5
 shortDescription: Cuts a number to a certain amount of decimal places without rounding.
+tagBased: false
 description: |
  Cuts a number to a certain amount of decimal places without rounding.
 

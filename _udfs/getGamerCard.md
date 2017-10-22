@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF7
 shortDescription: This function will return information about a user's XBox Live status.
+tagBased: true
 description: |
  This function will return information about a user's XBox Live status. This includes their XBox Live level, gamer image, score, and past games.
 

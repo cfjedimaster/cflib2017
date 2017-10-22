@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Transforms queries for displaying as columns instead of rows.
+tagBased: false
 description: |
  Takes a query and transforms it to allow outputting for viewing in columns instead of rows. 
  

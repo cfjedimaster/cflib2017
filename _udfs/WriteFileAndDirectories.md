@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF6
 shortDescription: Automatically creates any missing directories before writing to the specified file.
+tagBased: true
 description: |
  Automatically creates any missing directories before writing to the specified file. All created directories and the file being written to are locked with &quot;exclusive&quot; access to avoid issues between concurrently running scripts. Some code based on Raymond Camden's DirectoryCreate() and FileWrite() functions.
 

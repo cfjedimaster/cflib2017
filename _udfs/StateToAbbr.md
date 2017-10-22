@@ -9,6 +9,7 @@ authorEmail: sleoni@leoniz.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes a full State name (i.e. California) and returns the two letter abbreviation (i.e. CA).
+tagBased: false
 description: |
  Takes a full State name (i.e. California) and returns the two letter abbreviation (i.e. CA).
  Includes all USPS abbreviations.

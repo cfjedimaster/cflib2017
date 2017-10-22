@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns the decade (xxx0-xxx9) to which the specified year belongs.
+tagBased: true
 description: |
  Returns the decade (xxx0-xxx9) to which the specified year belongs.
 

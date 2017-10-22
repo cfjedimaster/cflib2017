@@ -9,6 +9,7 @@ authorEmail: fractorr@yahoo.com
 version: 2
 cfVersion: CF5
 shortDescription: Checks to see if a string is all upper case characters
+tagBased: true
 description: |
  Returns true if a string is all upper case characters or false if not all upper case characters.
 

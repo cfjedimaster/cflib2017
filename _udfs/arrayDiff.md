@@ -9,6 +9,7 @@ authorEmail: gregnettles@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Compares two arrays and returns the difference between the two.
+tagBased: false
 description: |
  This function compares 2 one-dimensional arrays (smallerArray &amp; biggerArray) and returns an array with the values found in biggerArray but not in smallerArray.
 

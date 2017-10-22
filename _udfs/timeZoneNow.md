@@ -9,6 +9,7 @@ authorEmail: fordray+cflib@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Show the current date/time for a given time zone.
+tagBased: false
 description: |
  E.g. Your server is in the US &amp; your target audience is in the UK. This will return the current date/time as it would appear if the server was located in the UK. Daylight saving time is also considered.
  If you provide an invalid time zone or an empty string, the function will throw an error and show about 600 time zones to choose from.

@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Convert the query into a CSV format using Java StringBuffer Class.
+tagBased: false
 description: |
  This function is a modified version of QueryToCSV by Adgnot Sebastien. It converts the query into a CSV format using Java StringBuffer Class in java.lang package which is considerably faster as compared to regular string. Excellent performance improvement if you are manipulating large queries.
 

@@ -9,6 +9,7 @@ authorEmail: jason@inwebsys.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns the nearest half hour based on minutes of the hour supplied to the function.
+tagBased: false
 description: |
  We needed a short bit of code to give the nearest half-hour based on 15 minute intervals. This does the trick.
 

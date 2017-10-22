@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 3
 cfVersion: CF5
 shortDescription: This function will return the length of a file or a directory.
+tagBased: false
 description: |
  This function will return the length of a file. It uses the standard Java File object, which makes it very fast under ColdfusionMX. If a directory is passed instead of a file, the UDF will return the total size of all files in the directory. If the file or folder does not exist, it will return 0.
 

@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the value passed to it represents &quot;NULL&quot;.
+tagBased: false
 description: |
  Returns True if the value passed to it represents &quot;NULL&quot;.  Useful for setting NULLs in the NULL attribute of CFPROCPARAM.
 

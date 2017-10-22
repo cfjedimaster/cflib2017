@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Produces output used by the vCalendar standard for PIM's (such as Outlook).
+tagBased: false
 description: |
  Pass a formatted structure containing subject, descrition, start date/time in GMT, end date/time in GMT, and priority and get back a formatted string in the vCalendar format that can be saved to a file to be used as an attachment with cfmail.
 

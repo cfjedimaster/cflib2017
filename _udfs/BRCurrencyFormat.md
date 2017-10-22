@@ -9,6 +9,7 @@ authorEmail: segalla@intralab.com.br
 version: 1
 cfVersion: CF6
 shortDescription: Works like the built-in function lsCurrencyFormat, but do it right for Brazilian Currency (R$ - Real).
+tagBased: false
 description: |
  Works like the built-in function lsCurrencyFormat, but do it right for Brazilian Currency (R$ - Real).
 

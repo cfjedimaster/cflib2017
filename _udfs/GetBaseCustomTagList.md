@@ -9,6 +9,7 @@ authorEmail: JordanClark@Telus.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns a list of ancestor custom tags.
+tagBased: false
 description: |
  The custom list returned is based on the ancestor tag list provided by the getBaseTagList() function. This is useful to check in one custom tag if it is a decendant of another.
 

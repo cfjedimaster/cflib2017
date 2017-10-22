@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 2
 cfVersion: CF5
 shortDescription: Determines number of list items that begin with the strToMatch.
+tagBased: false
 description: |
  Determines number of list items that begin with the strToMatch.
 

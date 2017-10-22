@@ -9,6 +9,7 @@ authorEmail: brianvsweeney@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Gets the last date in a given quarter.
+tagBased: false
 description: |
  Gets the last date in a given quarter.
 

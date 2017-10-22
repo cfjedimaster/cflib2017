@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF6
 shortDescription: Makes a file ReadOnly.
+tagBased: false
 description: |
  Makes a file ReadOnly. WARNING: there is no way to make it writable again from Coldfusion. It uses the standard Java File object, which makes it very fast under Coldfusion MX.
 

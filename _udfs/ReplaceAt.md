@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Replaces oldSubString with newSubString from a specified starting position.
+tagBased: false
 description: |
  An enhanced version of CF's Replace() function. Returns theString with occurrence(s) of oldSubString replaced with newSubString in a specified scope starting from the startIndex. This startIndex feature can be especially useful for partial and/or conditional replacements.
 

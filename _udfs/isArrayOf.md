@@ -9,6 +9,7 @@ authorEmail: adamcameroncoldfusion@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Validates an array of [anything].
+tagBased: false
 description: |
  Validates an array of [anything] using a callback to define what constitutes a valid [anything]. The callback should return a boolean: true if the passed-in array element is valid, otherwise false.
 

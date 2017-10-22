@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Checks if the URL (maybe a key) was manipulated or if the form was copied and changed.
+tagBased: false
 description: |
  Checks if the URL (maybe a key) was Manipulated or if the form was copied and changed. The file that was called has to be on the same server as the caller file. It doesn't work with the javascript Command self.location.href = &quot;&quot;. Please note that cgi.http_refere can be faked. This is not a perfect test.
 

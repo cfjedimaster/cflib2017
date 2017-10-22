@@ -9,6 +9,7 @@ authorEmail: abelfor@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the Grade of Service (failure rate) based on Busy Hour Traffic (Erlangs) and number of indepenedent lines
+tagBased: false
 description: |
  This UDF returns the fraction of incoming calls turned away during the Busy Hour because all lines are busy at the time of the call.        
  

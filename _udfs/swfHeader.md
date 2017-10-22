@@ -9,6 +9,7 @@ authorEmail: alan.rother@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: swfHeader reads a swf file's header and returns it's meta information, including height, width and Flash version.
+tagBased: false
 description: |
  swfHeader reads a swf file's header and returns it's meta information, including height, width and Flash version. Function based on code example by Rupesh Kumar (http://coldfused.blogspot.com)
 

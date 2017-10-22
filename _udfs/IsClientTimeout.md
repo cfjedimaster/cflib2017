@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the user has not requested a page within the given time span.
+tagBased: false
 description: |
  Returns True if the user has not requested a page within the given time span.  This function can be used to timeout client variables in security schemes where you control access by checking for the existence of a client variable.  This gets around a key difference between client and session variables.
  &lt;P&gt;

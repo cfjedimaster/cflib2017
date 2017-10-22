@@ -9,6 +9,7 @@ authorEmail: bleachedbug@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Reset MailSpool and access general mail settings.
+tagBased: true
 description: |
  Reset MailSpool and access general mail settings.
  Currently accepts the following actions:

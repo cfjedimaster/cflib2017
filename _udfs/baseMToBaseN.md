@@ -9,6 +9,7 @@ authorEmail: adamcameroncoldfusion@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Converts a number from one arbitrary base to another arbitrary base.
+tagBased: false
 description: |
  Converts a number from one arbitrary base to another arbitrary base.  Is not restricted to bases that Java and CF natively support in their equivalent built-in functions. The internal maths are restricted to the bounds of java.math.BigInteger though.
 

@@ -9,6 +9,7 @@ authorEmail: pyaephyoeshein@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Unicode language translator ((UTF-8))
+tagBased: false
 description: |
  It supports to translate any unicode-based language instead of using GetProfileString which doesn't support Unicode (UTF-8).
  

@@ -9,6 +9,7 @@ authorEmail: kmgaughan@eircom.net
 version: 1
 cfVersion: CF5
 shortDescription: Cleanly converts typewriter quotes to typographer's quotes.
+tagBased: false
 description: |
  Accepts a single string and converts any straight typewriter quotes into their corresponding curly typographer's quotes to give a better visual appearence. Note, however, that this code assumes that the text passed in is plain text and not HTML.
 

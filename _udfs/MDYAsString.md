@@ -9,6 +9,7 @@ authorEmail: ljuncker@aljcompserv.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date in long text format.
+tagBased: false
 description: |
  Returns a supplied date in the format &quot;The Twenty Second day of September, in the year One Thousand Nine Hundred and Eighty Six.&quot;
 

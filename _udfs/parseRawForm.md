@@ -9,6 +9,7 @@ authorEmail: kenf@accessnet.net
 version: 1
 cfVersion: CF6
 shortDescription: Parses Form data structure out of HTTP header; this leaves empty entries in, unlike CFMX.
+tagBased: true
 description: |
  Since Coldfusion dumps out the empty form fields, this can mess up code that depends on blank fields for placeholders.  This version keeps them in the lists.
 

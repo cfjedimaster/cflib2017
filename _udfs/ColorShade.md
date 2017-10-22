@@ -9,6 +9,7 @@ authorEmail: gray.bob98@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Returns a hexadecimal color value an amount lighter or darker than the provided color.
+tagBased: true
 description: |
  Returns a lighter hex color if a positive number is used and a darker if a negative number is used. Arguments are a six character hexadecimal value (no #) and the numeric value of how much the color should be incremented. -100 increments the provided color 100% toward black and 100 increments the color 100% toward white. Works well for building gradients using a loop or for generating monochromatic color schemes.
 

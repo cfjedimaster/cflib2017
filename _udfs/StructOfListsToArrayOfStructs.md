@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure of Lists to an Array of structures.
+tagBased: false
 description: |
  Converts a structure of Lists to an Array of structures.
 

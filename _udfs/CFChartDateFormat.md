@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Formats a date/time value for use on the y-axis in CFCHART.
+tagBased: false
 description: |
  Formats a date/time value for use on the y-axis in CFCHART.  CFCHART expects date/time values in epoch seconds, adjusted to UTC offset, and multiplied by 1000.  Very strange, but it works.
 

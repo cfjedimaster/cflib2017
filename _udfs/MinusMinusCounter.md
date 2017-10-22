@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Simulate the c functionality of --i.
+tagBased: false
 description: |
  Simulate the c functionality of --i. Decrements a counter and returns the dencremented counter.
 

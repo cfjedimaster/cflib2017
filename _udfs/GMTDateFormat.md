@@ -9,6 +9,7 @@ authorEmail: hallow@webmages.com
 version: 1
 cfVersion: CF5
 shortDescription: This function takes a date time object and an offset, and outputs a GMT date/time formatted string.
+tagBased: false
 description: |
  This takes two arguments, adate and offset. adate should be a valid date/time object, and offset should be a valid GMT offset (formatted +0000 or -0000, for example, Eastern Standard Time is -0500). It will then output a valid GMT string. It's especially usefull to help prevent browser and proxy caching.
 

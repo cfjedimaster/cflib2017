@@ -9,6 +9,7 @@ authorEmail: j_pickard@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts an IP address to a 32-bit dotted decimal IP number.
+tagBased: false
 description: |
  Use IPAddress2IPDottedDecimal to convert an IP address string to a decimal value.  Storing decimal values in a database and making comparisons with them is more efficient than using IP address strings.
 

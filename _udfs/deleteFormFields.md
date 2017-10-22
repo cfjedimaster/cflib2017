@@ -9,6 +9,7 @@ authorEmail: tom@thenewmediagroup.com
 version: 1
 cfVersion: CF5
 shortDescription: Removes specified fields from a form structure.
+tagBased: false
 description: |
  Useful if you need to clean up a form for whatever reason before using the cfinsert or cfupdate tag. Takes a comma-delimited list of form field names as its only argument.
 

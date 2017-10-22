@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Mimics the cfdump tag.
+tagBased: true
 description: |
  Mimics the cfdump tag, but adds new &quot;top&quot; attribute.
 

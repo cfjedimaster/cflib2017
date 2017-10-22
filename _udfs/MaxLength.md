@@ -9,6 +9,7 @@ authorEmail: johnreed1972@yahoo.com.au
 version: 1
 cfVersion: CF5
 shortDescription: Limit a string's output to the desired length.
+tagBased: false
 description: |
  Limits the length of string output to a specified length and appends &quot;...&quot; to indicate the string has been trimmed. Ideal for limiting a string's length in a table without wrapping.
 

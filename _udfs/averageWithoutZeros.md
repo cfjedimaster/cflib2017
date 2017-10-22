@@ -9,6 +9,7 @@ authorEmail: dsimms@dcbar.org
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the average of a set of numbers omitting values less than 1 from that average.
+tagBased: false
 description: |
  ColdFusion's built-in arrayAvg() function calculates an average by taking the sum of a set of numbers and then dividing that sum by the total count of the numbers. When the set of numbers contains one or more zeros, this produces an inaccurate average when the developer wishes to average only those values which are greater than or equal to 1.
 

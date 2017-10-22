@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 2
 cfVersion: CF7
 shortDescription: A quick way to test if a string is a URL.
+tagBased: false
 description: |
  This is a quick way to check if a string is a URL -- handy when, for instance, a user is entering a URL into a form that will later be used to make a link on a web page.  Mostly just more convenient than needing to remember the regex. Notice that it makes use of isValid. The isValid function has built in URL checking, but this regex is considered to be stronger.
  

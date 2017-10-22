@@ -9,6 +9,7 @@ authorEmail: steve@stephenwithington.com
 version: 1
 cfVersion: CF6
 shortDescription: I convert the server date/time to any North American timezone date/timestamp.
+tagBased: true
 description: |
  Pass me a timezone, and I'll convert my server date/time to the preferred timezone's date/time and pass it back to you.
 

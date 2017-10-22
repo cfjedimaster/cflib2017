@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Rounds a number up or down to the nearest specified multiple.
+tagBased: false
 description: |
  Rounds a number up or down to the nearest specified multiple.
 

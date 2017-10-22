@@ -9,6 +9,7 @@ authorEmail: keith@digital-crew.com
 version: 1
 cfVersion: CF5
 shortDescription: Remove duplicates from a list.
+tagBased: false
 description: |
  This is a faster alternative to the listDeleteDuplicates() currently in CFLib. It does the same thing, but uses a struct as a set so as to remove the duplicate elements. However, this loses the original order of the list.
 

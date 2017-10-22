@@ -9,6 +9,7 @@ authorEmail: jared@web-relevant.com
 version: 1
 cfVersion: CF7
 shortDescription: Given the fully-qualified path of a CFC, it renders the cfcexplorer.getcfcashtml() output to html, flahspaper, or PDF for printing as reference.
+tagBased: true
 description: |
  This UDF takes a fully-qualified CFC name (i.e. &quot;CFIDE.componentutils.cfcexplorer&quot;) as the only required parameter and displays the results of cfcexplorer.cfc's getCfcAsHtml() function as HTML, FlashPaper, or PDF.
 

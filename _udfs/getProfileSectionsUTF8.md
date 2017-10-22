@@ -9,6 +9,7 @@ authorEmail: reinhard.jung@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: UTF8-aware implementation of getProfileSections()
+tagBased: false
 description: |
  It supports to translate any unicode-based language instead of using GetProfileSections() which doesn't support Unicode (UTF-8). See http://help.adobe.com/en_US/ColdFusion/10.0/CFMLRef/WSc3ff6d0ea77859461172e0811cbec22c24-6cff.html
 

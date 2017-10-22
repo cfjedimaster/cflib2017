@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Applies a filter to an array.
+tagBased: false
 description: |
  Applies a filter to an array (based on array_filter from PHP). For example, taking an array of numbers, you can write a filter UDF that will remove all numbers less than 10.
 

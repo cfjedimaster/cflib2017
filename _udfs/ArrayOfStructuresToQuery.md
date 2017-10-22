@@ -9,6 +9,7 @@ authorEmail: dcrawford@acteksoft.com
 version: 2
 cfVersion: CF5
 shortDescription: Converts an array of structures to a CF Query Object.
+tagBased: false
 description: |
  Converts an array of structures to a CF Query Object.  Mirror Image of Nathan Dintenfass' QueryToArrayOfStructures function.
 

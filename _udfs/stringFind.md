@@ -9,6 +9,7 @@ authorEmail: adamcameroncoldfusion@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Returns matched substrings and subexpressions from a string based on a regular expression pattern
+tagBased: false
 description: |
  stringFind() is a melding of reFind() and reMatch().  It returns the match as well as all sub-expression matches as pos and len values (similar to reFind()), as well as the substring that the pos &amp; len values refer to (like reMatch()). Finds one or all matches.
  

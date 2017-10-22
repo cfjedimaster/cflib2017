@@ -9,6 +9,7 @@ authorEmail: cf@subnova.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculates a UPC-A check digit.
+tagBased: false
 description: |
  Given the first 11 digits of a UPC-A barcode, returns the 12th check digit.
 

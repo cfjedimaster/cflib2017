@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns True if the specified folder (directory) exists on the ColdFusion server. (Windows only)
+tagBased: false
 description: |
  Returns True if the specified folder (directory) exists.  This is similar to the native CF function DirectoryExists() except that it can accept an absolute or relative path to the directory you want to test.
  

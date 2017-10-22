@@ -9,6 +9,7 @@ authorEmail: erki@dreamdrummer.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure to a URL query string.
+tagBased: false
 description: |
  Converts a structure to a URL query string. Query string delimiters can be changed: second function argument is the key/value delimiter (default is =) and third argument is the other delimiter (default is &).
 

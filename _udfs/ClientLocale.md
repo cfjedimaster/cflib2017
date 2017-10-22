@@ -9,6 +9,7 @@ authorEmail: matthew@cabbagetree.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Attempts to deduce the visitor's locale.
+tagBased: false
 description: |
  This function uses the CGI variable HTTP_ACCEPT_LANGUAGE to attempt to choose an appropriate locale for the visitor. You could then use this locale when displaying dates, numbers, etc. or handling data entered by the visitor.
 

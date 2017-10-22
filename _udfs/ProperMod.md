@@ -9,6 +9,7 @@ authorEmail: tom@toshop.com
 version: 1
 cfVersion: CF5
 shortDescription: Computes the mathematical function Mod(y,x).
+tagBased: false
 description: |
  The mod function is defined as the amount by which a number exceeds the largest integer multiple of the divisor that is not greater than that number.  CF has a mod operator, however, it only operates on integers and does not handle situations like 2.3 mod 2 (which should return 0.3).
 

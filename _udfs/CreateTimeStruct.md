@@ -9,6 +9,7 @@ authorEmail: dpomerance@mos.org
 version: 1
 cfVersion: CF5
 shortDescription: Converts a given number of days, hours, minutes, OR seconds to a struct of days, hours, minutes, AND seconds.
+tagBased: false
 description: |
  User supplies timespan (a number) and a mask of d, h, m, or s (day, hour, minute, second respectively) to denote the time unit timespan is measured in.  Timespan is required, mask defaults to s.  The function returns a structure of days, hours, minutes, and seconds equivalent to supplied timespan.
 

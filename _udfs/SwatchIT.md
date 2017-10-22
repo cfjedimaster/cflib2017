@@ -9,6 +9,7 @@ authorEmail: packetsdontlie@mac.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the current internet time.
+tagBased: false
 description: |
  The goal of sIT may be commercial, but a base10 clock is wonderful.  This function can be very useful in timestamps and other query string variables.  This function should self adjust for your UTC offset.  See http://www.ypass.net for PHP and Perl versions.  See http://www.swatch.com for information.
 

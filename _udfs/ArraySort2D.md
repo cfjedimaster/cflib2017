@@ -9,6 +9,7 @@ authorEmail: robert.west@digiphilic.com
 version: 1
 cfVersion: CF5
 shortDescription: Sorts a two dimensional array by the specified column in the second dimension.
+tagBased: false
 description: |
  Returns an array sorted by the sortcolumn in the second dimension according to the type and order.
 

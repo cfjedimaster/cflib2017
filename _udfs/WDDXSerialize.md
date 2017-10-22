@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF6
 shortDescription: Allows for serialization to WDDX.
+tagBased: true
 description: |
  Allows for serialization to WDDX.
 

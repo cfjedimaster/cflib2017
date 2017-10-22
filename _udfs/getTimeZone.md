@@ -9,6 +9,7 @@ authorEmail: staff@nokama.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the Time Zone Code (string) that corresponds to the dateTime passed in.
+tagBased: false
 description: |
  Returns the Time Zone Code (string) that corresponds to the dateTime passed in.  Will return 'UNK' if the dateTime passed in does not match the set of time zones.
 

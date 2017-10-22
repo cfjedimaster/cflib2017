@@ -9,6 +9,7 @@ authorEmail: don.sigmaprojects@gmail.com
 version: 0
 cfVersion: CF6
 shortDescription: Converts an array of objects to a CF Query Object.
+tagBased: false
 description: |
  Converts an array of objects to a CF Query Object. Only works with &quot;Bean&quot; style CFCs. Uses the result of all getX methods to populate the query. 
  

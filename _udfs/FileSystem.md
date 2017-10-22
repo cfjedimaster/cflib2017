@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the file system in use on the specified drive. (Windows only)
+tagBased: false
 description: |
  Returns the file system in use on the specified drive (i.e. FAT, NTFS, CDFS, etc.).  Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

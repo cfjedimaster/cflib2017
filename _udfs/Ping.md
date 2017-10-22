@@ -9,6 +9,7 @@ authorEmail: eliasjp@msn.com
 version: 1
 cfVersion: CF8
 shortDescription: Pings a website using .net framework
+tagBased: true
 description: |
  Sometime you would like to ping URLs to check their availability just like using windows run command ping &lt;ip/url&gt;
 

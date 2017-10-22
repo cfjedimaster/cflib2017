@@ -9,6 +9,7 @@ authorEmail: gp@omniwhere.com
 version: 0
 cfVersion: CF6
 shortDescription: Call the skype website to know the status of a user
+tagBased: true
 description: |
  Get the status of a skype user calling the skype website through cfhttp. Privacy settings of the user should be set to allow the status visible on the web.
 

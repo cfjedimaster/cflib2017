@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Create a zip file of a directory or just a file.
+tagBased: false
 description: |
  Pass a path to a directory or file and where you want to write the zip file, and POOF!: Zip file.
  

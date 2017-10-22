@@ -9,6 +9,7 @@ authorEmail: dac.cfml@gmail.com
 version: 1
 cfVersion: CF10
 shortDescription: Variation of arraySet() which uses a callback to set each array element
+tagBased: false
 description: |
  Variation of arraySet() which uses a callback to set each array element.
  

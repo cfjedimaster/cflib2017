@@ -9,6 +9,7 @@ authorEmail: aaron@x-clothing.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts IPs to integers and back for efficient database storage.
+tagBased: false
 description: |
  IPConvert converts valid IP addresses into integers and back again.  This is useful for storing IP information in a database using the int datatype rather than char.
 

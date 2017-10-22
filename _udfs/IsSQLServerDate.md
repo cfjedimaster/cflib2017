@@ -9,6 +9,7 @@ authorEmail: jon.hartmann@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Validates a string as valid datetime or smalldatetime string for SQL Server.
+tagBased: true
 description: |
  Validates a string as valid datetime or smalldatetime string for SQL Server. Checks if the input is date and also if it is within the date range acceptable to to datetime or smalldatetime
 

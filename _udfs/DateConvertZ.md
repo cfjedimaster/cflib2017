@@ -9,6 +9,7 @@ authorEmail: cwigginton@macromedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Similar to DateConvert, but provides local2zone and zone2local conversion from one time zone to another.
+tagBased: false
 description: |
  Similar to DateConvert, but provides local2zone and zone2local conversion from one time zone to another.
 

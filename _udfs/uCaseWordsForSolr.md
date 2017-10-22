@@ -9,6 +9,7 @@ authorEmail: sami@bytestopshere.com
 version: 1
 cfVersion: CF9
 shortDescription: Works with SolrClean UDF to UCASE Solr Keywords.
+tagBased: true
 description: |
  Works with SolrClean UDF to UCASE Solr Keywords. Use in conjunction with SolrClean.
 

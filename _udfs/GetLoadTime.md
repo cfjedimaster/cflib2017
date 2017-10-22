@@ -9,6 +9,7 @@ authorEmail: mac@kwm.tm
 version: 1
 cfVersion: CF5
 shortDescription: Measures the elapsed time (load time) from when the single function was first called to the time it was last called.
+tagBased: false
 description: |
  The single getLoadTime function allows you to easily return loadtimes from anywhere within your application. Utilizes the CF getTickCount function.
 

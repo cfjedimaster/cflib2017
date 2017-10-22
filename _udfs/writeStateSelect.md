@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com
 version: 0
 cfVersion: CF5
 shortDescription: Easily creates a state select dropdown/
+tagBased: false
 description: |
  Easily create state select dropdowns. Using various combinations of attributes, you can create full-text state names, abbreviated names, add Canadian provinces, specify a selected value, or define a css class for the field to use
 

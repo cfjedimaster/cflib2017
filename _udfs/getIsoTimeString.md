@@ -9,6 +9,7 @@ authorEmail: ben@bennadel.com
 version: 1
 cfVersion: CF9
 shortDescription: Converts your date into a time string the aheres to the ISO 8601 standard (for use with some API calls).
+tagBased: false
 description: |
  Takes your ColdFusion date/time object and returns a string that represents the date in ISO 8601 complaint format. This separates the date/time values with a &quot;T&quot; and ends with the UTC-marker, &quot;Z&quot;. Since it uses the UTC-marker, it will convert your date/time into UTC, unless you tell it not to (using the optional argument).
 

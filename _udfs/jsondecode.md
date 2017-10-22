@@ -9,6 +9,7 @@ authorEmail: jehiah@gmail.com
 version: 3
 cfVersion: CF6
 shortDescription: DeSerialize JSON data into ColdFusion native objects (simple value, array, structure, query)
+tagBased: true
 description: |
  DeSerialize JSON data into ColdFusion native objects. This is usefull for manipulating data passed back from the browser using AJAX where JSON is the data format.
   

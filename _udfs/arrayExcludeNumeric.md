@@ -9,6 +9,7 @@ authorEmail: marcos.placona@gmail.com
 version: 2
 cfVersion: CF6
 shortDescription: Excludes numeric items from an array.
+tagBased: true
 description: |
  Excludes all the numerical items inside an one dimensional array returning a new &quot;non numeric&quot; array.
 

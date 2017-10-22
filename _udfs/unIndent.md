@@ -9,6 +9,7 @@ authorEmail: strutz@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Un-indents strings but preserves formatting
+tagBased: false
 description: |
  Removes unnecessary leading tabs or spaces (whitespace chars) from each line of a string, preserving the formatting while flushing the string left. It is basically a block un-indent (like your IDE probably does with shift-tab).
 

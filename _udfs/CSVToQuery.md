@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 1
 cfVersion: CF5
 shortDescription: Transform a CSV formatted string with header column into a query object.
+tagBased: false
 description: |
  Takes a CSV (comma separated values) formatted string with option row and column delimiters and transforms into a query object. The first row of the CSV string must contain the column headers.
 

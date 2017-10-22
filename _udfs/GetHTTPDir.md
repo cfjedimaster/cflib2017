@@ -9,6 +9,7 @@ authorEmail: spike@spike.org.uk
 version: 1
 cfVersion: CF5
 shortDescription: Retrieves the url for the current directory in full or relative format.
+tagBased: false
 description: |
  Retrieves the url for the current directory in full or relative format. Depends on cgi.server_name and cgi.script_name variables.
 

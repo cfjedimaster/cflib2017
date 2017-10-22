@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns all the matches of a regex from a string.
+tagBased: false
 description: |
  This UDF will parse a string and return every occurance of a regular expression in an array. If no matches are found, an empty array is returned.
 

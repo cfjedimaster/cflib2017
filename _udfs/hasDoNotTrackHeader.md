@@ -9,6 +9,7 @@ authorEmail: indy@indygriffiths.com
 version: 1
 cfVersion: CF9
 shortDescription: Support for the &quot;Do Not Track&quot; HTTP header
+tagBased: false
 description: |
  This UDF will return true if the user has opted out of tracking via the Do Not Track header. 
  

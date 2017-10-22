@@ -9,6 +9,7 @@ authorEmail: jon.hartmann@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Checks the server's ColdFusion product version
+tagBased: true
 description: |
  Accepts a comma delimited version number and checks it against the current Server.ColdFusion.ProductVersion value. It returns true if the current product version is at least the given value, and false if not.
 

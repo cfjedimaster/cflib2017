@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 1
 cfVersion: CF10
 shortDescription: Converts minutes to UTC Offset in the specified format.
+tagBased: true
 description: |
  Converts minutes to UTC Offset in the specified format.
 

@@ -9,6 +9,7 @@ authorEmail: ericc@nc.rr.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if the given color is a web safe hexadecimal color.
+tagBased: false
 description: |
  Returns true if the given color is a web safe hexadecimal color.  IsWebSafeColor accepts a 6 digit hexadecimal color as an agument.  It returns true if the color is in the 216 color web safe pallette.  If not, it returns false.
 

@@ -9,6 +9,7 @@ authorEmail: jared@web-relevant.com
 version: 1
 cfVersion: CF6
 shortDescription: Takes a W3 date and returns a CF datetime.
+tagBased: true
 description: |
  Converts string representation of a W3 date and returns a CF datetime, will handle GMT+, GMT-, and Z.
 

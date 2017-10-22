@@ -9,6 +9,7 @@ authorEmail: Marcus@MarcusFernstrom.com
 version: 1
 cfVersion: CF10
 shortDescription: BBCode in, HTML out
+tagBased: false
 description: |
  It takes a BBCoded string of text, and returns an HTML version, it contains the basics and is easy to expand on.
 

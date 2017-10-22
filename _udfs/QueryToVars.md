@@ -9,6 +9,7 @@ authorEmail: nathan@changemedia.com
 version: 1
 cfVersion: CF5
 shortDescription: Change a row in a query to variables in a scope.
+tagBased: false
 description: |
  A quick way to get the variables in one row of a query into local variables (or any other scope).  You pass in a query and the variables are created based on the column names in the query.  You can also optionally specify a scope and a row in the query to use.
 

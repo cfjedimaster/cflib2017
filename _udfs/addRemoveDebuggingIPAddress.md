@@ -9,6 +9,7 @@ authorEmail: qasim_1976@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: This function will either add or remove an IP address to the list of debugging ip addresses if you do not have an administrator access.
+tagBased: true
 description: |
  This function will either add or remove an IP address to the list of debugging ip addresses if you do not have an administrator access. It accepts two parameters, IPaddress to be added or removed and the action i.e either add or remove.
 

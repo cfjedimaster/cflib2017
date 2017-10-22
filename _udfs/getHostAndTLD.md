@@ -9,6 +9,7 @@ authorEmail: p.heppler@fusionality.de
 version: 2
 cfVersion: CF5
 shortDescription: Get the TLD and Hostname from FQDN.
+tagBased: false
 description: |
  Returns the Hostname and TLD from a FQDN.
 

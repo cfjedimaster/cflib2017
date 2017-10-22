@@ -9,6 +9,7 @@ authorEmail: sites@breckcomm.com; ken@breckcomm.com
 version: 1
 cfVersion: CF5
 shortDescription: Very simple function to display either the plural or singular form for a numeric that is passed in.
+tagBased: false
 description: |
  Very simple function to display either the plural or singular form for a numeric that is passed in.
 

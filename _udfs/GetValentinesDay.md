@@ -9,6 +9,7 @@ authorEmail: mccjdk@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the date for Valentines Day in a given year.
+tagBased: false
 description: |
  Returns the date for Valentines Day in a given year. If no year is specified, defaults to current year.
 

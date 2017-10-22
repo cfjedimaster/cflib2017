@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the week number in a month.
+tagBased: false
 description: |
  Returns the week number in a month. I.E: The week number of March 27, 2004 would be 4
 

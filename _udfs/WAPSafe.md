@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a WAP safe string.
+tagBased: false
 description: |
  Returns a WAP safe string. All dollar signs ($) are escaped ($$). All ampersands (&amp;) are escaped (&amp;).
 

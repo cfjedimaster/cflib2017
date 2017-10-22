@@ -9,6 +9,7 @@ authorEmail: ryan@stillnet.org
 version: 2
 cfVersion: CF8
 shortDescription: Returns a form field as array, useful for when you have more than one form field with the same name.
+tagBased: true
 description: |
  When you pass several form or URL variables into ColdFusion with the same name, they end up as a comma separated list. This is commonly done with checkboxes – a user can check as many items as they want, then they will end up in your code all in a single variable. This works fine, until your data contains a comma. This function will return the data as an array to get around that problem. Tested on ColdFusion 8 and 9, probably runs on CF 7 also, maybe even 6.
  

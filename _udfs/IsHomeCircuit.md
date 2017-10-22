@@ -9,6 +9,7 @@ authorEmail: joshua@curlyweb.com
 version: 1
 cfVersion: CF5
 shortDescription: a template calling itself is at home, otherwise, its not at home.
+tagBased: false
 description: |
  Useful function for applications in Fusebox 2 to determine whether a template is calling itself or not. If a template is calling itself, isHomeCircuit will return true, otherwise, it will return false.
 

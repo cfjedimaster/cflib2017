@@ -9,6 +9,7 @@ authorEmail: umer@octadyne.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts fixed width string to a ColdFusion query.
+tagBased: true
 description: |
  Converts any type of fixed width string to a ColdFusion query object.
 

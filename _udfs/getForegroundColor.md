@@ -9,6 +9,7 @@ authorEmail: sal21@psu.edu
 version: 0
 cfVersion: CF5
 shortDescription: Determines a light or dark text color based on the given background color.
+tagBased: true
 description: |
  This takes a background color in HEX and returns an appropriate color value (light or dark) to use as a text color.  Uses an algorithm from a draft W3C document on accessibility.
 

@@ -9,6 +9,7 @@ authorEmail: dlong@cagedata.com
 version: 1
 cfVersion: CF6
 shortDescription: Replaces all special characters in a string of text.
+tagBased: true
 description: |
  Replaces all special characters in a string of code along with spaces.  Code can easily be chaged to exclude spaces.
 

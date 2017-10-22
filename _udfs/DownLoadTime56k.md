@@ -9,6 +9,7 @@ authorEmail: williams@hkusa.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns estimated download time for a 56k modem given the file size.
+tagBased: false
 description: |
  Returns estimated download time for a 56k modem given the file size. Returns a string in the format of &quot;xx hours xx minutes xx seconds&quot;.  File size should be in bytes.
 

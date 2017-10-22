@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a list of all factors for a given positive integer.
+tagBased: false
 description: |
  Returns a list of all factors for a given positive integer.
 

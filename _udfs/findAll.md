@@ -9,6 +9,7 @@ authorEmail: rottmanj@hsmove.com
 version: 2
 cfVersion: CF5
 shortDescription: Finds all occurrences of a substring in a string.
+tagBased: false
 description: |
  Finds all occurrences of a substring in a string, from a specified start position. The search is case-sensitive. Returns an array of each starting position.
 

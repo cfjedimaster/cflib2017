@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Replaces variable placeholders with values of said variables.
+tagBased: false
 description: |
  The RePlaceHolders UDF returns a string of text with variable placeholders turned into the actual value of those variables. This has been useful in CFMAIL functions when sending user information, etc. In the email message you can include: %username% and when the mail is sent it replaces %username% with the actual username. You can specify your own placeholder identifier (%,!,@,$,etc).
  

@@ -9,6 +9,7 @@ authorEmail: senatorcotton@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Return a date number for Excel columns.
+tagBased: false
 description: |
  Return the 'Date' format that Excel demands which is, in fact, a numeric representation of a date created by the difference in the number of days, between the date in question and Dec. 31, 1899
 

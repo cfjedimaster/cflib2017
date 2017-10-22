@@ -9,6 +9,7 @@ authorEmail: cfsearching@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Verifies a mail server connection.
+tagBased: true
 description: |
  Verifies an SMTP, POP3 or IMAP mail server connection using the supplied credentials.
 

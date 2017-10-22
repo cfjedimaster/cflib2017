@@ -9,6 +9,7 @@ authorEmail: philip.r.j.arnold@googlemail.com
 version: 0
 cfVersion: CF6
 shortDescription: Convert Structures/Arrays (including embedded) to XML.
+tagBased: true
 description: |
  Need to convert a structure or array to XML and have it multi-level? This one recursive function will convert these items into a XML string (without the XML header), beginning with one element and walking through all keys and arrays.
  

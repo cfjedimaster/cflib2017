@@ -9,6 +9,7 @@ authorEmail: namchin@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert Unicode chars to Cyrillic DOS  8-bit char.
+tagBased: false
 description: |
  Convert Unicode chars to Cyrillic DOS  8-bit char.
 

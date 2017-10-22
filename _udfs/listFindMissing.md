@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Find missing integers in a list of consequential numbers.
+tagBased: false
 description: |
  Return a list with missing integers in a list of consequential numbers, starting from the minimum integer in the list and ending to the maximum one.
 

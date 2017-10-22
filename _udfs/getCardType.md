@@ -9,6 +9,7 @@ authorEmail: dcordes@apoktechnology.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the card type of a card number.
+tagBased: false
 description: |
  Returns the card type of a card number. Will return &quot;Unknown&quot; if the card type cannot be detected.
 

@@ -9,6 +9,7 @@ authorEmail: coldfusion.ninja@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Calculate IRR.
+tagBased: true
 description: |
  Calculates Internal Rate of Return (IRR) similar to excel IRR function.
 

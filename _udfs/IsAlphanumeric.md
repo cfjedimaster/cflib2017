@@ -9,6 +9,7 @@ authorEmail: cflib@raphelt.de
 version: 1
 cfVersion: CF5
 shortDescription: Checks if a string is alphanumeric
+tagBased: false
 description: |
  This function checks if the passed string is alphanumeric.
 

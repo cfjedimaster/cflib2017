@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the surface area of a cylinder.
+tagBased: false
 description: |
  Calculates the surface area of a cylinder.
 

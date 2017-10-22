@@ -9,6 +9,7 @@ authorEmail: sduffey@ci.davis.ca.us
 version: 1
 cfVersion: CF5
 shortDescription: Convert bewteen standard and metric lengths.
+tagBased: false
 description: |
  Convert bewteen standard and metric lengths. Convert between any of these lengths: Inch, Foot, Yard, Mile, Millimeter, Centimeter, Meter, Kilometer.
 

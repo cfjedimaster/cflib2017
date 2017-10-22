@@ -9,6 +9,7 @@ authorEmail: josh@dataquix.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes any three numbers, checks to see whether they create a right triangle.
+tagBased: false
 description: |
  Takes any three numbers corresponding to sides on a triangle and returns a boolean for whether or not the three sides can create a right triangle.  
  Order of numbers does not matter.

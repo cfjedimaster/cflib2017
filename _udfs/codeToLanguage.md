@@ -9,6 +9,7 @@ authorEmail: stephen@waldenstreet.com
 version: 1
 cfVersion: CF5
 shortDescription: Takes an ISO 669 Two-Letter Language Code (e.g., EN) and returns the Language (e.g., English).
+tagBased: false
 description: |
  Simple function, based on LanguageToCode by Neil Robertson-Ravo (neil.robertson-ravo@csd.reedexpo.com), which returns the full name of the language (in English) represented by the ISO 669 Two-Letter Language Code -- the most common system of language reference codes.
 

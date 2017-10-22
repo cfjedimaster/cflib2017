@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of a trapezoid.
+tagBased: false
 description: |
  Calculates the area of a trapezoid based on the length of the top and bottom bases and the height.
 

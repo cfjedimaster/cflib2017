@@ -9,6 +9,7 @@ authorEmail: bobby@acoderslife.com
 version: 1
 cfVersion: CF6
 shortDescription: Image function to return Height, Width and file size.
+tagBased: false
 description: |
  javax.imageio.ImageIO based image function to gather and return basic info about an image such as Height, width, and file Size (B, KB and MB)
 

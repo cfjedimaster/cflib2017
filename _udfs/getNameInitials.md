@@ -9,6 +9,7 @@ authorEmail: anonymous@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Extracts the initials of a name from long string.
+tagBased: false
 description: |
  Creates a sequence of initials based on an input name string. The UDF essentially takes the first characters of each word in the input string, capitalizes them and puts them together.
 

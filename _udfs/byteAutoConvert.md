@@ -9,6 +9,7 @@ authorEmail: joerg@zimmer-se.de
 version: 0
 cfVersion: CF5
 shortDescription: Converts Byte values to the shortest human-readable format
+tagBased: true
 description: |
  pass this function your byte-vales (for example from a cfdirectory-resultset) and receive the value converted to the shortest possible, human-readable format. It's possible to limit the amount of reduction.
 

@@ -9,6 +9,7 @@ authorEmail: dswitzer@pengoworks.com
 version: 2
 cfVersion: CF6
 shortDescription: Call this function, passing in a collection name, to see if that named Verity colleciton exists.
+tagBased: true
 description: |
  Call this function, passing in a collection name, to see if that named Verity colleciton exists.
  

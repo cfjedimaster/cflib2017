@@ -9,6 +9,7 @@ authorEmail: raymond@kingcommedia.com
 version: 1
 cfVersion: CF6
 shortDescription: Finds all occurences of a regex in a string.
+tagBased: true
 description: |
  Like Ben Forta's reFindAll (which this replaces), except case sensitivity can be toggled and a start position can be defined. Also it returns an array of structs instead of one big struct
 

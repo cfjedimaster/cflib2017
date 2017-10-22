@@ -9,6 +9,7 @@ authorEmail: kip.rainey@incapital.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a random alphanumeric string of a user-specified length.
+tagBased: false
 description: |
  getRandString is an easy-to-use random string generator. Pass it a integer, and it returns a random alphanumeric string of the specified length.
 

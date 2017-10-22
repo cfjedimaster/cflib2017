@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the port number from a specified URL.
+tagBased: false
 description: |
  Returns the port number for the supplied URL. If no port number is found, then returns an empty string. Works with any protocol that follows a &quot;x.x:PortNumber&quot; syntax where PortNumber = one or more digits. Supporting protocols include http, ftp, telnet, and others. Note, this function will return an empty string for any implied port numbers (containing a &quot;:&quot; but no digits afterwards).
 

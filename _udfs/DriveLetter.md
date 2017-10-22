@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the drive letter of a physical drive or a network share. (Windows only)
+tagBased: false
 description: |
  Returns the drive letter of a physical drive or a network share. Because this function uses COM, it is only supported in the Windows version of ColdFusion.
 

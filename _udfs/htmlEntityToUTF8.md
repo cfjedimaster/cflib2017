@@ -9,6 +9,7 @@ authorEmail: matt@digitalhappy.com
 version: 1
 cfVersion: CF8
 shortDescription: Converts HTML encoded entities into utf8 characters.
+tagBased: false
 description: |
  Converts HTML encoded entities into utf8 characters.
  Handy when working with UTF8 aware applications that need to use older content that might be full of unnecessarily HTML encoded characters.

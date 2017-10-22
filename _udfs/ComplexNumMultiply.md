@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Multiply two complex numbers.
+tagBased: false
 description: |
  Multiply two complex numbers, or a real and a complex number, or two real numbers and return the result stored as a structure.
 

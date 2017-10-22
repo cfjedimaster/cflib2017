@@ -9,6 +9,7 @@ authorEmail: klenzade@i-55.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds all the numbers in a delimited list returning the sum of the list.
+tagBased: false
 description: |
  Adds all the numbers in a delimited list returning the sum of the list.
 

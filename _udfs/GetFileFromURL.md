@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the file name from a specified URL.
+tagBased: false
 description: |
  Returns the file name for the supplied URL. If no file is found, then returns an empty string. Works with any protocol that follows the standard &quot;filename.ext&quot; syntax include http, ftp, and others. Relative and absolute URLs are accepted.
 

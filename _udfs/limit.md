@@ -9,6 +9,7 @@ authorEmail: mail@andyjarrett.co.uk
 version: 2
 cfVersion: CF6
 shortDescription: Mimics MySQL limit's function.
+tagBased: true
 description: |
  To be used on a recordset like a QoQ. Mimics MySQL's Limit function i.e.
  

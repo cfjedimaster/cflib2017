@@ -9,6 +9,7 @@ authorEmail: dshuck@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: This tag removes all font tags from a string.
+tagBased: false
 description: |
  This tag removes all font tags from a string argument using regular expression comparison to catch open font tag regardless of the attributes.
 

@@ -9,6 +9,7 @@ authorEmail: tom@oxbowbooks.com
 version: 1
 cfVersion: CF5
 shortDescription: Get specific list element of list where empty strings are counted as elements.
+tagBased: false
 description: |
  Will retrieve item in position-th item of list, counting empty-strings are proper list elements.
 

@@ -9,6 +9,7 @@ authorEmail: rebel@daemon.com.au
 version: 2
 cfVersion: CF5
 shortDescription: Formats a number of minutes into &quot;XX hours XX minutes&quot;.
+tagBased: false
 description: |
  Formats a number of minutes into &quot;XX hours XX minutes&quot;.
 

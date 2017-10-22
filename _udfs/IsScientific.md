@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns true if passed value is formatted in &quot;baseEexp&quot; scientific notation.
+tagBased: false
 description: |
  Returns true if passed value is formatted in &quot;baseEexp&quot; scientific notation.
 

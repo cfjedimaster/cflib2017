@@ -9,6 +9,7 @@ authorEmail: bdawson@redbanner.com
 version: 1
 cfVersion: CF5
 shortDescription: Reverses a CF variable into CFScript.
+tagBased: false
 description: |
  Pass a CF variable, and a valid variable name, and the UDF returns a chunk of CFscript that will, when run, recreate the original var as a variable with the name passed as the second argument.
  Designed as a way of caching complex variables when usind in conjunction with CFfile (or similar).

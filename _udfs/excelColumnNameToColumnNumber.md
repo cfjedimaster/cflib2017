@@ -9,6 +9,7 @@ authorEmail: nolan.erck@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts an Excel Column Name to its numeric column position.
+tagBased: true
 description: |
  Converts an Excel Column Name (AB) to its numeric column position (i.e. 28). Assumes column numbers are indexed starting from 1 (1=A,2=B,...)
 

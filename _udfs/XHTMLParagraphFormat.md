@@ -9,6 +9,7 @@ authorEmail: cflib@jeffhowden.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a XHTML compliant string wrapped with properly formatted paragraph tags.
+tagBased: false
 description: |
  Returns a string that starts with an opening paragraph tag, ends with a closing paragraph tag, has all CR/LF replaced with closing and then opening paragraph tags, and also accepts an optional argument that can be used to assign attributes to all opening paragraph tags inserted into the string.
 

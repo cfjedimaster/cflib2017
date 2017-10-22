@@ -9,6 +9,7 @@ authorEmail: fractorr@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert fractions to decimal.
+tagBased: false
 description: |
  Convert fractions to decimal.
 

@@ -9,6 +9,7 @@ authorEmail: hat@guardian-web.com
 version: 2
 cfVersion: CF6
 shortDescription: Returns the most popular words in a query column and their count.
+tagBased: true
 description: |
  Generates a query that contains the x most popular words contained in a query column as well as their count.  It is called by sending a query, the column to count, the number of rows to return and a stop list.
 

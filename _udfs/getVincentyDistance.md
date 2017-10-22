@@ -9,6 +9,7 @@ authorEmail: stephenwithington@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Calculates geodetic distance between two points specified by latitude/longitude using Vincenty inverse formula for ellipsoids&#58; http&#58;//www.movable-type.co.uk/scripts/latlong-vincenty.html
+tagBased: false
 description: |
  Vincenty Inverse Solution of Geodesics on the Ellipsoid
  Original formula found at http://www.movable-type.co.uk/scripts/latlong-vincenty.html

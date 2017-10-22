@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns true if valid hexadecimal color.
+tagBased: false
 description: |
  Boolean check for a valid hexidecimal color.
  Thanks to Eric Carlisle (IsWebSafeColor).

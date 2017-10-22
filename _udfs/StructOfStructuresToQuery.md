@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure of structures to a CF Query.
+tagBased: false
 description: |
  Takes a structure of structures as created by the QueryToStructOfStructures UDF and converts it back to a ColdFusion Query. These two functions combined allow you to directly read and manipulate the rows of a query simply by knowing the value of the Primary Key. Some code based on Casey Broich's StructOfArraysToQuery.
 

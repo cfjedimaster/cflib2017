@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 2
 cfVersion: CF5
 shortDescription: Splits a string into arrays based on a regex.
+tagBased: false
 description: |
  This UDF will split a string into an array based on the regular expression passed in. If the regex is not found, the entire string is returned in the first element of the array.
 

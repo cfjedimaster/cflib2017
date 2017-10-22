@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the area of a Parallelogram.
+tagBased: false
 description: |
  Calculates the area of a Parallelogram based on the length of the base and the height.
 

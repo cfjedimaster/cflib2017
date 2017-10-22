@@ -9,6 +9,7 @@ authorEmail: beans@pghsonicweb.com
 version: 1
 cfVersion: CF5
 shortDescription: The function deletes non-needed characters (ie. http&#58;//)
+tagBased: false
 description: |
  This Function will strip the following:
  <UL>

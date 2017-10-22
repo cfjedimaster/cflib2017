@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Applies simple evaluations to every cell in a query column.
+tagBased: false
 description: |
  Applies the passed evaluation to every cell in the specified query column. Allows versatile conversions, calculations, formatting and other alterations to an entire query column in one step. Use the variable &quot;x&quot; in the passed evaluation to denote the cell's original value. Especially useful for pre-processing a query before passing it to &lt;cfchart&gt;.
 

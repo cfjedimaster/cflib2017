@@ -9,6 +9,7 @@ authorEmail: massimo@massimocorner.com
 version: 1
 cfVersion: CF6
 shortDescription: Validate a formatted XML string against a DTD.
+tagBased: true
 description: |
  Validate a formatted XML string against a DTD.
 

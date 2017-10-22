@@ -9,6 +9,7 @@ authorEmail: tfelice@reddoor.biz
 version: 0
 cfVersion: CF8
 shortDescription: Converts valid xml and valid xhtml to json
+tagBased: true
 description: |
  xmlToJson uses an integrated xsl template (xslt) and xmlTransform() to convert valid markup to JSON. Because of the possible combinations of attribute and node text, the JSON is structured in a very similar fashion as xmlParse.  The JSON result for a node will contain the following keys: text; attributes; [children]. Text is always a simple value. Arguments will be a struct, and is present whether the node has attributes or not. The structure will repeat within [children] for the length of the tree.  This function should work for any well-formed and valid xml/xhtml
 

@@ -9,6 +9,7 @@ authorEmail: anthony@webpex.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns true/false if a time is between the supplied start/end times.
+tagBased: true
 description: |
  Useful for checking if a time is between a time range. For instance, if the current time is between 12 and 1 pm then execute or display some code.
 

@@ -9,6 +9,7 @@ authorEmail: rayt@qsystems.net
 version: 1
 cfVersion: CF5
 shortDescription: Calculate the number of payments for a loan.
+tagBased: false
 description: |
  Calculate the number of payments for a loan when given the payment, interest rate, and value of the loan.
 

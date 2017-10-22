@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a value list from a dynamic column of a query.
+tagBased: false
 description: |
  The CFML function, ValueList, does not allow you to grab a column dynamically unless you use the evaluate function. This UDF allows you to grab a list of values from one particular column.
 

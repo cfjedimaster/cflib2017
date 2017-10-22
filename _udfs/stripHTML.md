@@ -9,6 +9,7 @@ authorEmail: ray@camdenfamily.com
 version: 5
 cfVersion: CF5
 shortDescription: Removes HTML from the string.
+tagBased: false
 description: |
  Returns the string with all HTML removed. Unlike HTMLEditFormat which escapes HTML, this function actually removes the HTML.
 

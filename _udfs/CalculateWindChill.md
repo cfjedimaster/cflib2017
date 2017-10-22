@@ -9,6 +9,7 @@ authorEmail: rmadere@turbosquid.com
 version: 1
 cfVersion: CF5
 shortDescription: This function calculates the wind chill based upon the new NWS Wind Chill Index calculations.
+tagBased: false
 description: |
  This function calculates the wind chill based upon the new NWS Wind Chill Index calculations.
          

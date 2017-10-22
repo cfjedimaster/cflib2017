@@ -9,6 +9,7 @@ authorEmail: charlie@griefer.com
 version: 1
 cfVersion: CF5
 shortDescription: determine every nth day of week for a given year.
+tagBased: false
 description: |
  returns an array of dates.  dates are every nth day of week (e.g. every 2nd tuesday) for a given year.
 

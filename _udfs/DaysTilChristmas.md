@@ -9,6 +9,7 @@ authorEmail: ljuncker@aljcompserv.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns an integer of the days left before Christmas.
+tagBased: false
 description: |
  Returns the number of days left before Christmas day of the current year. If Christmas has passed, returns the number of days till next year's Christmas.
 

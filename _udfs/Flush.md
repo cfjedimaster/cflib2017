@@ -9,6 +9,7 @@ authorEmail: cflib@10mar2001.com
 version: 2
 cfVersion: CF6
 shortDescription: Mimics the CFFLUSH tag and sends all content to the screen.
+tagBased: true
 description: |
  This UDF enables flushing of content during cfscript routines.
 

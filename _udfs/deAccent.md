@@ -9,6 +9,7 @@ authorEmail: raelehman@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Replaces accented characters with their non accented closest equivalents.
+tagBased: false
 description: |
  Replaces accented characters in a string with their closest non-accented equivalent, such as French, Spanish and German vowels. Useful when creating filenames, etc. from people's names.
 

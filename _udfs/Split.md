@@ -9,6 +9,7 @@ authorEmail: svg2@placs.net
 version: 3
 cfVersion: CF5
 shortDescription: Splits a string according to another string or multiple delimiters.
+tagBased: false
 description: |
  Splits a string according to another string or multiple delimiters. ColdFusion's native list functions do not allow you to pass a multi-character delimiter. You can use this function to split the string into an array.
  

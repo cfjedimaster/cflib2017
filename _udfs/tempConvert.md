@@ -9,6 +9,7 @@ authorEmail: jackpoe@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts temperatures from and to Celsius, Fahrenheit and Kelvin.
+tagBased: true
 description: |
  This is an almost all inclusive function to convert temperatures between common formats.  I haven't included the Rankine and Reaumure scales with this edition but they will be coming soon.
  

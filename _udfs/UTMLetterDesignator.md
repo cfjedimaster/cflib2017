@@ -9,6 +9,7 @@ authorEmail: wsgrah@wm.edu
 version: 1
 cfVersion: CF5
 shortDescription: Determines the correct UTM letter designator for a given latitude.
+tagBased: false
 description: |
  Determines the correct UTM letter designator for a given latitude; returns Z if latitude is outside UTM limits of 84N to 80S.
 

@@ -9,6 +9,7 @@ authorEmail: rob@microjuris.com
 version: 1
 cfVersion: CF5
 shortDescription: Sorts a list by the length of its elements.
+tagBased: false
 description: |
  Sorts the elements on a list (either asc or desc, default is &quot;asc&quot;) by their Len() value. Uses bubble sort internally and as such is not recommended for large lists.
 

@@ -9,6 +9,7 @@ authorEmail: cflib@jeffhowden.com
 version: 1
 cfVersion: CF5
 shortDescription: Case-insensitive function for removing duplicate entries in a list.
+tagBased: false
 description: |
  Simply pass it a list and optional delimiter.  The function will look for case-insensitive matches, removing any it finds, and return a new list without duplicates.
 

@@ -9,6 +9,7 @@ authorEmail: joshuamil@gmail.com
 version: 1
 cfVersion: CF8
 shortDescription: Mimics the functionality of JavaScript Splice() method (https&#58;//developer.mozilla.org/en/JavaScript/Reference/Global_Objects/Array/splice)
+tagBased: false
 description: |
  Changes the content of an array, adding new elements while removing old elements.
  

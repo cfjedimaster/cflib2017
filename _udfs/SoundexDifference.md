@@ -9,6 +9,7 @@ authorEmail: benjamin@pate.org
 version: 1
 cfVersion: CF5
 shortDescription: Returns the difference between the SOUNDEX values of two strings
+tagBased: false
 description: |
  Returns the difference between the SOUNDEX values of two strings as an integer from 0-4. 0=No match, 4=Exact match.
  

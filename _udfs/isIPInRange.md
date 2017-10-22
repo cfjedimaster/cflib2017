@@ -9,6 +9,7 @@ authorEmail: pcrowley@webzone.ie
 version: 1
 cfVersion: CF6
 shortDescription: Is this IP within any of the IP ranges supplied.
+tagBased: false
 description: |
  Returns true if the passed IP address matchs any of the IP addresses or IP address ranges supplied in a Regex list. This code be to useful in blocking or granting people access based on location. I used it to block people running check/cheque scams from certain areas of the website. Must use comma delimited list.
 

@@ -9,6 +9,7 @@ authorEmail: pruckelshaus@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts milliseconds to seconds.
+tagBased: false
 description: |
  Converts milliseconds (as in GetTickCount() or cfquery.executiontime) to seconds.  Simple but very useful.
 

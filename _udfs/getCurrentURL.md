@@ -9,6 +9,7 @@ authorEmail: topper@cftopper.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns the current URL for the page.
+tagBased: true
 description: |
  Returns the current URL for the page.
  Works better than other methods.

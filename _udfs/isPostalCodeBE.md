@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Checks if valid Belgium postal code.
+tagBased: false
 description: |
  Checks if valid Belgium postal code. Does not actually check if the postal code exists, but merely the format.
 

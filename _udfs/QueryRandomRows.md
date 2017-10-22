@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns specified number of random records.
+tagBased: false
 description: |
  Returns a query object with a specified number of random records from the passed query. Some code based on QuerySlice() by Kevin Bridges (cyberswat@orlandoartistry.com)
  

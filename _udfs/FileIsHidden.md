@@ -9,6 +9,7 @@ authorEmail: j.houwing@student.utwente.nl
 version: 1
 cfVersion: CF6
 shortDescription: Returns if a file is hidden or not.
+tagBased: false
 description: |
  Returns if a file is hidden or not. It uses the native java.io.File class and is therefore very fast in Coldfusion MX.
 

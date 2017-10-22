@@ -9,6 +9,7 @@ authorEmail: cinod_79@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts CIDR numbers to valid network mask numbers.
+tagBased: false
 description: |
  CIDR numbers such as /24,/32,/12 are converted to the appropiate netmask address form.
 

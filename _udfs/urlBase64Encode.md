@@ -9,6 +9,7 @@ authorEmail: amccollough@anmc.org
 version: 1
 cfVersion: CF5
 shortDescription: Encodes a string to base64 format, then urlEncodes the result so that it works when used as part of a URL string.
+tagBased: false
 description: |
  Encodes a string to Base64 format, then urlEncodes the result so that it works when used as part of a URL string. The &quot;Base64 then urlEncode&quot; is necessary to convert any reserved chars such as &quot;+&quot; or &quot;=&quot;, which would cause problems if used in a URL string.
 

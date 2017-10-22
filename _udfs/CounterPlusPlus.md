@@ -9,6 +9,7 @@ authorEmail: stephan@stephan-t-scheele.de
 version: 1
 cfVersion: CF5
 shortDescription: Simulate the c functionality of i++.
+tagBased: false
 description: |
  Simulate the c functionality of i++. Increments a counter and returns the value of the counter before it was incremeted.
 

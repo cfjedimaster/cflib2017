@@ -9,6 +9,7 @@ authorEmail: mosh.teitelbaum@evoch.com
 version: 2
 cfVersion: CF5
 shortDescription: Function that formats a numeric list so that successive numbers are shown as a series.
+tagBased: false
 description: |
  Function that formats a numeric list so that successive numbers are shown as a series.  List must be numeric.  For this function to be useful, list elements should be sorted in ascending order.  Updated 1/14/10 by Todd Sharp (todd@cfsilence.com) to sort the list before grouping.
 

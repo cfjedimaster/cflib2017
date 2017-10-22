@@ -9,6 +9,7 @@ authorEmail: aidan@thenetprofits.co.uk
 version: 1
 cfVersion: CF5
 shortDescription: Turns a string to an array of 'count' character chunks.
+tagBased: false
 description: |
  Accepts a string and a numeric value, chops the string into x character lengths and returns them in an array.
 

@@ -9,6 +9,7 @@ authorEmail: ianwinter@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Returns structure containing month information.
+tagBased: false
 description: |
  Returns structure containing information about the month including date object for each day, each day as a string and each day's date letters ie &quot;st,nd,rd,th&quot;. Also start and end day as entries, number of days in that month and the month number.
 

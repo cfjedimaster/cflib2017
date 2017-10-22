@@ -9,6 +9,7 @@ authorEmail: scherberich.r@gmail.com
 version: 1
 cfVersion: CF6
 shortDescription: Converts text links into HTML links within a string
+tagBased: false
 description: |
  Converts text links into HTML links within a string.
   /!\ HTML links who already exists ARE'NT reconverted

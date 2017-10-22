@@ -9,6 +9,7 @@ authorEmail: sam@serndesign.com
 version: 1
 cfVersion: CF5
 shortDescription: Creates a list from the passed arguments, skipping empty elements.
+tagBased: false
 description: |
  Converts the passed arguments array to a list and filters blanks.  Helpful for creating lists from several values stored in different variables where some may be blank.  Since it uses the arguments array as the source data for a list, there is no way to specify delimiters.  To use custom delimiters use ListChangeDelims on the returned list.
 

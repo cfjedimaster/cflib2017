@@ -9,6 +9,7 @@ authorEmail: jbartlett@strangejourney.net
 version: 1
 cfVersion: CF6
 shortDescription: Returns a globally unique Content ID value.
+tagBased: false
 description: |
  In order to send inline images with CFMX6.1u1 (or greater), you need to specify a Content ID for the attached image, which needs to be globally unique.
 

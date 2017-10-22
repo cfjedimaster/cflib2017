@@ -9,6 +9,7 @@ authorEmail: blaplante@netwebapps.com
 version: 3
 cfVersion: CF5
 shortDescription: Displays n number of characters from a string without cutting off in the middle of a word
+tagBased: false
 description: |
  This function allows you to display n number of characters from a string with out cutting of in the middle of the word. The function will display a link at the end of the string if it is longer than the number of characters desired and the optional url argument is not empty.
 

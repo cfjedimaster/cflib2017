@@ -9,6 +9,7 @@ authorEmail: scott@jibben.com
 version: 1
 cfVersion: CF5
 shortDescription: Strips all characters from a string except the ones that you want to keep.
+tagBased: false
 description: |
  This generic UDF can be used to strip unwanted characters from strings.  It can be used to eliminate non-numeric characters from phone numbers or social security numbers.  It could also be used to strip out monetary or number formatting symbols for easier conversion back to a numeric value.
 

@@ -9,6 +9,7 @@ authorEmail: cab@pagex.com
 version: 1
 cfVersion: CF5
 shortDescription: Pass an Array of structures and the name of a column that exists within each, and it will create a Grouped &quot;Structure of Array of Structures&quot;.
+tagBased: false
 description: |
  Pass an Array of structures and the name of a column that exists within each, and it will create a Grouped &quot;Structure of Array of Structures&quot;.
 

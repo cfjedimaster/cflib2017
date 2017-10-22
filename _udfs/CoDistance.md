@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the distance between two sets of coordinates.
+tagBased: false
 description: |
  Calculates the distance between two sets of coordinates on the Cartesian coordinate system
 

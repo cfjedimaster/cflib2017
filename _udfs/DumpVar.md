@@ -9,6 +9,7 @@ authorEmail: airfoof@yahoo.com
 version: 1
 cfVersion: CF5
 shortDescription: Displays contents of any data type except WDDX.
+tagBased: false
 description: |
  This function simulates the &lt;cfdump&gt; tag except you can use it inside cfscript.  It accepts any variable and returns a string representing the data, formatted in a color coded table.  This UDF currently does not display WDDX data.
 

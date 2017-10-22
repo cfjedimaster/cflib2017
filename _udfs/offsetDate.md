@@ -9,6 +9,7 @@ authorEmail: loic@igloo.be
 version: 1
 cfVersion: CF9
 shortDescription: Offset a date according to a datepart defined by a mask.
+tagBased: false
 description: |
  Offsets a date according to a passed-in mask. The mask is of format:
  [value][datepart]

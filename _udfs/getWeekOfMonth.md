@@ -9,6 +9,7 @@ authorEmail: stephenwithington@gmail.com
 version: 0
 cfVersion: CF10
 shortDescription: Returns the week number in a month for any given date (1-5).
+tagBased: false
 description: |
  Returns the week number in a month for any given date (1-5).
 

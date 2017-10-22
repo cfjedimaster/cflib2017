@@ -9,6 +9,7 @@ authorEmail: Mkruger@cfwebtools.com
 version: 1
 cfVersion: CF5
 shortDescription: Handles commodity month translation tasks.
+tagBased: false
 description: |
  Translate month codes from commodity quotes. Can also translate a month back into the proper code.
 

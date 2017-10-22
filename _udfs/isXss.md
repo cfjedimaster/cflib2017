@@ -9,6 +9,7 @@ authorEmail: mbramwell@gmail.com
 version: 1
 cfVersion: CF8
 shortDescription: Checks against all the possible combinations of the character &quot;&lt;&quot; in HTML and JavaScript (in UTF-8) and returns a boolean value based on the result.
+tagBased: true
 description: |
  Checks against all the possible combinations of the character &quot;&lt;&quot; in HTML and JavaScript (in UTF-8) and returns a boolean value based on the result. This can prove useful in passing PCI compliance automated scanning.
 

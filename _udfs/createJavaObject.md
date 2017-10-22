@@ -9,6 +9,7 @@ authorEmail: wsgrah@wm.edu
 version: 1
 cfVersion: CF6
 shortDescription: Allows one to use virtual paths to Java objects.
+tagBased: false
 description: |
  Instantiates Java objects in virtual paths so you do not need to change the classpath for your application.
 

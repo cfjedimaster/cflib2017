@@ -9,6 +9,7 @@ authorEmail: namchin@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Convert Cyrillic DOS coded text to Unicode text.
+tagBased: false
 description: |
  Convert Cyrillic DOS coded text to Unicode text.
 

@@ -9,6 +9,7 @@ authorEmail: dlns2001@yahoo.com
 version: 1
 cfVersion: CF6
 shortDescription: Eksport SQL Data to Mysql
+tagBased: true
 description: |
  Export table data to MYSQL in script
 

@@ -9,6 +9,7 @@ authorEmail: pcrowley@webzone.ie
 version: 2
 cfVersion: CF6
 shortDescription: Returns width and height of images based on image type.
+tagBased: false
 description: |
  Return X resolution in pixels and Y resolution in pixels of an Image. Supports JPGs and GIFs.
 

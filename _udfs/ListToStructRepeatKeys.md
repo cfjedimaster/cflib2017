@@ -9,6 +9,7 @@ authorEmail: tony@brandners.com
 version: 2
 cfVersion: CF5
 shortDescription: Based on ListToStruct() from Rob Brooks-Bilson, this one allows the structure key to be repeated and the value added to a list.
+tagBased: false
 description: |
  Based on ListToStruct() from Rob Brooks-Bilson, this one allows the structure key to be repeated. In the case of multiple values for a particular key, a comma-delimited list is created. Useful for parsing strings such as LDAP DNs, which may contain multiple values for a single key.
 

@@ -9,6 +9,7 @@ authorEmail: shawnse@aol.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds a &quot;FullPath&quot; column to provided directory query.
+tagBased: false
 description: |
  Adds a &quot;FullPath&quot; column to provided directory query (from &lt;cfdirectory action=&quot;LIST&quot;&gt;). Handy for keeping track of what files were from where when combining directory queries from multiple directories.
 

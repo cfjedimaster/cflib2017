@@ -9,6 +9,7 @@ authorEmail: rmaxim@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Adds delimiting character(s) before capital letters in interCap strings.
+tagBased: false
 description: |
  Adds passed delimiter (any character) before capital letters in passed InterCap/Camel Case string. Optionally capitalize the first letter in the string. Use for creating human readable file names and labels from interCap names and labels.
 

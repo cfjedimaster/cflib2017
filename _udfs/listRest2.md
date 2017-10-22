@@ -9,6 +9,7 @@ authorEmail: tom@tomkitta.com
 version: 1
 cfVersion: CF5
 shortDescription: Same functionality as CF stock listRest but faster, at least on CFMX 7.01
+tagBased: false
 description: |
  Same functionality as CF listRest but faster, for lists with 4000 elements about 1000 (no kidding, on CFMX 7.01) times faster. Stock listRest will crash your server with large lists when used multiple times, use listRest2 and be on the safe side.
 

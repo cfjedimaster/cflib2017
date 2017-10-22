@@ -9,6 +9,7 @@ authorEmail: duncan.cumming@alienationdesign.co.uk
 version: 2
 cfVersion: CF5
 shortDescription: Corrects rounding bug in DecimalFormat.
+tagBased: false
 description: |
  DecimalFormat incorrectly rounds certain numbers, e.g. alterating between rounding up/down the same number at different times.  This UDF is an attempt to correct that.
 

@@ -9,6 +9,7 @@ authorEmail: ArdMan_Da_Codehead@YAHOO.com
 version: 1
 cfVersion: CF8
 shortDescription: Converts an XML Object into a single flattened struct.
+tagBased: true
 description: |
  Recursively traverses through an XML object with nested nodes and builds a flattened structure object with a concatenated-key from the nested nodes.  This is useful for capturing data values from a PDF Form submitted in an XML format.  (http://ardenharrell.blogspot.com/2011/02/coldfusion-flatten-xml-object-to-struct.html)
 

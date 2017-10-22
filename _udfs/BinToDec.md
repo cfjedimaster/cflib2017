@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts from binary (base2) to decimal (base10).
+tagBased: false
 description: |
  Converts from binary (base2) to decimal (base10).  Provides a wrapper around the BIF InputBaseN.  Converts both positive and negative numbers.
 

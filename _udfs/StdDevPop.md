@@ -9,6 +9,7 @@ authorEmail: rbils@amkor.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the standard deviation calculated using the divisor n method.
+tagBased: false
 description: |
  Returns the standard deviation calculated using the divisor n method. This method is used when you have all the values for an entire population.
 

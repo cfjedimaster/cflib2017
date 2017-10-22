@@ -9,6 +9,7 @@ authorEmail: mtangorre@cfcoder.com
 version: 1
 cfVersion: CF5
 shortDescription: A convenience function to determine if an expression evaluates to true or false.
+tagBased: false
 description: |
  I use this in tags such as cfqueryparam when I need to determine if an expression evaluates to true or false. While this is certainly NOT needed as you can use YesNoFormat and plain old # signs with the expression between, it does make the intent more clear.
 

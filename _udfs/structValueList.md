@@ -9,6 +9,7 @@ authorEmail: kit.brandner@serebra.com
 version: 1
 cfVersion: CF5
 shortDescription: Converts a structure into a key/value pair list.
+tagBased: false
 description: |
  Converts a structure into a key/value pair list. Ignores complex values (nested structures, arrays, etc.).
 

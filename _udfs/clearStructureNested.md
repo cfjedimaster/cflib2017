@@ -9,6 +9,7 @@ authorEmail: qasimrasheed@hotmail.com
 version: 1
 cfVersion: CF6
 shortDescription: This function recurse through a structure and makes all fields as empty string
+tagBased: true
 description: |
  This function recurse through a structure and makes all fields as empty string
 

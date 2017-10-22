@@ -9,6 +9,7 @@ authorEmail: doug@cubicleman.com
 version: 1
 cfVersion: CF5
 shortDescription: Given output from a cvs ls command, this UDF returns a list of files path-qualified for CVS.
+tagBased: false
 description: |
  CVS has no easy way to list all files in a module.  This UDF can parse the response from 'cvs ls -R &lt;modulemname&gt;' and return a list of files in the module.  This list is path-qualified the way CVS likes it.  Use in conjunction with getTagListFromRLOG() to get a list of tags in a module.
 

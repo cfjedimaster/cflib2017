@@ -9,6 +9,7 @@ authorEmail: cdjewell@gmail.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a string representation of the numeric year passed into it.
+tagBased: false
 description: |
  An updated version of Larry Juncker's version with the following enhancements/fixes:
  

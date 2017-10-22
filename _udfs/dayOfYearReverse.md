@@ -9,6 +9,7 @@ authorEmail: jeff@farcryfly.com
 version: 3
 cfVersion: CF6
 shortDescription: This is the opposite of CFs DayOfYear function.
+tagBased: true
 description: |
  This function accepts the day of the year (One way to get that is with the DayOfYear function) and the year. It returns the date object for the given day of the year.
 

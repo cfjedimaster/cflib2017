@@ -9,6 +9,7 @@ authorEmail: adrian.l@thoughtbubble.net
 version: 1
 cfVersion: CF5
 shortDescription: Removes the element at index one and inserts a new element at the highest index plus one.
+tagBased: false
 description: |
  Deletes the first element in a given array, then inserts a new element at the end of the array, creating a first in first out effect.
 

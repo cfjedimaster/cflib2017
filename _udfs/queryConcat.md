@@ -9,6 +9,7 @@ authorEmail: umbrae@gmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Concatenate two queries together.
+tagBased: false
 description: |
  Appends queryTwo to queryOne. Sorting is ignored - queryTwo is appended to the end of queryOne. Note that both queries must have the same columns.
 

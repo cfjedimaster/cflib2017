@@ -9,6 +9,7 @@ authorEmail: tedd@tedd.us
 version: 1
 cfVersion: CF6
 shortDescription: This function formats a big decimal to scientific notation.
+tagBased: false
 description: |
  This UDF utilizes the java.text.DecimalFormat and java.text.BigDecimal Java classes
  to format a large number into scientific notation. There are two arguments that you can

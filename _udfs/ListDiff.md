@@ -9,6 +9,7 @@ authorEmail: wantez015@hotmail.com
 version: 1
 cfVersion: CF5
 shortDescription: Compares two lists and returns the elements that do not appear in both lists. Returns a list that contains the elementsrest between list1 and list2
+tagBased: false
 description: |
  Compares two lists and returns the elements that do not appear in both lists.
 

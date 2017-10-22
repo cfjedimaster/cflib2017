@@ -9,6 +9,7 @@ authorEmail: cfdev@comcast.net
 version: 1
 cfVersion: CF6
 shortDescription: Allows you to set the scheduling priority of the current thread.
+tagBased: false
 description: |
  By default, ColdFusion (by way of Java) schedules all threads to run at a priority of 5. This means that computing cycles are distributed to each thread evenly. This function allows you to adjust that priority and tell CF (Java) which threads are more important and which can wait.
  

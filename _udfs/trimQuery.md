@@ -9,6 +9,7 @@ authorEmail: giampaolo@bellavite.com
 version: 1
 cfVersion: CF5
 shortDescription: Trim spaces from all records in a query.
+tagBased: false
 description: |
  Trims spaces from all recordset in a query. Useful for databases that retrieve varchars values with extra spaces (as SQL Server). 
  

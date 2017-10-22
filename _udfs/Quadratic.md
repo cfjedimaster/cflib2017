@@ -9,6 +9,7 @@ authorEmail: jlcox@goodyear.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns the two real roots of a polynomial in the form&#58; ax^2 + bx + c = 0
+tagBased: false
 description: |
  Returns a structure containing the two real roots of a polynomial in the form: ax^2 + bx + c = 0
 

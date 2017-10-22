@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns the Soundex of a string.
+tagBased: false
 description: |
  Soundex is a mechanism (originally created for the US Census) whereby all names (first or last) can be converted to a four character string based on sound. Using Soundex it is possible to search for names by how they sound (so search for &quot;Smith&quot; and also find &quot;Smyth&quot;).
 

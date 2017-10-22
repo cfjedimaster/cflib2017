@@ -9,6 +9,7 @@ authorEmail: bbreaux@blipz.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a comma delimited list filled with the positive intergers from the specified range.
+tagBased: false
 description: |
  Returns a comma delimited list filled with the positive intergers from the specified range.
 

@@ -9,6 +9,7 @@ authorEmail: jeff@kazoomis.com
 version: 2
 cfVersion: CF5
 shortDescription: Checks passed value to see if it is a properly formatted U.S. social security number.
+tagBased: false
 description: |
  Checks passed value to see if it is a properly formatted U.S. social security number.  Returns True or False.
 

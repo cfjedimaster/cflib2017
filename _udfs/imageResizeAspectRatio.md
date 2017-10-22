@@ -9,6 +9,7 @@ authorEmail: cjordan@placs.net
 version: 1
 cfVersion: CF5
 shortDescription: Returns the proper dimensions of an image resized to a certain maximum size.
+tagBased: false
 description: |
  This function will give you the properly resized dimensions of an image. In other words, you give it the original dimensions, the new maximum size, and the UDF returns the new size numbers while maintaining the aspect ratio.
  

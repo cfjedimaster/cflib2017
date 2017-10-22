@@ -9,6 +9,7 @@ authorEmail: matthew@electricsheep.co.nz
 version: 1
 cfVersion: CF5
 shortDescription: Absolute value |z| of a complex number.
+tagBased: false
 description: |
  This function calculates the real number representing the absolute value of a complex number, where the complex number is a structure created earlier using the ComplexNum() UDF. If the real and imaginary parts of the number are the horizontal and vertical sides of a right triangle, the absolute value is the hypotenuse.
 

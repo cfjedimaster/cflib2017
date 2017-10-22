@@ -9,6 +9,7 @@ authorEmail: eric.twilegar@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Python Style String Splicing
+tagBased: false
 description: |
  Easy short hand for grabbing chunks of a string or cutting of sections without using regular expresions or Mid,Left,Right
 

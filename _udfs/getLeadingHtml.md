@@ -9,6 +9,7 @@ authorEmail: max@wdg.us
 version: 1
 cfVersion: CF5
 shortDescription: Display N leading characters of a text block which may include HTML.
+tagBased: false
 description: |
  This UDF will return the first N characters of a text block (string). If the break lands in the middle of a word or HTML tag, the function will extend the selection until the end for the word/tag (so it will not break in the middle of a word/tag). It will also attempt to close any un-closed HTML tags (either due to bad HTML or due to the closing tags being cut off).
  

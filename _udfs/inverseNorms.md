@@ -9,6 +9,7 @@ authorEmail: kukielp@gmail.com
 version: 0
 cfVersion: CF5
 shortDescription: Calculating the inverse normal cumulative distribution function
+tagBased: false
 description: |
  Generally calculating Inverse norms is via a lookup table.  This is very slow and for a lage data set requires alot of static data and a complex look up structure.  This is converted to Coldfusion but the mathematics was produced by Peter J. Acklam from: http://home.online.no/~pjacklam/notes/invnorm/
 

@@ -9,6 +9,7 @@ authorEmail: nathans@dnsfirm.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a random color close to your given color.
+tagBased: false
 description: |
  Returns a random color close to your given color. You give it the starting color and the range of how close you want it, and it will return a variation on that color. I recommend a closeness of 10 to 50 to make it different enough, but not too much.
 

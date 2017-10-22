@@ -9,6 +9,7 @@ authorEmail: bharbin@activematter.com
 version: 1
 cfVersion: CF5
 shortDescription: Calculates the modified Julian Day for any date in the Gregorian calendar.
+tagBased: false
 description: |
  Calculates the modified Julian Day for any date in the Gregorian calendar.  Sometimes a modified Julian day number (MJD) is used which is 2,400,000.5 less than the Julian day number. This brings the numbers into a more manageable numeric range and makes the day numbers change at midnight UTC rather than noon.
  MJD 0 thus started on 17 Nov 1858 (Gregorian) at 00:00:00 UTC.

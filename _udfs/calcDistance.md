@@ -9,6 +9,7 @@ authorEmail: siegfried.heckl@siemens.com
 version: 2
 cfVersion: CF9
 shortDescription: Calculate direct distance and angle between two decimal coordinates.
+tagBased: true
 description: |
  Calculate distance, angle and reverse angle between two given points.
  The necessary coordinates you can get i.e. from google maps with right mouse click and &quot;what's here&quot;

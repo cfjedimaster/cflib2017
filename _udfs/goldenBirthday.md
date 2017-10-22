@@ -9,6 +9,7 @@ authorEmail: jsiok@smp.org
 version: 0
 cfVersion: CF6
 shortDescription: Returns a 'golden birthday', or the date when your birthday day of month equals your age.
+tagBased: true
 description: |
  Returns a 'golden birthday', or the date when your birthday day of month equals your age.
 

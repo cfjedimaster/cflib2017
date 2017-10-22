@@ -9,6 +9,7 @@ authorEmail: admin@kylemorgan.com
 version: 3
 cfVersion: CF5
 shortDescription: Will take a number returned from a File.Filesize, calculate the number in terms of Bytes/Kilobytes/Megabytes and return the result.
+tagBased: false
 description: |
  After using a variety of different methods to generate file sizes of files being uploaded to a server for public downloads, frustration lead to writing of this tag.  It will calculate in bytes, kilobytes, and megabytes, and return an accurate number to help plan/keep track of the size of files.
  

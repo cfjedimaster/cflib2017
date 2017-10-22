@@ -9,6 +9,7 @@ authorEmail: gary@simianenterprises.co.uk
 version: 1
 cfVersion: CF10
 shortDescription: Calculate arrival date for a package.
+tagBased: true
 description: |
  Calculate arrival date for a package, taking into account working days and publid holidays.
 

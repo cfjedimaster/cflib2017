@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 2
 cfVersion: CF5
 shortDescription: Returns a number converted into a string (i.e. 1 becomes &quot;One&quot;).
+tagBased: false
 description: |
  Generate a string representation of a number. 
  For example, &quot;123&quot; generates &quot;One Hundred and Twenty Three&quot;, and &quot;12.45&quot; generates &quot;Twelve Point Forty Five&quot;.

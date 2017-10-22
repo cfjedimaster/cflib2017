@@ -9,6 +9,7 @@ authorEmail: charlie@carehart.org
 version: 0
 cfVersion: CF6
 shortDescription: Finds within a given string the location of the first occurrence of any element in a list.
+tagBased: true
 description: |
  While ListFind and ListContains look for a string (or subset) within a list, FindList does the opposite, finding if any of several items in a list occur within a string. It returns the location of the first one found. This is great for testing if any of several items appear within a given string.
 

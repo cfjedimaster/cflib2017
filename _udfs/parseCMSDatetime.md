@@ -9,6 +9,7 @@ authorEmail: pjf@maestropublishing.com
 version: 1
 cfVersion: CF5
 shortDescription: Parses a CMS (SVN or CVS) datetime into a CF datetime object.
+tagBased: false
 description: |
  Takes a CVS $Date: $ keyword data or SVN $LastChangedDate: $ keyword data and returns a CF datetime object.
 

@@ -9,6 +9,7 @@ authorEmail: ben@forta.com
 version: 1
 cfVersion: CF5
 shortDescription: Returns a date object representing tomorrow.
+tagBased: false
 description: |
  Returns a date object representing tomorrow.
 

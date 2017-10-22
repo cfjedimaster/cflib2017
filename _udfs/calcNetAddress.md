@@ -9,6 +9,7 @@ authorEmail: t@newmediatwins.net
 version: 1
 cfVersion: CF5
 shortDescription: calculate a network address from an IP address and a (sub)Netmask.
+tagBased: false
 description: |
  calculate a network address from an IP address and a (sub)Netmask. Does not validate either input parameter.
 

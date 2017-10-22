@@ -9,6 +9,7 @@ authorEmail: nmische@gmail.com
 version: 0
 cfVersion: CF7
 shortDescription: Searches recursively through a substructure of nested arrays, structures, and other elements for structures with values that match the search. pattern in the reg_expression parameter.
+tagBased: true
 description: |
  Searches recursively through a substructure of nested arrays, structures, and other elements for structures with values that match the search pattern in the reg_expression parameter.
 

@@ -9,6 +9,7 @@ authorEmail: charlie@griefer.com
 version: 1
 cfVersion: CF5
 shortDescription: Given a date, returns the appropriate zodiac sign.
+tagBased: false
 description: |
  Given a date, returns the appropriate zodiac sign.
 

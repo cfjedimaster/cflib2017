@@ -9,6 +9,7 @@ authorEmail: the.one.true.dave.anderson@gmail.com
 version: 1
 cfVersion: CF9
 shortDescription: Removes duplicate values from an array.
+tagBased: false
 description: |
  I saw a function here for removing dupes from lists and queries, but not one for arrays.  Here's one I've been using for a while.
 

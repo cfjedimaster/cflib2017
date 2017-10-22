@@ -9,6 +9,7 @@ authorEmail: joshua@waetech.com
 version: 2
 cfVersion: CF5
 shortDescription: Applies a filter mask to a string.
+tagBased: false
 description: |
  Applies a formatting mask to a string. Valid masks are:
  &lt;UL&gt;&lt;LI&gt;_ character unchanged &lt;/LI&gt;&lt;LI&gt;0 character is unchanged for numerics and forced to zero for all others &lt;/LI&gt;&lt;LI&gt;9 character is unchanged for numerics and forced to empty for all others &lt;/LI&gt;&lt;LI&gt;a character is forced to lower case, all others are left as is &lt;/LI&gt;&lt;LI&gt;A character is forced to upper case, all others are left as is &lt;/LI&gt;&lt;LI&gt;b character is forced to lower case, numerics are forces to empty &lt;/LI&gt;&lt;LI&gt;B character is forced to upper case, numerics are forces to empty &lt;/LI&gt;&lt;LI&gt;\ following character is literal &lt;/LI&gt;&lt;/UL&gt;

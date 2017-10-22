@@ -9,6 +9,7 @@ authorEmail: adam@fusiongrokker.com
 version: 1
 cfVersion: CF5
 shortDescription: Inverse of HTMLEditFormat, similar to URLDecode
+tagBased: false
 description: |
  Converts an HTML-escaped string back to normal HTML.
 

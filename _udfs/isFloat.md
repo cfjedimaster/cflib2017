@@ -9,6 +9,7 @@ authorEmail: pholmes@mediares.com
 version: 1
 cfVersion: CF5
 shortDescription: IsFloat() determines if a number is a float or whole number. Returns true for float.
+tagBased: false
 description: |
  IsFloat() determines if a number is a float or whole number. Returns true for float.
 
