@@ -50,5 +50,6 @@ code: |
    return XMLFormat(REReplace(str, "[^[:print:]]", "", "ALL"));
  }
 
+oldId: 572
 ---
 

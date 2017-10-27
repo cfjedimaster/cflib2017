@@ -46,5 +46,6 @@ code: |
     return replace(replace(ReplaceList(trim(folder), bad_chars, good_chars)," ","_","all"),"'","","all");
  }
 
+oldId: 877
 ---
 

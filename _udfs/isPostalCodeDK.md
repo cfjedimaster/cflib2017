@@ -44,5 +44,6 @@ code: |
      return REFind("^[D-d][K-k]( |-)?[1-9]{1}[[:digit:]]{3}$", arguments.str) gte 1;
  }
 
+oldId: 1315
 ---
 

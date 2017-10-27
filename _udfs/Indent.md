@@ -70,5 +70,6 @@ code: |
      return (strIndent & REReplace(str, "([#strcrlf#]+)([^#strcrlf#])", "\1#strIndent#\2", "ALL"));
  }
 
+oldId: 15
 ---
 

@@ -85,6 +85,7 @@ ${fixForYaml(udf.javaDoc)}
 code: |
 ${fixForYaml(udf.code)}
 
+oldId: ${udf.oldId}
 ---
 
 `;

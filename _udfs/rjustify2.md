@@ -51,5 +51,6 @@ code: |
      return repeatString(padChar,max(0,arguments.length - len(arguments.string))) & arguments.string;
  }
 
+oldId: 2190
 ---
 

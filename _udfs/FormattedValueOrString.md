@@ -58,5 +58,6 @@ code: |
      return begin_str & str & end_str;
  }
 
+oldId: 528
 ---
 

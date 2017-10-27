@@ -59,5 +59,6 @@ code: |
    Return (base1 + base2)/2 * height;
  }
 
+oldId: 26
 ---
 

@@ -46,5 +46,6 @@ code: |
      return (IIF(IsNumeric(Trim(arguments.num)) AND Trim(arguments.num) NEQ 0, 1, 0));
  }
 
+oldId: 1634
 ---
 

@@ -44,5 +44,6 @@ code: |
    return InputBaseN(str, 2);
  }
 
+oldId: 346
 ---
 

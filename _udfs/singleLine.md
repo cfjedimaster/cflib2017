@@ -51,5 +51,6 @@ code: |
      return trim(reReplace(s, "[[:space:]]{2,}", " ", "all"));
  }
 
+oldId: 2065
 ---
 

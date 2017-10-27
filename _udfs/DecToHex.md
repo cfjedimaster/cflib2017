@@ -44,5 +44,6 @@ code: |
    return Ucase(FormatBaseN(str, 16));
  }
 
+oldId: 344
 ---
 

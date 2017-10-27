@@ -43,5 +43,6 @@ code: |
    Return((Exp(x) - Exp(-x)) / 2);
  }
 
+oldId: 69
 ---
 

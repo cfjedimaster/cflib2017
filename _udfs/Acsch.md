@@ -46,5 +46,6 @@ code: |
      return Log((Sgn(x)*Sqr(x*x+1)+1)/x);
  }
 
+oldId: 315
 ---
 

@@ -38,5 +38,6 @@ javaDoc: |
 code: |
  function struct() { return duplicate(arguments); }
 
+oldId: 684
 ---
 

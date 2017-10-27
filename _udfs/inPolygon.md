@@ -95,5 +95,6 @@ code: |
                          javaCast('int', arguments.pointY)) />
  </cffunction>
 
+oldId: 2086
 ---
 

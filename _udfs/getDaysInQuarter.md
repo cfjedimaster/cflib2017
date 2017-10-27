@@ -37,5 +37,6 @@ code: |
      return dateDiff("d",firstDayOfQuarter,lastDayOfQuarter) + 1;
  }
 
+oldId: getDaysinQuarter
 ---
 

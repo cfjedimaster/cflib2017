@@ -52,5 +52,6 @@ code: |
      return replacelist(mystring,npc,npcc); 
  }
 
+oldId: 857
 ---
 

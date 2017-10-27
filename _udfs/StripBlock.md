@@ -68,5 +68,6 @@ code: |
      return REReplaceNoCase(strString,strFirstChar & "[^" & strLastChar & "]*" & strLastChar,"","#strScope#");
  }
 
+oldId: 510
 ---
 

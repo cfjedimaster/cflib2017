@@ -58,5 +58,6 @@ code: |
      return left(str,strPos-1) & "...";
  }
 
+oldId: 130
 ---
 

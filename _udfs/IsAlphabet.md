@@ -50,5 +50,6 @@ code: |
      return not reFindNoCase("[^a-z\.[:space:]]",str);
  }
 
+oldId: 509
 ---
 

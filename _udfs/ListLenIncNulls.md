@@ -52,5 +52,6 @@ code: |
      return val(len(list) - len(replace(list,delimiter,"","ALL")) + 1);
  }
 
+oldId: 961
 ---
 

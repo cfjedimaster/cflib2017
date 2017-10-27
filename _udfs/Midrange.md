@@ -52,5 +52,6 @@ code: |
    Return ((ArrayMax(MyArray) + ArrayMin(MyArray))/2);
  }
 
+oldId: 76
 ---
 

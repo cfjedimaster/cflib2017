@@ -67,5 +67,6 @@ code: |
    return len(str)-rcnt-len(substr)+2;
  }
 
+oldId: 253
 ---
 

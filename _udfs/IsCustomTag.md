@@ -37,5 +37,6 @@ code: |
    return yesNoFormat( listFindNoCase( getBaseTagList(), "CF_" & listFirst( listLast( getCurrentTemplatePath(), "/\" ), "." ) ) );
  }
 
+oldId: 478
 ---
 

@@ -44,5 +44,6 @@ code: |
      return (find(".",eInt) gt 0) and isNumeric(eInt);
  }
 
+oldId: 827
 ---
 

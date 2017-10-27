@@ -89,5 +89,6 @@ code: |
      return reFindNoCase(rePattern,str);
  }
 
+oldId: 756
 ---
 

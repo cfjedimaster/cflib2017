@@ -78,5 +78,6 @@ code: |
    <cfreturn string.init(a, arguments.charset)>
  </cffunction>
 
+oldId: 1091
 ---
 

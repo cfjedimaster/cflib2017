@@ -48,5 +48,6 @@ code: |
      return isBoolean(arg) && arg ? true : false;
  }
 
+oldId: 2217
 ---
 

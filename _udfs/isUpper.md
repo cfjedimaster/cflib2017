@@ -44,5 +44,6 @@ code: |
      <cfreturn compare(arguments.str,uCase(arguments.str)) is 0>
  </cffunction>
 
+oldId: 1437
 ---
 

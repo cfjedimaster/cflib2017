@@ -102,5 +102,6 @@ code: |
  return Mid(string,p1,c);
  }
 
+oldId: 2004
 ---
 

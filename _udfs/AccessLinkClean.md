@@ -45,5 +45,6 @@ code: |
     return Mid(strval,2,Len(strval)-2); 
  }
 
+oldId: 449
 ---
 

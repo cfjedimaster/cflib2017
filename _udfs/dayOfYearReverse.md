@@ -49,5 +49,6 @@ code: |
          <cfreturn dateAdd("d",arguments.currentDayOfYear, createDate(arguments.currentyear-1,"12","31" ))>
  </cffunction>
 
+oldId: 1273
 ---
 

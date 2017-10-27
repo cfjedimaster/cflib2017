@@ -40,5 +40,6 @@ code: |
      <cfreturn (hour(arguments.time)*3600) + (minute(arguments.time)*60) + (second(arguments.time)) />
  </cffunction>
 
+oldId: 1868
 ---
 

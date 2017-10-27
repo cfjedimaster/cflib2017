@@ -44,5 +44,6 @@ code: |
      return ListFindNoCase(StructKeyList(GetFunctionList()),name) GT 0;
  }
 
+oldId: 285
 ---
 

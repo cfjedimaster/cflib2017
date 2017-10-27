@@ -40,5 +40,6 @@ code: |
    return Val(REReplace(StrVal,regStr,"","all"));
  }
 
+oldId: 803
 ---
 

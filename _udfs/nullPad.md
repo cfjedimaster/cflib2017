@@ -9,7 +9,7 @@ authorEmail: cfsearching@yahoo.com
 version: 1
 cfVersion: CF10
 shortDescription: Needs short description.
-tagBased: false
+tagBased: true
 description: |
  Pads a string with null bytes, to a multiple of the given block size. Useful for encryption compatibility.
 
@@ -58,5 +58,6 @@ code: |
      return local.newText;
  }
 
+oldId: undefined
 ---
 

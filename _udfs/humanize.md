@@ -42,5 +42,6 @@ code: |
      <cfreturn reReplace(arguments.text,"([[:upper:]])([[:upper:]]*)","\1\L\2\E","all") />
  </cffunction>
 
+oldId: 1591
 ---
 

@@ -64,5 +64,6 @@ code: |
     else return RepeatString(char, padLen) & string;
  }
 
+oldId: 869
 ---
 

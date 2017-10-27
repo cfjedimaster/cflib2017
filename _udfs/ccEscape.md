@@ -42,5 +42,6 @@ code: |
      return "#RepeatString("*",val(Len(ccnum)-4))##Right(ccnum,4)#";
  }
 
+oldId: 657
 ---
 

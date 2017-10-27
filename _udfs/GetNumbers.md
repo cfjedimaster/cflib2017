@@ -54,5 +54,6 @@ code: |
      return REReplace(textstr,"[^0-9]",'','ALL');  }
  }
 
+oldId: 433
 ---
 

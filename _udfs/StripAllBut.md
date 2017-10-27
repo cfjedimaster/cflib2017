@@ -62,5 +62,6 @@ code: |
      else return rereplaceNoCase(str,"[^#strip#]","","all");
  }
 
+oldId: 477
 ---
 

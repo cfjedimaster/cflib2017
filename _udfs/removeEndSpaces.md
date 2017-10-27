@@ -40,5 +40,6 @@ code: |
      return reReplace(str,"\s*$","","all");
   }
 
+oldId: 1199
 ---
 

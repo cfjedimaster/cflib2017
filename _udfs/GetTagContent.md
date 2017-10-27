@@ -55,5 +55,6 @@ code: |
      return Mid(str,matchStruct.pos[1]+matchStruct.len[1],endTagStart-matchStruct.pos[1]-matchStruct.len[1]);
  }
 
+oldId: 738
 ---
 

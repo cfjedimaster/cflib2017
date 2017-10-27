@@ -52,5 +52,6 @@ code: |
      return Log((Sqr(-x*x+1)+1)/x);
  }
 
+oldId: 314
 ---
 

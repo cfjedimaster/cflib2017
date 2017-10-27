@@ -46,5 +46,6 @@ code: |
      return 2/(Exp(x)-Exp(-x));
  }
 
+oldId: 312
 ---
 

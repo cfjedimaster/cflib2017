@@ -94,5 +94,6 @@ code: |
    GCD(int2, int1 mod int2, ShowWork);
  }
 
+oldId: 320
 ---
 

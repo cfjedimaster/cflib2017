@@ -49,5 +49,6 @@ code: |
      return reFind("[^0-9]", str) is 0;
  }
 
+oldId: 1283
 ---
 

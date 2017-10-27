@@ -49,5 +49,6 @@ code: |
      return Mid(str,pos,1);
  }
 
+oldId: 215
 ---
 

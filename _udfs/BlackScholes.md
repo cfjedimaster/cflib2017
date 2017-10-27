@@ -73,5 +73,6 @@ code: |
          return X * exp( -r * T ) * CND(-d2) - S * CND(-d1);
  }
 
+oldId: 866
 ---
 

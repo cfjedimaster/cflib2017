@@ -42,5 +42,6 @@ code: |
    return Sqr(ComplexNumber.R^2 + ComplexNumber.I^2);
  }
 
+oldId: 352
 ---
 

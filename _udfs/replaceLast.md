@@ -50,5 +50,6 @@ code: |
      return Reverse(Reverse(arguments.string).replaceFirst(Reverse(arguments.substring1),Reverse(arguments.substring2)));
  }
 
+oldId: 1981
 ---
 

@@ -49,5 +49,6 @@ code: |
      return lsIsDate(arguments.dateString) && compareNoCase(arguments.dateString, lsDateFormat(arguments.dateString, arguments.datePattern) ) == 0;
  }
 
+oldId: 2249
 ---
 

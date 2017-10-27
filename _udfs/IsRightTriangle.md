@@ -61,5 +61,6 @@ code: |
    Return (Arguments[1]^2 + Arguments[2]^2) EQ Arguments[3]^2;
  }
 
+oldId: 176
 ---
 

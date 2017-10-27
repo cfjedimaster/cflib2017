@@ -45,5 +45,6 @@ code: |
    return NauticalMiles * 1.852;
  }
 
+oldId: 500
 ---
 

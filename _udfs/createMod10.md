@@ -61,5 +61,6 @@ code: |
      return arguments.number & right( checkdigit, 1 );
  }
 
+oldId: 1560
 ---
 

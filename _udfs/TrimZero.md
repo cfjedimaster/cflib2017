@@ -46,5 +46,6 @@ code: |
      <cfreturn arguments.varToTrim + 0>
  </cffunction>
 
+oldId: 1294
 ---
 

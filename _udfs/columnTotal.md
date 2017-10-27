@@ -47,5 +47,6 @@ code: |
      return arraySum(listToArray(evaluate("valueList(" & qryColumn & ")")));
  }
 
+oldId: 887
 ---
 

@@ -50,5 +50,6 @@ code: |
      return Replace(jsstringformat(mystring),"/","\/","ALL"); 
  }
 
+oldId: 845
 ---
 

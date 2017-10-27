@@ -48,5 +48,6 @@ code: |
       return    ReFindNoCase(re, valueIn);
  }
 
+oldId: 694
 ---
 

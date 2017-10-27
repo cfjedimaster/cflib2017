@@ -55,5 +55,6 @@ code: |
      return beginStr & Replace(theList, theDelim, endStr & beginStr, "ALL") & endStr;
  }
 
+oldId: 527
 ---
 

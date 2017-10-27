@@ -50,5 +50,6 @@ code: |
      <cfreturn javacast("float", 0).intBitsToFloat( longValue.intValue() ) />
  </cffunction>
 
+oldId: 2069
 ---
 

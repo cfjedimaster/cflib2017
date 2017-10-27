@@ -53,5 +53,6 @@ code: |
      Return(Sqr(x^2 + y^2));
  }
 
+oldId: 72
 ---
 

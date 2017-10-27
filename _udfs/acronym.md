@@ -39,5 +39,6 @@ code: |
      return '<acronym title="' & sTerms & '">' & trim( reReplaceNoCase( " " & sTerms & " ", "(\w)\w+\s", "\1", "all" ) ) & '</acronym>';
  }
 
+oldId: 1215
 ---
 
