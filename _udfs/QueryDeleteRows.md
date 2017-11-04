@@ -51,25 +51,32 @@ javaDoc: |
   * @param Rows      Either a number or a list of numbers 
   * @return This function returns a query. 
   * @author Raymond Camden (ray@camdenfamily.com) 
-  * @version 2, October 11, 2001 
+  * @version 3, October 4, 2017
   */
 
 code: |
- function QueryDeleteRows(Query,Rows) {
-     var tmp = QueryNew(Query.ColumnList);
-     var i = 1;
-     var x = 1;
- 
-     for(i=1;i lte Query.recordCount; i=i+1) {
-         if(not ListFind(Rows,i)) {
-             QueryAddRow(tmp,1);
-             for(x=1;x lte ListLen(tmp.ColumnList);x=x+1) {
-                 QuerySetCell(tmp, ListGetAt(tmp.ColumnList,x), query[ListGetAt(tmp.ColumnList,x)][i]);
-             }
-         }
-     }
-     return tmp;
- }
+function QueryDeleteRows(Query,Rows) {
+    var tmp = '';
+    var i = 1;
+    var x = 1;    
+    var aryMeta = getMetaData(Query);
+    var ColumnList = '';        
+    var TypeList = '';   
+    for(i=1;i lte arrayLen(aryMeta); i=i+1) {
+        ColumnList = listAppend(ColumnList,aryMeta[i].Name);
+        TypeList = listAppend(TypeList,  reRePlaceNoCase( aryMeta[i].TypeName ,'^INT$','Integer')   );
+    }
+    tmp = QueryNew(ColumnList,TypeList);
+    for(i=1;i lte Query.recordCount; i=i+1) {
+        if(not ListFind(Rows,i)) {
+            QueryAddRow(tmp,1);
+            for(x=1;x lte ListLen(ColumnList);x=x+1) {
+                QuerySetCell(tmp, ListGetAt(ColumnList,x), query[ListGetAt(ColumnList,x)][i]);
+            }
+        }
+    }
+    return tmp;
+}
 
 oldId: 11
 ---
