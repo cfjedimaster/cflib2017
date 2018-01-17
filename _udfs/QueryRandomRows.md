@@ -60,18 +60,28 @@ code: |
      <CFSET var Temp = {
          FinalQuery = Duplicate(Arguments.theQuery),
          RandomColName = "Random#GetTickCount()#",
-         RandomRowData = [],
-         thisRow = 0
+         thisRow = 0,
+         MaxRows = VAL(Arguments.NumberOfRows),
+         RandomPositions = []
      }>
+     <CFIF Temp.FinalQuery.RecordCount LT Temp.MaxRows>
+         <CFSET Temp.MaxRows = Temp.FinalQuery.RecordCount>
+     </CFIF>
      <CFIF Temp.FinalQuery.RecordCount GT 1>
-         <CFSET Temp.CreateUUIDJava = createobject("java", "java.util.UUID")>
+         <!--- Pick Random Position; generate array w/indexes, shuffle, the pick first X array items --->
          <CFLOOP FROM="1" TO="#Temp.FinalQuery.RecordCount#" INDEX="Temp.thisRow">
-             <CFSET arrayAppend(Temp.randomRowData, Temp.CreateUUIDJava.randomUUID().toString() )>
+             <CFSET ArrayAppend(Temp.RandomPositions, JavaCast("int", Temp.thisRow))>
          </CFLOOP>
-         <CFSET QueryAddColumn(Temp.FinalQuery, Temp.RandomColName, "VarChar", Temp.randomRowData)>
-         <CFQUERY NAME="Temp.FinalQuery" DBTYPE="query" MAXROWS="#Arguments.NumberOfRows#">SELECT #Arguments.theQuery.ColumnList#
+         <CFSET CreateObject("java", "java.util.Collections").Shuffle(Temp.RandomPositions)>
+         <CFSET Temp.RandomPositions = Temp.RandomPositions.subList(0, Temp.MaxRows)>
+         <!--- Add RandomX column to selected query rows, insert random values, requery & remove randomX column --->
+         <CFSET QueryAddColumn(Temp.FinalQuery, Temp.RandomColName, "INTEGER", ArrayNew(1))>
+         <CFLOOP ARRAY="#Temp.RandomPositions#" INDEX="Temp.thisRow">
+             <CFSET Temp.FinalQuery[Temp.RandomColName][Temp.ThisRow] = javacast("int", RandRange(1, 2147483647, "SHA1PRNG"))>
+         </CFLOOP>
+         <CFQUERY NAME="Temp.FinalQuery" DBTYPE="query" MAXROWS="#Temp.MaxRows#">SELECT #Arguments.theQuery.ColumnList#
          FROM Temp.FinalQuery
-         ORDER BY #Temp.RandomColName#</CFQUERY>
+         ORDER BY #Temp.RandomColName# DESC</CFQUERY>
      </CFIF>
      <CFReturn Temp.FinalQuery>
  </CFFUNCTION>
