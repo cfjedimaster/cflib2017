@@ -4,16 +4,15 @@ title:  QueryRandomRows
 date:   2002-07-10T16:36:09.000Z
 library: DataManipulationLib
 argString: "theQuery, NumberOfRows"
-author: Shawn Seley and John King
-authorEmail: shawnse@aol.com
-version: 1
-cfVersion: CF5
+author: James Moberg
+authorEmail: james@sunstarmedia.com
+version: 2
+cfVersion: CF10
 shortDescription: Returns specified number of random records.
 tagBased: false
 description: |
  Returns a query object with a specified number of random records from the passed query. Some code based on QuerySlice() by Kevin Bridges (cyberswat@orlandoartistry.com)
  
- Please note that results below will not be random due to caching at cflib.org.
 
 returnValue: Returns a query.
 
@@ -48,40 +47,34 @@ javaDoc: |
   * @param theQuery      The query to return random records from. (Required)
   * @param NumberOfRows      The number of random records to return. (Required)
   * @return Returns a query. 
-  * @author Shawn Seley and John King (shawnse@aol.com) 
+  * @author James Moberg (james@sunstarmedia.com)
   * @version 1, July 10, 2002 
+  * @version 2, January 16, 2018 by James Moberg (sunstarmedia.com)
+    Update to CFFunction to avoid older Q-of-Q bugs. Dupe query, add temporary & random column value and requery w/max rows 
   */
 
 code: |
- function QueryRandomRows(theQuery, NumberOfRows) {
-     var FinalQuery      = QueryNew(theQuery.ColumnList);
-     var x                = 0;
-     var y               = 0;
-     var i               = 0;
-     var random_element  = 0;
-     var random_row      = 0;
-     var row_list        = "";
- 
-     if(NumberOfRows GT theQuery.recordcount) NumberOfRows = theQuery.recordcount;
- 
-     QueryAddRow(FinalQuery, NumberOfRows);
- 
-     // build a list of rows from which we will "scratch off" the randomly selected values in order to avoid repeats
-     for (i=1; i LTE theQuery.RecordCount; i=i+1) row_list = row_list & i & ",";
- 
-     // Build the new query
-     for(x=1; x LTE NumberOfRows; x=x+1){
-         // pick a random_row from row_list and delete that element from row_list (to prevent duplicates)
-         random_element  = RandRange(1, ListLen(row_list));          // pick a random list element
-         random_row      = ListGetAt(row_list, random_element);      // get the corresponding query row number
-         row_list        = ListDeleteAt(row_list, random_element);   // delete the used element from the list
-         for(y=1; y LTE ListLen(theQuery.ColumnList); y=y+1) {
-             QuerySetCell(FinalQuery, ListGetAt(theQuery.ColumnList, y), theQuery[ListGetAt(theQuery.ColumnList, y)][random_row],x);
-         }
-     }
- 
-     return FinalQuery;
- }
+ <CFFUNCTION NAME="QueryRandomRows" returntype="query" output="false" hint="Returns a randomized query">
+     <CFARGUMENT NAME="theQuery" TYPE="query" REQUIRED="yes" HINT="database query">
+     <CFARGUMENT NAME="NumberOfRows" TYPE="numeric" DEFAULT="5" REQUIRED="yes" HINT="maximum number of records to return">
+     <CFSET var Temp = {
+         FinalQuery = Duplicate(Arguments.theQuery),
+         RandomColName = "Random#GetTickCount()#",
+         RandomRowData = [],
+         thisRow = 0
+     }>
+     <CFIF Temp.FinalQuery.RecordCount GT 1>
+         <CFSET Temp.CreateUUIDJava = createobject("java", "java.util.UUID")>
+         <CFLOOP FROM="1" TO="#Temp.FinalQuery.RecordCount#" INDEX="Temp.thisRow">
+             <CFSET arrayAppend(Temp.randomRowData, Temp.CreateUUIDJava.randomUUID().toString() )>
+         </CFLOOP>
+         <CFSET QueryAddColumn(Temp.FinalQuery, Temp.RandomColName, "VarChar", Temp.randomRowData)>
+         <CFQUERY NAME="Temp.FinalQuery" DBTYPE="query" MAXROWS="#Arguments.NumberOfRows#">SELECT #Arguments.theQuery.ColumnList#
+         FROM Temp.FinalQuery
+         ORDER BY #Temp.RandomColName#</CFQUERY>
+     </CFIF>
+     <CFReturn Temp.FinalQuery>
+ </CFFUNCTION>
 
 oldId: 524
 ---
