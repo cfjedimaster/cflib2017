@@ -1,0 +1,3 @@
+{%- assign file = page.url | split:"/" | last -%}
+{%- assign udf = site.udfs | where: "title", file | first -%}
+{{ udf.javaDoc }} {{ udf.code }}
