@@ -37,6 +37,9 @@ collections:
   udfs:
     permalink: /udf/:title
     output: true
+  udfdownload:
+    permalink: /udfdownload/:title
+    output: true
   libraries:
     permalink: /library/:title
     output: true
