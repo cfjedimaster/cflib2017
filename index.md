@@ -36,6 +36,10 @@ about ColdFusion, please visit <a href="http://www.adobe.com/go/coldfusion">Adob
 CFLib.org was created by <a href="https://www.raymondcamden.com">Raymond Camden</a>. 
 Thanks to <a href="http://adamcameroncoldfusion.blogspot.co.uk/">Adam Cameron</a> for quite a bit of help as well.
 </p>
+
+<p>
+The support for CFLib.org UDFs has been re-enabled for ColdBox when <a href="https://commandbox.ortusbooks.com/package-management/code-endpoints/cflib">installed via CommandBox</a>.
+</p>
 </div>
 					
 <div class="submissionAndUpdates clear">
