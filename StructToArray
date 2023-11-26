@@ -1,0 +1,8 @@
+<cffunction name="structToArray" output="false" returntype="array">
+    <cfargument name="struct" type="struct" required="true">
+    <cfset var result = []>
+    <cfloop collection="#arguments.struct#" item="key">
+        <cfset arrayAppend(result, arguments.struct[key])>
+    </cfloop>
+    <cfreturn result>
+</cffunction>
